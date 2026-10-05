@@ -1,0 +1,22 @@
+Stage,Issue found,Action taken,Rows affected
+2 Standardise text,Customer names: mixed case / extra spaces,Trimmed + Title Case,188
+2 Standardise text,Region: inconsistent spelling/case/abbreviations,Mapped to standard labels (alias + fuzzy match),276
+2 Standardise text,Category: inconsistent spelling/case/abbreviations,Mapped to standard labels (alias + fuzzy match),270
+2 Standardise text,Payment method: inconsistent spelling/case/abbreviations,Mapped to standard labels (alias + fuzzy match),149
+3 Fix types,Dates stored as text in 4 different formats,Parsed to one datetime format,1157
+3 Fix types,"unit_price: numbers stored as text with '$' / ','",Converted to float,121
+3 Fix types,"total_amount: numbers stored as text with '$' / ','",Converted to float,100
+4 Duplicates,Exact duplicate rows,Dropped (kept first),60
+4 Duplicates,Repeated order_id after standardising,Dropped (kept first),0
+4 Duplicates,Missing order date (cannot be placed in time),Rows removed,12
+5 Invalid/outliers,Negative quantity (sign entry error),Converted to absolute value,14
+5 Invalid/outliers,"Extreme quantity outliers (> 13, 3xIQR rule)",Capped at 13,9
+6 Missing values,Missing category,Inferred from product,39
+6 Missing values,Missing customer_name,Filled: label as Unknown,90
+6 Missing values,Missing region,Filled: label as Unknown,80
+6 Missing values,Missing payment_method,Filled: label as Unknown,74
+6 Missing values,Missing unit_price,Filled with median of same product,60
+6 Missing values,Missing quantity,Filled with median of same product,69
+6 Missing values,Missing discount_pct,Assumed 0% (no discount),49
+6 Missing values,Missing total_amount,Recalculated = qty x price x (1-discount),54
+6 Missing values,Stored total disagrees after fixes (cap/abs/impute),Overwritten with recalculated value,94

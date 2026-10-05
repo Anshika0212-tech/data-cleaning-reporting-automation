@@ -1,0 +1,1561 @@
+order_id,order_date,customer_name,region,category,product,quantity,unit_price,discount_pct,payment_method,total_amount
+ORD1250,"Mar 12, 2025",Priya Patel,E.,Furniture,Office Chair,3.0,191.71,5.0,Credit Card,546.37
+ORD1466,2025-07-12,Zara Fernando,West,Stationery,Printer Paper,5.0,24.72,0.0,Credit Card,123.6
+ORD1347,"Apr 15, 2025",Lucas Nguyen,South,Stationery,Pen Set,1.0,8.25,5.0,Cash,7.84
+ORD1044,2025-08-25,Arjun Lopez,North,Furniture,Standing Desk,2.0,414.45,0.0,PayPal,828.9
+ORD1514,"Mar 13, 2025",,WEST,Furniture,Standing Desk,3.0,434.05,0.0,Bank Transfer,1302.15
+ORD2472,22-Nov-2025,Kasun Perera,North,Furniture,Bookshelf,3.0,138.0,0.0,BANK TRANSFER,414.0
+ORD1716,18-Dec-2025,Aisha Patel,West,apparel,T-Shirt,5.0,21.86,0.0,Credit Card,109.3
+ORD2292,09-Apr-2025,Sofia Fernando,North,Furniture,Office Chair,5.0,166.81,0.0,Credit Card,834.05
+ORD1721,12-Sep-2025,NIMALI ALI,WEST,Stationery,Printer Paper,3.0,25.48,0.0,Cash,76.44
+ORD2154,28-Aug-2025,Noah Johnson,West,Furniture,Standing Desk,3.0,404.9,0.0,Cash,1214.7
+ORD2094,"Dec 07, 2025",Lucas Kumar,East,Apparel,T-Shirt,5.0,21.83,0.0,PayPal,109.15
+ORD2188,30/11/2025,Sofia Silva,West,Apparel,T-Shirt,5.0,20.44,0.0,Debit Card,102.2
+ORD1452,10-May-2025,Mia Patel,,Stationary,Printer Paper,4.0,24.95,15.0,Credit Card,84.83
+ORD2348,06-Sep-2025,aisha perera,North,Clothing,T-Shirt,1.0,21.89,5.0,Cash,20.8
+ORD1286,28/09/2025,Zara Fernando,SOUTH,Stationery,Printer Paper,1.0,23.15,0.0,Bank Transfer,23.15
+ORD2430,"Jan 09, 2025",Nimali Lopez,N.,Electronics,Smartphone,3.0,585.17,10.0,Debit Card,1579.96
+ORD1168,20/05/2025,Zara Lopez,West,Apparel,T-Shirt,3.0,$21.33,10.0,PayPal,57.59
+ORD1147,30-May-2025,Liam Khan,East,Stationery,Pen Set,4.0,7.93,0.0,Cash,$31.72
+ORD1596,"Jul 22, 2025",Liam Johnson,EAST,Furniture,Bookshelf,6.0,143.06,5.0,Cash,815.44
+ORD1446,25-Jan-2025,Aisha Silva,SOUTH,Apparel,Jacket,3.0,123.75,5.0,Debit Card,352.69
+ORD1572,"Mar 01, 2025",Arjun Ali,North,Apparel,Jacket,2.0,120.81,20.0,Credit Card,193.3
+ORD1587,"Sep 16, 2025",Olivia Johnson,West,Electronics,Smartphone,1.0,604.6,0.0,Credit Card,604.6
+ORD1103,2025-06-30,Sofia Kumar,West,Electronics,Laptop,2.0,825.92,10.0,PayPal,1486.66
+ORD1211,20/02/2025,Chen Nguyen,,Apparel,Jacket,4.0,$138.22,5.0,Cash,525.24
+ORD1757,2025-12-03,Lucas Wong,West,Stationery,Notebook Pack,1.0,12.02,0.0,PayPal,12.02
+ORD1112,07-May-2025,Nimali Lopez,North,Electronics,Laptop,1.0,788.26,0.0,Bank Transfer,788.26
+ORD1651,29-Oct-2025,Arjun Wong,North,Stationery,Notebook Pack,1.0,,5.0,PayPal,10.89
+ORD1766,24/03/2025,,East,Furniture,Standing Desk,1.0,401.12,0.0,Debit Card,401.12
+ORD1670,2025-02-03,Sofia Ali,west,Electronic,Headphones,5.0,111.66,,Debit Card,558.3
+ORD1758,2025-12-21,Arjun Patel,West,Clothing,Running Shoes,2.0,$94.81,5.0,Cash,180.14
+ORD2038,29/12/2025,Ethan Ali,South,Stationery,Printer Paper,1.0,25.86,0.0,PayPal,25.86
+ORD2444,"Dec 03, 2025",Ravi Fernando,East,Apparel,T-Shirt,5.0,21.23,0.0,PayPal,$106.15
+ORD1464,24/06/2025,Ethan Kumar, East,Electronics,Smartphone,2.0,574.66,0.0,Credit Card,1149.32
+ORD1205,2025-07-15,Mia Smith,S.,APPAREL,Running Shoes,3.0,$88.64,15.0,PayPal,226.03
+ORD1312,"Aug 14, 2025",Ethan Garcia,SOUTH,Stationery,Notebook Pack,3.0,11.37,0.0,PayPal,34.11
+ORD1102,"Jul 19, 2025",Aisha Lopez,West,Stationery,Notebook Pack,3.0,12.43,20.0,PayPal,$29.83
+ORD1747,14-Oct-2025,Chen Ali,East,Furniture,Bookshelf,1.0,134.17,10.0,CREDIT CARD,120.75
+ORD1508,28/06/2025,Mia Lopez,West,Electronics,Smartphone,8.0,585.76,0.0,Bank Transfer,"$4,686.08"
+ORD2286,11/04/2025,Emma Perera,,Electronics,Laptop,1.0,830.23,5.0,Debit,788.72
+ORD1260,27-Nov-2025,Olivia Khan,North,Furniture,Bookshelf,4.0,144.93,,Debit Card,550.73
+ORD2029,03/10/2025,ETHAN ALI,North,Stationery,Printer Paper,4.0,25.72,0.0,Bank Transfer,102.88
+ORD1952,"Feb 02, 2025",Ethan Khan,West,Apparel,T-Shirt,8.0,20.6,5.0,Bank Transfer,156.56
+ORD1207,26/08/2025,Sofia Johnson,West,Apparel,Jacket,5.0,135.16,0.0,Credit Card,675.8
+ORD1096,01-Sep-2025,ravi patel,South,Apparel,T-Shirt,,21.88,5.0,Cash,20.79
+ORD2229,"Jun 26, 2025",Ravi Brown,North,Furniture,Bookshelf,4.0,$141.47,15.0,PayPal,481.0
+ORD1413,"Jan 17, 2025",SOFIA SILVA,South ,STATIONERY,Pen Set,6.0,8.46,20.0,cc,40.61
+ORD1038,"May 02, 2025",Priya Johnson,West,STATIONERY,Printer Paper,1.0,26.72,,Debit Card,24.05
+ORD1594,16-Feb-2025,Kasun Kumar,East,Electronics,Smartphone,5.0,555.69,,Bank Transfer,2361.68
+ORD2248,29-May-2025,Olivia Kumar,West,Stationery,Pen Set,5.0,8.85,0.0,Cash,44.25
+ORD1501,31-Mar-2025,Kasun Garcia,West,Stationery,Printer Paper,2.0,24.92,,PayPal,
+ORD2055,2025-12-23,Nimali Nguyen,Nrth,Furniture,Office Chair,2.0,180.08,0.0,Credit Card,360.16
+ORD1038,"May 02, 2025",Priya Johnson,West,STATIONERY,Printer Paper,1.0,26.72,,Debit Card,24.05
+ORD1929,04/08/2025,Sofia Kumar,West,Furniture,Bookshelf,6.0,134.22,20.0,Cash,644.26
+ORD2170,19-Dec-2025,mia brown,North,Apparel,Jacket,2.0,137.23,,PayPal,274.46
+ORD2089,07/08/2025,Ethan Fernando,,Electronics,Smartphone,5.0,558.63,0.0,CREDIT CARD,2793.15
+ORD1849,12/07/2025,Nimali Ali,,Electronics,Laptop,1.0,848.32,0.0,PayPal,848.32
+ORD1072,29/08/2025,Arjun Khan,,Electroncs,Laptop,1.0,878.86,0.0,Cash,878.86
+ORD1708,2025-05-29,Ravi Ali,Est, Furniture ,Standing Desk,2.0,451.39,0.0,PayPal,$902.78
+ORD1061,21-Nov-2025,Priya Wong,West,Apparel,Jacket,2.0,121.96,15.0,Cash,207.33
+ORD1611,"Jun 13, 2025",arjun perera,East,Electronic,Laptop,10.0,863.86,5.0,Credit Card,8206.67
+ORD2228,"Dec 15, 2025",,North,Stationary,Printer Paper,1.0,26.09,0.0,BANK TRANSFER,26.09
+ORD2315,"Jan 19, 2025",Liam Fernando,east,Stationary,Pen Set,1.0,8.35,0.0,cc,8.35
+ORD1118,"Jun 04, 2025",Emma Kumar,North,Apparel,T-Shirt,6.0,22.56,0.0,Cash,135.36
+ORD1729,18-May-2025,Noah Garcia,East,Apparel,Running Shoes,3.0,101.66,15.0,Debit Card,259.23
+ORD1923,22-Dec-2025,,east,Apparel,Running Shoes,3.0,91.08,5.0,PayPal,259.58
+ORD1654,22/09/2025,  Olivia Smith  ,West,Aparel,Running Shoes,5.0,$89.20,0.0,Debit Card,$446.00
+ORD1657,13/06/2025,Noah Smith,West,,Standing Desk,,388.16,0.0,Bank Transfer,776.32
+ORD1705,14/06/2025,Nimali Perera,,Electronics,Laptop,1.0,903.58,5.0,Debit Card,858.4
+ORD2222,"Nov 10, 2025",Nimali Kumar,North,Apparel,T-Shirt,1.0,$22.18,0.0,Bank Transfer,22.18
+ORD1287,2025-05-09,Liam Johnson,West,Electroncs,Headphones,3.0,111.66,10.0,CREDIT CARD,301.48
+ORD2201,16/06/2025,Arjun Smith,South,Electronics,Smartphone,1.0,$606.80,0.0,PayPal,
+ORD1342,2025-11-16,Lucas Lopez,NORTH,Apparel,Jacket,10.0,139.24,0.0,Credit Card,"$1,392.40"
+ORD2347,2025-05-13,Priya Johnson,South,Electronics,Laptop,3.0,860.58,15.0,Credit Card,2194.48
+ORD1907,2025-10-08,Liam Perera,West,Stationery ,Pen Set,5.0,7.85,15.0,Bank Transfer,33.36
+ORD1276,2025-12-29,Noah Patel,West ,Apparel,Running Shoes,8.0,92.66,0.0,Cash,741.28
+ORD1719,12-Apr-2025,Nimali Kumar,East,Stationery,Pen Set,1.0,8.15,0.0,Bank Transfer,$8.15
+ORD2466,03-Aug-2025,ethan johnson,East, Furniture ,Standing Desk,5.0,406.33,0.0,,2031.65
+ORD2450,"Sep 15, 2025",Liam Kumar,North,Electronics,Headphones,,126.26,5.0,cash ,359.84
+ORD1180,"Dec 21, 2025",,North,Apparel,Running Shoes,1.0,94.25,0.0,Cash,94.25
+ORD2096,25/08/2025,Kasun Patel,East,Stationery,Pen Set,1.0,8.35,10.0,credit card,7.51
+ORD1141,13-Feb-2025,Arjun Smith,West,Furniture,Standing Desk,5.0,439.46,0.0,Bank Transfer,2197.3
+ORD2278,"Mar 25, 2025",Emma Khan,South,Furniture,Bookshelf,5.0,147.25,0.0,BANK TRANSFER,736.25
+ORD2449,10/01/2025,Mia Patel,East,electronics,Laptop,3.0,830.02,10.0,Debit Card,2241.05
+ORD2124,2025-09-04,Noah Fernando,,Apparel,Running Shoes,4.0,90.72,5.0,PayPal,344.74
+ORD1653,10/02/2025,Ethan Lopez,North,Furniture,Standing Desk,3.0,414.71,5.0,Bank Transfer,1181.92
+ORD1621,"Dec 27, 2025",Olivia Kumar,North,Apparel,Running Shoes,5.0,97.37,0.0,credit card,486.85
+ORD1841,25-Feb-2025,Aisha Khan,,ELECTRONICS,Headphones,4.0,112.98,0.0,Debit Card,451.92
+ORD2107,30-Sep-2025,,West,Stationery,Pen Set,5.0,8.87,5.0,Debit Card,42.13
+ORD1667,"Aug 15, 2025",Lucas Patel,West,Furnature,Standing Desk,1.0,405.36,0.0,,405.36
+ORD1669,06/09/2025,Mia Lopez,North,Apparel,T-Shirt,1.0,22.91,0.0,Bank Transfer,22.91
+ORD1064,2025-08-15,Zara Wong,North,Apparel,T-Shirt,1.0,20.57,15.0,Credit Card,17.48
+ORD1102,"Jul 19, 2025",Aisha Lopez,West,Stationery,Notebook Pack,3.0,12.43,20.0,PayPal,$29.83
+ORD2488,29/07/2025,Emma Smith,East,Apparel,Running Shoes,2.0,102.55,0.0,Bank Transfer,205.1
+ORD1059,16/05/2025,Emma Smith,South,Electronics,Headphones,,$113.75,5.0,Cash,324.19
+ORD1173,05/09/2025,Mia Garcia,West,Stationery,Printer Paper,2.0,$26.24,20.0,PayPal,41.98
+ORD2260,"Sep 26, 2025",Lucas Smith,West,Stationery,Pen Set,3.0,8.71,15.0,Credit Card,22.21
+ORD1955,14-Apr-2025,Emma Brown,South,Electronics,Laptop,8.0,861.1,0.0,Credit Card,6888.8
+ORD2428,07-Sep-2025,Sofia Nguyen,East,apparel,T-Shirt,4.0,20.98,0.0,PayPal,83.92
+ORD2317,19-Oct-2025,Chen Johnson,West,Electronics,Smartphone,1.0,574.45,0.0,PayPal,574.45
+ORD1475,"Mar 13, 2025",Priya Patel,E.,ELECTRONICS,Headphones,1.0,113.25,20.0,PayPal,90.6
+ORD2329,"Dec 20, 2025",Nimali Garcia,west,Electronics,Smartphone,5.0,641.32,0.0,Bank Transfer,3206.6
+ORD1895,21-Apr-2025,Priya Brown,North,Electronics,Laptop,1.0,833.56,0.0,,833.56
+ORD1700,03-Apr-2025,Noah Brown,East,Furniture,Bookshelf,3.0,146.67,0.0,Debit Card,440.01
+ORD1978,03-Jun-2025,Liam Ali,West,Aparel,Jacket,3.0,121.23,5.0,Credit Card,345.51
+ORD2385,27-Jan-2025,lucas khan,West,electronics,Laptop,4.0,830.5,0.0,Cash,3322.0
+ORD2474,26/02/2025,Liam Lopez,East,Stationery,Printer Paper,1.0,23.39,20.0,Cash,
+ORD2393,"Aug 12, 2025",,West,Furniture,Bookshelf,3.0,,0.0,Debit Card,441.0
+ORD1937,2025-11-23,Sofia Khan,East,Stationery,Pen Set,2.0,8.8,0.0,Credit Card,17.6
+ORD2328,2025-10-20,  Ethan Garcia  ,North,Stationery,Notebook Pack,5.0,11.47,0.0,,57.35
+ORD1991,13/01/2025,Sofia Fernando,East,Apparel,Jacket,2.0,122.99,,Bank Transfer,221.38
+ORD1117,12-Apr-2025,  Noah Nguyen  ,South,Apparel,T-Shirt,2.0,22.44,5.0,Credit Card,42.64
+ORD1433,2025-04-08,,West,Stationery,Printer Paper,1.0,23.42,5.0,CREDIT CARD,$22.25
+ORD1028,2025-04-12,Olivia Garcia,South,Apparel,Running Shoes,,92.43,0.0,Bank Transfer,277.29
+ORD1128,04-May-2025,,west,Stationery,Printer Paper,4.0,25.52,15.0,PayPal,86.77
+ORD1010,"Oct 23, 2025",Nimali Ali,North,Furniture,Bookshelf,2.0,$142.07,0.0,Credit Card,284.14
+ORD1182,"Nov 13, 2025",Noah Khan,East,electronics,Laptop,4.0,866.07,0.0,Debit Card,3464.28
+ORD1314,06-Aug-2025,Noah Silva,South,Apparel,T-Shirt,3.0,21.2,5.0,CREDIT CARD,60.42
+ORD2299,09/06/2025,Ravi Khan,West,APPAREL,Running Shoes,4.0,99.93,0.0,Cash,399.72
+ORD2035,"Jan 13, 2025",Kasun Brown,South,Stationery,Pen Set,8.0,8.41,0.0,PayPal,67.28
+ORD2341,17-Mar-2025,Arjun Fernando,east,Stationery,Pen Set,2.0,8.15,5.0,PayPal,15.48
+ORD1644,17-Nov-2025,Chen Khan,Nrth,Apparel,Jacket,1.0,131.66,5.0,credit card,$125.08
+ORD2227,18-Apr-2025,Arjun Garcia,,Apparel,T-Shirt,5.0,21.62,10.0,Cash,97.29
+ORD2484,2025-11-22,Zara Brown,West,Stationery,Pen Set,4.0,8.39,5.0,PayPal,31.88
+ORD2103,28/02/2025,Ravi Garcia,North,Stationery,Pen Set,2.0,7.91,0.0,PayPal,15.82
+ORD1142,"Nov 13, 2025",,West,Apparel,Running Shoes,2.0,88.27,5.0,PayPal,167.71
+ORD2499,2025-05-23,  Noah Lopez  ,S.,Apparel,T-Shirt,4.0,$22.39,0.0,,89.56
+ORD1782,13/11/2025,Chen Wong,North, Furniture ,Office Chair,2.0,192.72,5.0,Credit Card,366.17
+ORD2090,2025-06-09,Lucas Lopez,South,Furniture,Bookshelf,500.0,142.88,5.0,Bank Transfer,407.21
+ORD1397,02/09/2025,Lucas Khan,north,Electronics,Headphones,2.0,124.0,0.0,,248.0
+ORD2295,"Apr 20, 2025",Arjun Silva,NORTH,stationery,Notebook Pack,8.0,11.46,,Cash,77.93
+ORD2468,"Nov 26, 2025",Nimali Wong,West,Stationery,Pen Set,2.0,8.15,0.0,Cash,16.3
+ORD1359,28/05/2025,,Wst,stationery,Printer Paper,10.0,24.71,0.0,Bank Transfer,247.1
+ORD1983,2025-11-01,,WEST,Stationary,Pen Set,2.0,8.51,0.0,Cash,17.02
+ORD1018,13-Sep-2025,Ethan Johnson,West,apparel,Jacket,5.0,139.14,15.0,Debit Card,591.34
+ORD1836,23/11/2025,aisha ali,East,Apparel,Running Shoes,1.0,$100.38,0.0,Credit Card,100.38
+ORD1859,"Jul 16, 2025",Ethan Nguyen,East,Electronics,Laptop,1.0,869.1,20.0,Bank Transfer,695.28
+ORD1936,19/11/2025,Liam Ali,North,Electronics,Headphones,10.0,124.94,0.0,Cash,
+ORD1519,"May 28, 2025",Kasun Kumar,,Stationary,Printer Paper,-1.0,23.85,5.0,Bank Transfer,22.66
+ORD2039,"Jul 14, 2025",Liam Kumar,South ,Stationery,Printer Paper,1.0,26.51,10.0,Cash,23.86
+ORD1119,08/08/2025,Mia Smith,E.,Stationery,Printer Paper,1.0,25.57,0.0,Credit Card,25.57
+ORD2493,"Feb 04, 2025",Liam Silva,West,Furniture,Bookshelf,2.0,136.81,5.0,Bank Transfer,259.94
+ORD1325,,Chen Wong,West,Apparel,T-Shirt,4.0,21.0,,Bank Transfer,
+ORD1814,"Apr 11, 2025",Priya Ali,North,Stationery,Printer Paper,1.0,25.21,5.0,Credit Card,23.95
+ORD2153,"Nov 28, 2025",Kasun Smith,South,Clothing,Jacket,2.0,133.97,,Cash,254.54
+ORD2376,18-Oct-2025,  Emma Perera  ,W.,Electronics,Headphones,4.0,123.45,15.0,Debit,419.73
+ORD1526,31-Jan-2025,Mia Wong,East,Furniture,Office Chair,1.0,166.28,5.0,Bank Transfer,157.97
+ORD1739,"Mar 22, 2025",,West,Aparel,Jacket,4.0,125.94,10.0,credit card,453.38
+ORD1957,2025-12-26,Priya Perera,East,Apparel,Running Shoes,1.0,92.77,15.0,Debit Card,78.85
+ORD1455,14-Jul-2025,Ethan Wong,West,Stationery,Notebook Pack,-3.0,12.25,10.0,Credit Card,33.08
+ORD1201,"Sep 04, 2025",Sofia Ali,East, Furniture ,Standing Desk,1.0,405.12,0.0,Credit Card,405.12
+ORD2414,06-Apr-2025,Zara Johnson,West,Apparel,Running Shoes,2.0,97.67,0.0,Credit Card,195.34
+ORD1253,2025-01-22,Zara Perera,West,Stationery,Notebook Pack,3.0,12.06,15.0,BANK TRANSFER,30.75
+ORD1024,2025-10-11,Aisha Johnson,North,Furniture,Standing Desk,10.0,438.29,0.0,Bank Transfer,4382.9
+ORD1349,15/10/2025,Emma Garcia,South,Stationery,Printer Paper,6.0,25.46,0.0,PayPal,152.76
+ORD1493,24-Feb-2025,Aisha Smith,EAST,Stationery,Notebook Pack,5.0,12.5,10.0,Debit Card,56.25
+ORD1641,11/10/2025,Priya Johnson,East,Apparel,T-Shirt,4.0,20.25,5.0,Cash,76.95
+ORD2017,05/06/2025,Ravi Ali,East,Stationery,Notebook Pack,2.0,11.55,0.0,Debit Card,23.1
+ORD1737,25-Sep-2025,EMMA SILVA,South,Stationary,Printer Paper,1.0,26.64,10.0,PayPal,23.98
+ORD1375,10-Jun-2025,KASUN BROWN,East,Stationery,Notebook Pack,6.0,$12.59,5.0,Bank Transfer,71.76
+ORD1371,2025-12-25,Emma Khan,,Apparel,Running Shoes,5.0,90.81,0.0,PayPal,$454.05
+ORD1352,2025-06-17,Lucas Khan,South,electronics,Headphones,5.0,129.56,,PayPal,647.8
+ORD1684,"Dec 06, 2025",Mia Wong,East,Stationery,Printer Paper,1.0,24.83,0.0,Cash,24.83
+ORD1894,09-May-2025,Liam Silva,North, Furniture ,Standing Desk,2.0,404.38,10.0,cash ,727.88
+ORD2436,27/01/2025,Lucas Perera,North,Stationery,Notebook Pack,1.0,11.96,5.0,PayPal,11.36
+ORD1743,2025-08-17,Lucas Smith,West,Stationery,Pen Set,2.0,8.63,0.0,Credit Card,17.26
+ORD2272,2025-03-25,Liam Patel,East,Furniture,Bookshelf,3.0,134.46,5.0,,383.21
+ORD1092,"Apr 23, 2025",Kasun Kumar,West,Stationery,Notebook Pack,8.0,12.02,5.0,Credit Card,91.35
+ORD2313,"Oct 04, 2025",  Aisha Kumar  , North ,Furniture,Bookshelf,2.0,132.39,0.0,PayPal,264.78
+ORD1678,2025-04-24,Arjun Johnson,South,Furniture,Office Chair,3.0,178.96,20.0,cash ,429.5
+ORD2146,2025-12-02,Ethan Brown,S.,Furniture,Standing Desk,2.0,401.78,5.0,Bank Transfer,763.38
+ORD1014,2025-11-22,Kasun Wong,South,,Running Shoes,2.0,89.25,0.0,Debit Card,178.5
+ORD1109,2025-08-21,Lucas Garcia,West,Furniture,Office Chair,8.0,186.85,5.0,Cash,"$1,420.06"
+ORD1326,15/05/2025,  Priya Ali  ,West,Electronics,Smartphone,1.0,609.13,0.0,Debit Card,609.13
+ORD2298,2025-09-10,Emma Silva,east,Furniture,Bookshelf,3.0,143.97,0.0,PayPal,431.91
+ORD2368,22/10/2025,Noah Smith,South,Furniture,Bookshelf,2.0,141.08,0.0,Debit Card,282.16
+ORD1285,14/12/2025,Ravi Brown,East,FURNITURE,Bookshelf,1.0,148.92,,PayPal,148.92
+ORD1035,"Apr 26, 2025",Noah Garcia,NORTH,Furniture,Office Chair,2.0,180.25,15.0,Bank Transfer,$306.43
+ORD2083,"Aug 14, 2025",  Emma Patel  ,South, Furniture ,Bookshelf,2.0,138.03,15.0,Debit Card,234.65
+ORD1099,11-Feb-2025,Olivia Fernando,South,Stationery,Printer Paper,1.0,25.09,10.0,PayPal,22.58
+ORD1877,13-Apr-2025,Arjun Ali,south,apparel,T-Shirt,2.0,,5.0,Cash,41.04
+ORD1408,"Feb 16, 2025",  Ravi Kumar  ,North,Stationery,Pen Set,1.0,8.41,15.0,BANK TRANSFER,7.15
+ORD2253,"Aug 17, 2025",noah wong,West,Stationery,Printer Paper,1.0,24.37,0.0,Debit Card,24.37
+ORD2086,06-May-2025,KASUN SMITH,E.,Apparel,Running Shoes,1.0,97.92,0.0,Bank Transfer,97.92
+ORD2481,17-Feb-2025,Liam Silva,South,Electronics,Smartphone,6.0,631.74,0.0,PayPal,3790.44
+ORD1735,2025-09-07,,West,Stationery ,Pen Set,2.0,7.88,10.0,Credit Card,14.18
+ORD1857,16-Mar-2025,Chen Nguyen,West,Electronics,Smartphone,5.0,641.21,0.0,Credit Card,3206.05
+ORD2384,2025-08-05,  Priya Smith  ,North,Apparel,T-Shirt,5.0,20.66,0.0,Bank Transfer,103.3
+ORD1341,2025-02-17,Kasun Nguyen,South,Stationery,Printer Paper,4.0,24.19,15.0,BANK TRANSFER,82.25
+ORD1187,2025-02-10,Ethan Nguyen,SOUTH,Electronics,Headphones,4.0,122.31,10.0,Debit,440.32
+ORD1977,"Mar 30, 2025",Chen Lopez,,Stationery,Pen Set,4.0,8.35,5.0,Bank Transfer,31.73
+ORD2232,2025-02-09,Emma Fernando,,Furniture,Standing Desk,-1.0,409.59,0.0,Credit Card,409.59
+ORD1025,"Nov 25, 2025",lucas smith,East,Furniture,Standing Desk,1.0,441.2,10.0,PayPal,397.08
+ORD1111,"Jun 29, 2025",Arjun Johnson,north,ELECTRONICS,Laptop,2.0,885.07,0.0,Credit Card,1770.14
+ORD1016,28-Apr-2025,Liam Kumar,East,Electronics,Laptop,3.0,824.39,5.0,PayPal,2349.51
+ORD1649,15-May-2025,Arjun Lopez,Est,Stationery,Pen Set,999.0,8.52,0.0,Bank Transfer,42.6
+ORD2218,26/10/2025,AISHA BROWN,West,apparel,T-Shirt,2.0,23.15,0.0,Debit Card,46.3
+ORD1870,09-May-2025,RAVI SILVA,West,Apparel,Running Shoes,1.0,98.15,0.0,Debit Card,98.15
+ORD1263,22-Nov-2025,lucas lopez,East,Apparel,Jacket,3.0,127.94,0.0,Debit Card,383.82
+ORD1148,"Aug 21, 2025",Noah Johnson,SOUTH,Apparel,T-Shirt,10.0,21.56,0.0,Cash,215.6
+ORD2121,"Aug 06, 2025",Aisha Nguyen,West,Electronics,Headphones,5.0,115.62,5.0,Debit Card,549.2
+ORD1451,"Feb 19, 2025",  Olivia Khan  ,South,Electronics,Smartphone,6.0,607.55,0.0,Bank Transfer,3645.3
+ORD1242,2025-09-29,Nimali Silva,West,Electronics,Smartphone,4.0,$607.15,10.0,PayPal,"$2,185.74"
+ORD1867,10-Apr-2025,Ravi Silva,,Apparel,Running Shoes,1.0,89.43,5.0,Cash,84.96
+ORD1485,31-Oct-2025,Kasun Johnson,North,Furniture,Office Chair,6.0,182.03,0.0,PayPal,1092.18
+ORD1778,09/10/2025,Mia Smith,East,Apparel,Running Shoes,1.0,,5.0,Bank Transfer,91.75
+ORD1186,29-Sep-2025,Zara Nguyen,South,Furniture,Office Chair,2.0,169.46,0.0,Debit Card,338.92
+ORD1279,"Sep 06, 2025",Nimali Khan,South,Furniture,Bookshelf,2.0,138.18,15.0,Debit Card,234.91
+ORD1749,2025-05-30,Mia Ali, North ,Apparel,Jacket,6.0,130.45,0.0,Debit,782.7
+ORD1846,"Oct 29, 2025",Emma Silva,S.,,Bookshelf,-5.0,145.39,0.0,Cash,726.95
+ORD1264,04-Feb-2025,Chen Brown,East,Stationery,Pen Set,8.0,,5.0,cc,61.03
+ORD1100,"Mar 20, 2025",Nimali Smith,West ,Apparel,T-Shirt,1.0,22.43,0.0,PayPal,22.43
+ORD1005,23-Apr-2025,Ravi Nguyen,East,stationery,Notebook Pack,5.0,11.45,,Credit Card,57.25
+ORD1603,25-Aug-2025,Liam Fernando,W.,Electronics,Laptop,3.0,807.19,0.0,PayPal,2421.57
+ORD1047,31-Jan-2025,Kasun Silva,North,stationery,Notebook Pack,2.0,$12.91,20.0,PayPal,20.66
+ORD1490,21/12/2025,Zara Wong,North,Stationery,Printer Paper,2.0,26.48,10.0,credit card,47.66
+ORD1295,12/05/2025,NIMALI LOPEZ,South,Electronics,Laptop,1.0,796.16,10.0,Bank Transfer,716.54
+ORD1194,2025-12-04,Ethan Patel,Nrth,Electronics,Laptop,1.0,844.44,20.0,,675.55
+ORD1547,2025-03-12,Ethan Kumar,,Furniture,Standing Desk,10.0,$448.69,5.0,Debit Card,4262.55
+ORD1485,31-Oct-2025,Kasun Johnson,North,Furniture,Office Chair,6.0,182.03,0.0,PayPal,1092.18
+ORD1699,2025-06-25,Zara Nguyen,West,Furniture,Office Chair,1.0,188.43,5.0,Debit Card,179.01
+ORD2039,"Jul 14, 2025",Liam Kumar,South ,Stationery,Printer Paper,1.0,26.51,10.0,Cash,23.86
+ORD1190,"Oct 07, 2025",Kasun Smith,West,Apparel,Jacket,2.0,138.41,0.0,Cash,276.82
+ORD2314,2025-07-16,Ravi Garcia,W.,electronics,Smartphone,2.0,624.7,15.0,PayPal,"$1,061.99"
+ORD1027,"Sep 17, 2025",Emma Lopez,EAST,Electronics,Headphones,2.0,112.62,15.0,Bank Transfer,191.45
+ORD2247,"Jun 13, 2025",Olivia Perera,,Stationery,Pen Set,,8.61,15.0,Cash,29.27
+ORD2047,2025-10-13,Nimali Perera,,Apparel,Jacket,3.0,121.02,0.0,,363.06
+ORD2027,14/07/2025,Lucas Silva,North,APPAREL,T-Shirt,1.0,23.57,10.0,Bank Transfer,21.21
+ORD1417,"Jan 12, 2025",Sofia Brown,West,Electronics,Laptop,8.0,865.86,10.0,Bank Transfer,6234.19
+ORD2163,"Dec 25, 2025",Lucas Silva,North,Electronics,Headphones,2.0,111.4,0.0,Bank Transfer,222.8
+ORD1542,2025-12-25,Arjun Silva,,Apparel,T-Shirt,8.0,20.86,5.0,BANK TRANSFER,158.54
+ORD2352,04-Mar-2025,Lucas Garcia,West,Apparel,Running Shoes,3.0,99.25,,CREDIT CARD,297.75
+ORD1902,"Mar 24, 2025",lucas khan,East,Electronics,Smartphone,1.0,$625.94,10.0,Cash,563.35
+ORD2383,"Jun 15, 2025",Ethan Johnson,South,Electronics,Headphones,1.0,118.12,10.0,CREDIT CARD,106.31
+ORD1863,2025-05-03,Aisha Fernando,North,Furniture,Bookshelf,1.0,144.09,0.0,Cash,144.09
+ORD2123,18-Oct-2025,Chen Ali,E.,Electroncs,Laptop,2.0,818.65,0.0,Credit Card,1637.3
+ORD1958,2025-02-06,Aisha Khan,West,Apparel,Running Shoes,8.0,100.97,0.0,Credit Card,807.76
+ORD1345,2025-05-06,Ethan Patel,west,STATIONERY,Pen Set,1.0,7.98,0.0,Credit Card,7.98
+ORD1114,"Aug 27, 2025",PRIYA KUMAR, East,Furniture,Office Chair,1.0,179.76,0.0,Debit Card,179.76
+ORD1229,28-Feb-2025,Nimali Silva,West,Apparel,T-Shirt,8.0,22.2,5.0,Debit Card,168.72
+ORD1772,"Dec 27, 2025",Mia Kumar,South,Apparel,Jacket,4.0,140.25,0.0,Debit Card,561.0
+ORD1052,"Mar 03, 2025",arjun nguyen,North,Stationery,Notebook Pack,2.0,12.93,0.0,Bank Transfer,25.86
+ORD2048,"Dec 01, 2025",Mia Perera,South,Electroncs,Laptop,8.0,861.49,5.0,Credit Card,6547.32
+ORD1861,23-Sep-2025,Sofia Khan,North,Apparel,Jacket,1.0,138.08,5.0,Bank Transfer,
+ORD1582,30/04/2025,Mia Johnson,north,Electronics,Laptop,1.0,838.6,0.0,Cash,838.6
+ORD1379,21/05/2025,Sofia Smith,West,STATIONERY,Printer Paper,4.0,23.3,15.0,PayPal,79.22
+ORD1327,2025-05-27,Chen Khan,,Apparel,Running Shoes,2.0,$96.47,0.0,Debit Card,192.94
+ORD1799,2025-10-12,Olivia Smith,North,Stationery,Printer Paper,6.0,24.38,0.0,Credit Card,146.28
+ORD1370,29-Mar-2025,Ethan Fernando,South,Stationery,Pen Set,4.0,8.77,0.0,Credit Card,35.08
+ORD2129,19-Jan-2025,SOFIA ALI,East,Electronics,Headphones,1.0,127.28,0.0,Credit Card,127.28
+ORD2379,04/11/2025,Nimali Lopez,East,Furniture,Office Chair,3.0,166.07,10.0,Debit Card,448.39
+ORD2117,09-Jan-2025,Olivia Ali,West,Apparel,Jacket,2.0,124.62,0.0,PayPal,249.24
+ORD1411,02/01/2025,Nimali Nguyen,NORTH,Furnature,Standing Desk,6.0,401.85,0.0,Credit Card,2411.1
+ORD1384,23/11/2025,Arjun Perera,North,,Office Chair,6.0,186.0,10.0,PayPal,1004.4
+ORD1673,2025-04-12,priya garcia,West,,T-Shirt,2.0,23.41,0.0,Bank Transfer,46.82
+ORD2077,2025-04-08,Lucas Brown,East,Electronics,Headphones,1.0,$114.67,,Cash,108.94
+ORD2461,04/08/2025,Arjun Fernando,,Stationery,Printer Paper,1.0,23.28,5.0,cash ,22.12
+ORD1165,15-Jan-2025,Arjun Ali,SOUTH,Electronics,Smartphone,1.0,570.06,0.0,,
+ORD1949,2025-03-21,Ravi Patel,East,Stationery,Printer Paper,3.0,24.43,10.0,Bank Transfer,65.96
+ORD1569,02/02/2025,Priya Ali,North,Stationery,Printer Paper,2.0,23.42,5.0,PayPal,44.5
+ORD1208,"Jan 24, 2025",Liam Patel,West,Electronics,Headphones,1.0,117.51,0.0,Credit Card,117.51
+ORD1288,2025-02-22,Emma Patel,North,Stationery,Printer Paper,2.0,25.1,0.0,Debit Card,50.2
+ORD1790,2025-08-24,Lucas Perera,North,Electronics,Laptop,3.0,828.67,10.0,Credit Card,2237.41
+ORD1329,13/06/2025,Mia Ali,Nrth,,Jacket,4.0,$129.91,5.0,Bank Transfer,493.66
+ORD2327,"Dec 23, 2025",Chen Nguyen,North,Electronic,Laptop,1.0,839.95,10.0,Cash,755.96
+ORD1021,10-Sep-2025,Noah Kumar, North ,Stationery,Printer Paper,2.0,24.09,10.0,Credit Card,$43.36
+ORD1612,"Sep 29, 2025",Mia Kumar,South.,Stationery,Pen Set,4.0,$8.92,5.0,Debit Card,33.9
+ORD2194,2025-04-10,Emma Kumar,South,Electronics,Laptop,2.0,847.71,10.0,PayPal,1525.88
+ORD1791,2025-04-02,Priya Wong,North,Electronics,Laptop,3.0,897.0,5.0,,2556.45
+ORD1692,"Oct 13, 2025",,N.,,Jacket,999.0,137.9,15.0,PayPal,703.29
+ORD1393,27/02/2025,Lucas Fernando,West,Furniture,Office Chair,5.0,168.68,10.0,Cash,759.06
+ORD2490,05/06/2025,Sofia Brown,North,Furniture,Bookshelf,1.0,150.06,15.0,Debit Card,127.55
+ORD2269,2025-05-13,Chen Ali,North,Stationery,Notebook Pack,1.0,12.9,0.0,Cash,12.9
+ORD1355,"Jan 25, 2025",Liam Patel,West,Furniture,Bookshelf,4.0,138.16,0.0,Bank Transfer,552.64
+ORD2277,"Mar 12, 2025",  Sofia Garcia  ,West,Electronics,Laptop,5.0,812.09,0.0,PayPal,4060.45
+ORD1453,2025-07-27,Ravi Nguyen,,Furniture,Bookshelf,6.0,138.25,0.0,Debit Card,829.5
+ORD2267,2025-11-27,Arjun Perera,north,Apparel,T-Shirt,1.0,,0.0,Cash,22.24
+ORD1566,06-Jan-2025,,East,Apparel,T-Shirt,1.0,20.33,0.0,Bank Transfer,20.33
+ORD2150,26/05/2025,Priya Khan,,Furniture,Office Chair,4.0,182.68,0.0,credit card,730.72
+ORD2064,18/12/2025,Lucas Garcia,West ,Electronic,Smartphone,250.0,,15.0,Bank Transfer,2471.59
+ORD1398,2025-05-01,Ravi Kumar,East,Stationery,Notebook Pack,3.0,11.7,5.0,Cash,$33.34
+ORD1129,2025-02-17,Sofia Khan,West,Electronic,Laptop,4.0,,0.0,Debit Card,3565.08
+ORD1309,08/06/2025,Ethan Lopez,West,furniture,Bookshelf,2.0,129.3,0.0,Cash,258.6
+ORD1415,12-Jul-2025,Noah Johnson,South,STATIONERY,Notebook Pack,5.0,12.66,10.0,Cash,56.97
+ORD1922,"Feb 10, 2025",Zara Johnson,South,Furniture,Standing Desk,2.0,395.42,20.0,Bank Transfer,$632.67
+ORD1903,30-May-2025,Priya Nguyen,W.,Apparel,Jacket,1.0,125.12,0.0,Cash,125.12
+ORD2173,2025-11-26,Sofia Brown,West,Stationery,Printer Paper,1.0,24.54,0.0,Credit Card,24.54
+ORD1368,2025-06-07,Aisha Nguyen,West,Apparel,Running Shoes,10.0,100.83,15.0,Cash,857.05
+ORD1152,28/08/2025,Sofia Ali,WEST,Electronics,Smartphone,6.0,562.67,0.0,Cash,3376.02
+ORD2012,09-Mar-2025,Nimali Johnson,South,Stationery,Printer Paper,1.0,24.11,0.0,Bank Transfer,24.11
+ORD2022,09/09/2025,Chen Fernando,South,Stationery,Notebook Pack,3.0,12.29,0.0,Debit Card,36.87
+ORD1622,07-Feb-2025,Mia Ali,West, Furniture ,Bookshelf,3.0,150.86,15.0,Bank Transfer,$384.69
+ORD1801,26/06/2025,Nimali Silva,South,Furnature,Office Chair,2.0,167.67,0.0,Debit Card,335.34
+ORD2426,10/01/2025,Aisha Silva, North ,Stationery,Printer Paper,3.0,24.61,,Credit Card,73.83
+ORD1981,"Sep 26, 2025",Liam Garcia,South,furniture,Standing Desk,1.0,426.82,0.0,Cash,426.82
+ORD1331,18/09/2025,Arjun Smith,South.,Furniture,Bookshelf,5.0,144.36,0.0,Debit Card,721.8
+ORD2239,06/06/2025,kasun kumar,east,Electronics,Headphones,10.0,$116.39,0.0,Debit Card,1163.9
+ORD1448,"Jul 11, 2025",Liam Nguyen,West,Stationery,Pen Set,2.0,9.0,10.0,paypal,16.2
+ORD2492,2025-04-04,Chen Perera,North,Furniture,Office Chair,2.0,184.87,0.0,Bank Transfer,369.74
+ORD1416,02-Apr-2025,Ethan Wong,South,Electronics,Smartphone,3.0,564.6,0.0,Debit Card,1693.8
+ORD1636,31-May-2025,aisha garcia,Est,Electronics,Laptop,,912.3,0.0,Credit Card,912.3
+ORD1805,25-Oct-2025,Chen Garcia,East,Apparel,T-Shirt,2.0,$20.34,5.0,Debit Card,38.65
+ORD1830,2025-04-06,Kasun Garcia,North,Electronics,Headphones,,121.7,0.0,Debit Card,730.2
+ORD2171,"Apr 08, 2025",Olivia Perera,,apparel,T-Shirt,2.0,20.48,20.0,Credit Card,32.77
+ORD2470,21-Jun-2025,Ethan Ali,South ,Stationery,Printer Paper,1.0,24.53,5.0,Bank Transfer,23.3
+ORD1502,27-Jul-2025,  Kasun Fernando  ,West,Furniture,Office Chair,2.0,176.55,0.0,PayPal,$353.10
+ORD1563,2025-08-12,ARJUN PERERA,South,Apparel,T-Shirt,8.0,21.95,5.0,Credit Card,166.82
+ORD1351,2025-05-29,Ethan Lopez,West,Electronics,Laptop,6.0,853.94,15.0,credit card,
+ORD1559,"Jan 31, 2025",Ethan Wong,East,Electronics,Laptop,5.0,823.44,0.0,Bank Transfer,
+ORD1056,2025-04-20,Priya Fernando,East,STATIONERY,Printer Paper,5.0,24.28,0.0,Credit Card,121.4
+ORD2078,20-Feb-2025,olivia khan,North,electronics,Headphones,3.0,115.11,0.0,PayPal,345.33
+ORD2212,"Oct 30, 2025",Olivia Nguyen,North,Furniture,Office Chair,2.0,168.3,0.0,Debit,336.6
+ORD1752,2025-08-23,Nimali Ali,E.,Furniture,Office Chair,5.0,190.91,5.0,Credit Card,906.82
+ORD1427,"Jan 25, 2025",mia johnson,West,Stationary,Pen Set,1.0,8.5,5.0,Bank Transfer,8.07
+ORD1364,2025-03-18,OLIVIA GARCIA,East,Stationary,Pen Set,1.0,9.1,5.0,Debit Card,
+ORD2054,"Dec 22, 2025",Priya Garcia,West,Electronics,Smartphone,1.0,594.62,0.0,Bank Transfer,594.62
+ORD1171,"May 17, 2025",  Aisha Patel  ,East,Stationery,Printer Paper,3.0,24.67,15.0,Bank Transfer,62.91
+ORD2382,26/10/2025,Ravi Smith, North ,Furniture,Bookshelf,5.0,149.37,5.0,PayPal,709.51
+ORD1666,09-Sep-2025,Emma Lopez,South,Furniture,Standing Desk,3.0,450.68,0.0,,1352.04
+ORD2395,2025-04-28,Kasun Perera,West,Electronics,Laptop,4.0,824.87,0.0,Cash,3299.48
+ORD2011,2025-08-07,sofia nguyen,East,Electronic,Headphones,,118.43,10.0,Debit,106.59
+ORD1265,29-Jan-2025,Mia Wong,North,Apparel,Running Shoes,2.0,96.69,0.0,Cash,193.38
+ORD1713,"Dec 05, 2025",Emma Johnson, North ,Electronics,Laptop,1.0,881.48,0.0,Credit Card,881.48
+ORD1298,"Feb 02, 2025",Emma Lopez,West,Stationery,Pen Set,6.0,8.95,0.0,Bank Transfer,53.7
+ORD1531,14-Mar-2025,Priya Johnson,West,Stationary,Pen Set,4.0,,0.0,PayPal,36.68
+ORD1557,2025-07-07,Kasun Kumar,West,Stationary,Notebook Pack,1.0,,0.0,Credit Card,12.61
+ORD2166,2025-10-02,Mia Garcia,east,APPAREL,Running Shoes,1.0,,15.0,PayPal,85.44
+ORD1876,18-May-2025,Kasun Ali,South,Apparel,Running Shoes,10.0,88.76,5.0,cc,843.22
+ORD2238,31/10/2025,Ravi Brown, East,Stationery,Pen Set,4.0,8.78,5.0,Bank Transfer,33.36
+ORD2497,2025-06-16,Noah Kumar,West,Apparel,T-Shirt,5.0,22.22,0.0,PayPal,$111.10
+ORD1465,2025-05-20,RAVI BROWN,South,Apparel,Jacket,1.0,130.41,0.0,Cash,130.41
+ORD1792,13-May-2025,ZARA SILVA,West ,Furniture,Office Chair,2.0,184.98,0.0,PayPal,
+ORD1431,"Sep 29, 2025",Olivia Silva,South,Stationery,Printer Paper,2.0,23.53,5.0,Cash,44.71
+ORD1597,16-Jan-2025,Ethan Lopez,West,Electronics,Headphones,1.0,120.35,0.0,Bank Transfer,120.35
+ORD2307,"Feb 25, 2025",,West,Stationery,Pen Set,4.0,8.92,15.0,PayPal,30.33
+ORD1214,03/07/2025,Liam Silva,East,apparel,Jacket,2.0,120.02,0.0,Debit Card,240.04
+ORD2099,25-Jul-2025,Zara Khan,SOUTH,Stationery ,Pen Set,10.0,7.91,5.0,Bank Transfer,75.14
+ORD2190,"Mar 31, 2025",Liam Nguyen,South,Furniture,Office Chair,3.0,187.98,15.0,PayPal,479.35
+ORD1809,06/07/2025,Lucas Silva,South,Apparel,Running Shoes,1.0,101.08,0.0,credit card,101.08
+ORD1926,"Jan 10, 2025",Olivia Perera,North,Furniture,Bookshelf,2.0,129.78,0.0,Debit Card,259.56
+ORD2157,16/05/2025,,North,Furniture,Standing Desk,5.0,397.81,0.0,Debit,1989.05
+ORD1944,30/04/2025,Lucas Wong,,Stationery,Pen Set,1.0,8.47,5.0,PayPal,8.05
+ORD1200,2025-03-09,Mia Wong,East,Furniture,Office Chair,1.0,171.14,0.0,Debit Card,171.14
+ORD2264,"Sep 10, 2025",Ravi Khan,NORTH,Furniture,Standing Desk,10.0,,0.0,Credit Card,4008.3
+ORD1817,"Jul 20, 2025",Arjun Kumar,EAST,Furniture,Bookshelf,1.0,136.47,0.0,Debit Card,136.47
+ORD2421,"Sep 15, 2025",Aisha Smith,West,Electronics,Smartphone,1.0,636.79,0.0,Debit Card,636.79
+ORD1410,11-Dec-2025,Sofia Ali,North,Stationery,Pen Set,1.0,,0.0,PayPal,9.16
+ORD2303,"Dec 22, 2025",Emma Ali,SOUTH,Stationery,Notebook Pack,2.0,11.63,5.0,Credit Card,22.1
+ORD1217,"Feb 05, 2025",Nimali Nguyen,South,furniture,Office Chair,5.0,179.96,,credit card,899.8
+ORD2147,2025-09-24,Lucas Johnson,South,Furnature,Office Chair,8.0,192.36,0.0,Cash,1538.88
+ORD1254,2025-10-22,Zara Nguyen,WEST,Furniture,Bookshelf,5.0,132.2,0.0,paypal,661.0
+ORD1153,2025-10-04,Chen Brown,North,Stationery,Printer Paper,1.0,24.87,0.0,Bank Transfer,24.87
+ORD1195,26-Jan-2025,Chen Lopez,,Apparel,Jacket,2.0,126.44,5.0,Debit Card,240.24
+ORD2116,"Dec 10, 2025",Olivia Fernando,North,Furniture,Standing Desk,-4.0,404.61,0.0,Credit Card,1618.44
+ORD1554,27-Nov-2025,  Liam Kumar  ,South,Furniture,Standing Desk,2.0,426.76,5.0,PayPal,810.84
+ORD2196,06-Jul-2025,Sofia Khan,West ,Apparel,Jacket,2.0,129.04,10.0,Cash,232.27
+ORD1069,21-Mar-2025,Arjun Lopez,SOUTH,Apparel,T-Shirt,3.0,20.27,0.0,Debit Card,60.81
+ORD1934,18/01/2025,Nimali Brown,North,Clothing,T-Shirt,1.0,23.03,15.0,Bank Transfer,
+ORD1131,09/10/2025,  Lucas Garcia  ,West,Apparel,T-Shirt,10.0,21.69,0.0,cc,216.9
+ORD1362,18/09/2025,Ethan Wong,North,Apparel,Running Shoes,6.0,101.76,0.0,Credit Card,610.56
+ORD2250,07-Jun-2025,Aisha Silva,S.,Electronics,Smartphone,2.0,590.63,15.0,PayPal,1004.07
+ORD1301,2025-12-09,Noah Wong,East,Apparel,Jacket,1.0,120.15,0.0,Credit Card,120.15
+ORD1336,15/12/2025,Mia Fernando,South,,Pen Set,3.0,8.76,10.0,Debit Card,23.65
+ORD2297,2025-12-27,Sofia Wong,North,Furniture,Bookshelf,3.0,137.83,10.0,Credit Card,372.14
+ORD1769,23-Dec-2025,Sofia Ali,North,Stationary,Printer Paper,8.0,24.59,0.0,PayPal,196.72
+ORD1880,04-Jan-2025,liam lopez,West,Apparel,Running Shoes,4.0,$101.85,10.0,Cash,366.66
+ORD2349,2025-06-02,Noah Silva,East,Apparel,Running Shoes,2.0,93.9,0.0,Credit Card,187.8
+ORD1241,2025-03-15,ETHAN SMITH,South,ELECTRONICS,Headphones,8.0,$113.88,0.0,Credit Card,911.04
+ORD1620,2025-04-01,,North,Furniture,Bookshelf,2.0,147.66,10.0,Debit Card,265.79
+ORD1598,09/10/2025,Arjun Smith,WEST,,T-Shirt,,22.04,5.0,Credit Card,83.75
+ORD1973,"Oct 12, 2025",Olivia Smith,North,Stationery,Printer Paper,4.0,26.39,0.0,PayPal,105.56
+ORD1188,15-Mar-2025,Arjun Brown,East,Apparel,Running Shoes,1.0,89.47,0.0,PayPal,89.47
+ORD1759,20/08/2025,Olivia Fernando,WEST,Furniture,Standing Desk,8.0,426.76,10.0,Bank Transfer,3072.67
+ORD2296,"Aug 27, 2025",Emma Wong,South,Electronics,Smartphone,8.0,639.98,5.0,PayPal,4863.85
+ORD2080,01-Nov-2025,,West,Clothing,Jacket,8.0,132.42,5.0,,1006.39
+ORD1639,"Dec 01, 2025",,West,Stationery,Notebook Pack,2.0,,15.0,Debit Card,21.13
+ORD1181,01/10/2025,  Ethan Garcia  ,West,Clothing,Jacket,8.0,132.21,,Bank Transfer,1057.68
+ORD1303,2025-07-18,Mia Patel,,Apparel,Jacket,5.0,126.71,0.0,Cash,633.55
+ORD1284,01/10/2025,Arjun Patel,West,Furniture,Office Chair,3.0,167.53,10.0,Debit Card,452.33
+ORD2184,01-Aug-2025,Kasun Ali,East,Electronics,Headphones,3.0,,0.0,Bank Transfer,377.49
+ORD1652,"Aug 03, 2025",Chen Nguyen,South,,Printer Paper,4.0,26.99,15.0,PayPal,91.77
+ORD2142,16/03/2025,Zara Perera,EAST,Furniture,Standing Desk,1.0,442.65,5.0,PayPal,420.52
+ORD1618,"Jan 29, 2025",Arjun Nguyen,South,Electronics,Smartphone,5.0,634.69,10.0,Credit Card,2856.11
+ORD2422,2025-07-21,LIAM SMITH,West,Electronics,Headphones,2.0,123.07,0.0,Cash,$246.14
+ORD1110,10/05/2025,  Noah Brown  ,North,STATIONERY,Notebook Pack,3.0,11.85,0.0,Bank Transfer,35.55
+ORD2353,"Apr 22, 2025",OLIVIA SMITH,South,Stationery,Notebook Pack,,$11.12,15.0,Debit Card,47.26
+ORD1123,14-Feb-2025,Priya Brown,South.,Furniture,Office Chair,10.0,191.67,0.0,PayPal,1916.7
+ORD1472,15/02/2025,Mia Wong,North,Electronics,Laptop,1.0,854.24,15.0,Bank Transfer,$726.10
+ORD1281,09-Mar-2025,Ethan Fernando,South ,Apparel,Running Shoes,1.0,97.49,0.0,cc,97.49
+ORD1588,18-Oct-2025,LIAM SILVA,South,apparel,Running Shoes,999.0,88.89,0.0,Debit Card,444.45
+ORD1962,2025-04-29,Ethan Khan,South,Apparel,T-Shirt,1.0,20.48,15.0,Bank Transfer,17.41
+ORD2369,"Nov 29, 2025",Olivia Lopez,W.,Stationery,Printer Paper,1.0,25.66,20.0,Cash,20.53
+ORD2202,12/07/2025,,West,Furniture,Office Chair,1.0,171.9,,Bank Transfer,171.9
+ORD1748,19/02/2025,Arjun Perera,East,Electronics,Smartphone,1.0,607.95,20.0,Cash,486.36
+ORD2388,"Jan 22, 2025",Kasun Patel,South,Stationery,Printer Paper,1.0,25.2,0.0,Bank Transfer,25.2
+ORD1706,22-Dec-2025,Mia Patel,south,Furniture,Office Chair,1.0,178.28,5.0,Credit Card,169.37
+ORD1770,"Aug 02, 2025",Lucas Wong,North,Stationery,Notebook Pack,3.0,11.26,0.0,Credit Card,33.78
+ORD2014,28/12/2025,Olivia Silva,SOUTH,Aparel,T-Shirt,2.0,20.87,20.0,Bank Transfer,33.39
+ORD2118,13-Feb-2025,Olivia Johnson,West,Electronics,Headphones,2.0,127.83,5.0,PayPal,$242.88
+ORD2040,04-Dec-2025,Olivia Fernando,S.,Apparel,Running Shoes,1.0,91.18,0.0,Debit Card,91.18
+ORD1586,31/07/2025,Mia Brown,NORTH,Stationery,Printer Paper,5.0,26.84,0.0,Bank Transfer,134.2
+ORD2168,29-May-2025,  Nimali Fernando  ,Nrth,STATIONERY,Pen Set,5.0,9.18,0.0,PayPal,45.9
+ORD1068,2025-02-22,Mia Kumar,W.,Apparel,Jacket,1.0,122.96,15.0,cash ,104.52
+ORD1674,2025-11-22,Emma Johnson,North,Stationery,Notebook Pack,3.0,12.89,5.0,Debit Card,36.74
+ORD2274,2025-02-09,Nimali Kumar,South,Apparel,Jacket,2.0,126.9,0.0,Credit Card,253.8
+ORD1518,23-Apr-2025,Sofia Perera,East,Electronics,Laptop,3.0,893.41,15.0,Debit Card,"$2,278.20"
+ORD1675,08-Sep-2025,,Wst,Furniture,Bookshelf,8.0,129.97,0.0,Bank Transfer,1039.76
+ORD1504,27-Dec-2025,Nimali Khan,East,Electronics,Laptop,4.0,892.57,10.0,BANK TRANSFER,3213.25
+ORD2226,03/05/2025,Emma Johnson,West,Furniture,Bookshelf,1.0,132.69,0.0,Bank Transfer,132.69
+ORD1947,2025-05-31,Chen Khan,South ,Stationery,Printer Paper,4.0,24.49,0.0,cc,97.96
+ORD1390,29-May-2025,Liam Perera,east,Electronics,Headphones,2.0,110.52,0.0,Bank Transfer,$221.04
+ORD1573,06-May-2025,  Liam Brown  ,,Electronics,Laptop,1.0,876.52,20.0,PayPal,701.22
+ORD1783,2025-06-27,Ravi Khan,South.,Apparel,Jacket,4.0,127.13,5.0,Credit Card,483.09
+ORD1373,10/11/2025,Chen Lopez,North,,Printer Paper,1.0,26.51,0.0,Debit Card,26.51
+ORD2360,2025-08-15,Ethan Perera,West ,Furnature,Office Chair,1.0,187.74,0.0,Cash,187.74
+ORD2175,2025-04-19,Ravi Johnson,SOUTH,Electronic,Smartphone,1.0,561.69,0.0,Bank Transfer,561.69
+ORD1319,14-Dec-2025,Kasun Perera,South,STATIONERY,Printer Paper,2.0,24.53,5.0,Bank Transfer,46.61
+ORD2346,19-Jan-2025,Nimali Fernando,East,Apparel,Jacket,10.0,139.93,10.0,Debit Card,1259.37
+ORD1604,16-Jan-2025,,West,Stationery,Pen Set,1.0,8.72,10.0,,7.85
+ORD2412,"Apr 13, 2025",Chen Brown,West,Stationery,Printer Paper,8.0,23.08,0.0,credit card,184.64
+ORD2365,03-Feb-2025,Mia Silva,East,Stationery,Printer Paper,2.0,26.72,0.0,PayPal,53.44
+ORD1133,02-Oct-2025,Kasun Khan,South,Electronics,Smartphone,6.0,593.18,10.0,PayPal,3203.17
+ORD2038,29/12/2025,Ethan Ali,South,Stationery,Printer Paper,1.0,25.86,0.0,PayPal,25.86
+ORD1499,"Feb 04, 2025",Sofia Perera,north,Furniture,Bookshelf,3.0,143.77,5.0,Credit Card,409.74
+ORD1541,29/11/2025,Kasun Perera,West,Apparel,Jacket,2.0,120.85,5.0,Cash,229.61
+ORD1225,"Jul 25, 2025",Zara Johnson,North,Stationery,Pen Set,1.0,8.53,0.0,PayPal,8.53
+ORD2332,2025-05-28,Priya Perera,East,FURNITURE,Office Chair,1.0,179.79,0.0,,179.79
+ORD1741,,Arjun Wong,West,Electronics,Laptop,,855.53,0.0,PayPal,3422.12
+ORD1489,18-Aug-2025,Chen Nguyen,West,Electronics,Smartphone,10.0,556.63,20.0,Bank Transfer,4453.04
+ORD2135,31/03/2025,Priya Kumar,SOUTH,Furniture,Bookshelf,10.0,136.12,10.0,PayPal,1225.08
+ORD1126,24/05/2025,Priya Wong,north,Furniture,Bookshelf,2.0,147.73,0.0,Bank Transfer,295.46
+ORD1511,2025-12-22,Olivia Wong,West,Furnature,Bookshelf,2.0,142.47,10.0,PayPal,256.45
+ORD2325,28-Mar-2025,Aisha Wong, East,FURNITURE,Bookshelf,1.0,144.69,0.0,Credit Card,144.69
+ORD2411,08/06/2025,Olivia Garcia,north,Stationary,Notebook Pack,4.0,12.11,0.0,,48.44
+ORD2425,06/11/2025,Priya Lopez,North,Apparel,T-Shirt,1.0,21.92,5.0,,20.82
+ORD1532,08/02/2025,Noah Silva,East,Stationery,Pen Set,1.0,8.81,5.0,Cash,8.37
+ORD1387,13-Apr-2025,Sofia Garcia,East,Apparel,Jacket,,120.21,10.0,Credit Card,649.13
+ORD1290,"Aug 19, 2025",Mia Perera,West,Furniture,Office Chair,1.0,190.42,15.0,Credit Card,161.86
+ORD1946,"Mar 10, 2025",Priya Perera,West,Apparel,T-Shirt,8.0,23.74,0.0,PayPal,189.92
+ORD2401,2025-04-03,Zara Smith,South,Apparel,Running Shoes,5.0,90.38,0.0,cash ,451.9
+ORD2028,20/08/2025,Ravi Lopez,north,Electronics,Smartphone,6.0,571.45,5.0,Debit Card,3257.27
+ORD1054,16-May-2025,Ethan Fernando,East,Furniture,Office Chair,4.0,,5.0,PayPal,669.52
+ORD2200,2025-06-16,Zara Khan,Est,Apparel,Running Shoes,3.0,93.06,5.0,Debit Card,265.22
+ORD1733,30/10/2025,CHEN KUMAR,West,Stationery,Notebook Pack,2.0,,5.0,Debit Card,$24.13
+ORD1858,15-May-2025,Arjun Garcia,North,Electroncs,Smartphone,6.0,582.86,0.0,Bank Transfer,3497.16
+ORD1780,"Oct 02, 2025",Ethan Smith,EAST,Stationery,Printer Paper,2.0,23.48,0.0,Debit Card,46.96
+ORD1041,2025-07-30,Ravi Lopez,NORTH,Stationery,Notebook Pack,5.0,12.76,0.0,Debit,63.8
+ORD1340,"Nov 22, 2025",Priya Fernando,east,Furniture,Office Chair,3.0,191.97,0.0,Bank Transfer,575.91
+ORD1755,25-Jan-2025,Zara Lopez,West,Apparel,T-Shirt,6.0,21.8,5.0,Debit,124.26
+ORD2128,"Jun 19, 2025",Zara Garcia,East,Apparel,T-Shirt,2.0,20.35,0.0,Cash,
+ORD2160,13/05/2025,Emma Perera,N.,,T-Shirt,3.0,21.96,0.0,cc,65.88
+ORD1702,"Mar 28, 2025",  Kasun Brown  ,North,Furniture,Office Chair,4.0,,0.0,Debit Card,753.8
+ORD1084,"Jun 04, 2025",Ethan Wong,North,Apparel,Running Shoes,6.0,91.88,0.0,,551.28
+ORD1740,09/09/2025,lucas khan,East,Electronics,Smartphone,1.0,635.78,0.0,Cash,635.78
+ORD1116,"Oct 24, 2025",Aisha Patel,West,Electronics,Smartphone,3.0,612.97,0.0,PayPal,1838.91
+ORD2199,01/03/2025,Noah Khan,West,Stationery,Printer Paper,,25.58,0.0,Bank Transfer,51.16
+ORD1354,21/07/2025,  Ravi Khan  ,South,electronics,Smartphone,3.0,635.87,20.0,Bank Transfer,1526.09
+ORD1921,27-Nov-2025,Ethan Lopez,,Apparel,T-Shirt,1.0,$20.27,,Debit Card,19.26
+ORD1826,01-Dec-2025,Noah Wong,East,APPAREL,Running Shoes,6.0,$89.39,10.0,PayPal,482.71
+ORD1717,"Sep 24, 2025",Priya Nguyen,South,Apparel,Jacket,,136.83,0.0,Debit,273.66
+ORD1271,"Sep 26, 2025",Kasun Garcia,east,Stationery,Pen Set,10.0,8.96,0.0,Cash,89.6
+ORD1994,28-Jan-2025,Arjun Nguyen,South,Apparel,T-Shirt,10.0,21.78,0.0,Cash,217.8
+ORD2300,"Apr 07, 2025",Noah Lopez,West,Stationery,Notebook Pack,,12.08,10.0,,54.36
+ORD2167,20-Nov-2025,NOAH GARCIA,East,Electronics,Laptop,1.0,882.29,0.0,,882.29
+ORD1886,21-Feb-2025,Lucas Garcia,East,Apparel,Running Shoes,2.0,99.9,15.0,Debit Card,169.83
+ORD1378,"Apr 17, 2025",Chen Garcia,,Apparel,T-Shirt,2.0,20.53,0.0,Cash,41.06
+ORD2398,27-Feb-2025,  Olivia Smith  ,East,Stationery,Pen Set,6.0,8.5,10.0,Credit Card,45.9
+ORD1097,"Sep 06, 2025",Arjun Patel,West,Stationery,Printer Paper,1.0,$25.36,0.0,credit card,25.36
+ORD2452,24-Jun-2025,Mia Kumar,North,Furniture,Standing Desk,8.0,422.76,5.0,Bank Transfer,3212.98
+ORD1638,2025-02-17,Lucas Nguyen,West,stationery,Printer Paper,6.0,26.99,0.0,Credit Card,161.94
+ORD2420,26/08/2025,Priya Garcia,East,electronics,Smartphone,2.0,586.05,0.0,Bank Transfer,1172.1
+ORD1816,19/01/2025,Priya Wong,West,Furniture,Office Chair,2.0,173.07,0.0,Debit Card,346.14
+ORD1049,"Jun 01, 2025",Nimali Perera,North,Furniture,Office Chair,1.0,166.66,5.0,Cash,158.33
+ORD1831,19-Jun-2025,Emma Brown,West,Stationery,Notebook Pack,1.0,11.43,10.0,PayPal,$10.29
+ORD2198,2025-04-01,Kasun Kumar,,Stationery,Printer Paper,1.0,25.27,5.0,PayPal,24.01
+ORD1468,"Mar 20, 2025",ETHAN ALI,South.,Furniture,Standing Desk,1.0,388.86,10.0,PayPal,349.97
+ORD2139,2025-06-26,Liam Johnson,East,Apparel,Running Shoes,5.0,,0.0,,
+ORD1154,"Aug 10, 2025",Lucas Nguyen,East,Electronics,Laptop,1.0,797.98,5.0,Credit Card,758.08
+ORD1238,08-Jul-2025,Emma Kumar,Est,Stationery,Printer Paper,3.0,24.89,0.0,Bank Transfer,74.67
+ORD1055,2025-02-07,Aisha Brown,N.,Furniture,Bookshelf,3.0,140.8,0.0,Credit Card,422.4
+ORD1395,12/12/2025,,West,Apparel,Running Shoes,3.0,101.57,0.0,PayPal,304.71
+ORD1124,"Nov 09, 2025",Ethan Garcia,North,Apparel,Running Shoes,1.0,88.93,0.0,,88.93
+ORD1356,11/12/2025,Chen Patel,North,Apparel,Jacket,4.0,124.57,0.0,Credit Card,
+ORD1432,"Jun 19, 2025",Noah Brown,East, Furniture ,Office Chair,4.0,188.66,0.0,cc,754.64
+ORD1135,2025-07-04,Kasun Patel,North,Furniture,Office Chair,2.0,,0.0,Bank Transfer,378.8
+ORD1474,"Feb 13, 2025",Arjun Nguyen,south,Stationery,Notebook Pack,8.0,11.65,5.0,PayPal,88.54
+ORD1269,2025-09-01,Olivia Perera,West,Apparel,Running Shoes,2.0,98.59,15.0,Credit Card,167.6
+ORD1386,22/03/2025,Zara Johnson,West,Stationery,Printer Paper,4.0,23.63,15.0,CREDIT CARD,80.34
+ORD1098,"May 27, 2025",ARJUN PATEL,EAST,Clothing,T-Shirt,1.0,,0.0,Cash,23.14
+ORD1221,2025-05-16,Liam Fernando,West,Electronics,Headphones,2.0,129.34,5.0,Bank Transfer,245.75
+ORD1042,"Jul 26, 2025",Lucas Kumar,North,Electronics,Laptop,1.0,813.0,0.0,,813.0
+ORD1220,2025-07-03,Arjun Nguyen,EAST,Electronics,Laptop,2.0,869.84,5.0,paypal,1652.7
+ORD1718,2025-09-19,,North,Electronics,Smartphone,1.0,620.35,10.0,Credit Card,558.32
+ORD2496,24-Aug-2025,Ravi Johnson,West,Apparel,Jacket,4.0,120.12,0.0,Debit Card,480.48
+ORD2296,"Aug 27, 2025",Emma Wong,South,Electronics,Smartphone,8.0,639.98,5.0,PayPal,4863.85
+ORD1054,16-May-2025,Ethan Fernando,East,Furniture,Office Chair,4.0,,5.0,PayPal,669.52
+ORD2494,17/10/2025,Ravi Garcia,West,Furniture,Standing Desk,3.0,397.25,0.0,,1191.75
+ORD2333,2025-04-26,Noah Ali,North,Stationery,Notebook Pack,2.0,11.8,5.0,Bank Transfer,22.42
+ORD1013,01-Jul-2025,Nimali Johnson,East,Furniture,Bookshelf,2.0,130.99,5.0,Credit Card,248.88
+ORD1512,12-Mar-2025,Ethan Silva,South,Apparel,Running Shoes,1.0,93.69,0.0,PayPal,93.69
+ORD2138,05/12/2025,Ravi Ali,South, Furniture ,Office Chair,1.0,166.25,0.0,Debit Card,166.25
+ORD1650,19/03/2025,EMMA SMITH,EAST,Electronics,Laptop,1.0,826.63,0.0,Bank Transfer,826.63
+ORD1507,"Jun 10, 2025",Ethan Nguyen,west,Apparel,Jacket,1.0,138.88,0.0,Bank Transfer,138.88
+ORD1631,16-May-2025,Nimali Khan,north,Electronics,Laptop,1.0,836.6,10.0,Cash,752.94
+ORD1838,30-Jul-2025,Olivia Kumar,South,Furniture,Office Chair,6.0,178.51,5.0,Bank Transfer,1017.51
+ORD1688,2025-03-13,Aisha Johnson,West,Apparel,Jacket,2.0,136.37,0.0,Cash,272.74
+ORD2280,09/03/2025,Aisha Brown,EAST,Electroncs,Smartphone,1.0,,5.0,Cash,609.56
+ORD1505,22-Feb-2025,Kasun Garcia,Est,Apparel,Running Shoes,8.0,87.68,0.0,Debit Card,701.44
+ORD1987,12/04/2025,Chen Silva,South ,Stationery,Printer Paper,1.0,26.23,0.0,Bank Transfer,26.23
+ORD2377,"Sep 11, 2025",,south,Apparel,Jacket,1.0,$119.62,0.0,Debit Card,119.62
+ORD1703,"Aug 11, 2025",ZARA SILVA,West ,Apparel,Running Shoes,6.0,101.17,0.0,cash ,607.02
+ORD2016,2025-03-16,,East,Furnature,Bookshelf,4.0,138.27,0.0,PayPal,553.08
+ORD1896,2025-06-21,Priya Garcia,East,APPAREL,T-Shirt,1.0,20.68,0.0,Bank Transfer,
+ORD2381,15-May-2025,Arjun Nguyen,West,,Standing Desk,2.0,395.44,0.0,Debit Card,790.88
+ORD1900,11-Nov-2025,Sofia Brown,South,Stationery,Notebook Pack,2.0,12.53,10.0,Debit Card,22.55
+ORD2410,2025-12-01,Olivia Smith,East,Apparel,Jacket,3.0,129.3,0.0,PayPal,387.9
+ORD2085,29-Jun-2025,Lucas Patel,SOUTH,Stationery,Printer Paper,3.0,23.47,0.0,Cash,70.41
+ORD2350,13/03/2025,,North,STATIONERY,Notebook Pack,3.0,12.67,0.0,Bank Transfer,38.01
+ORD1337,15-Sep-2025,Liam Lopez, North ,stationery,Notebook Pack,500.0,$11.98,0.0,Bank Transfer,11.98
+ORD1233,"Aug 10, 2025",Emma Ali,East,Electronics,Smartphone,1.0,607.8,0.0,Debit Card,607.8
+ORD2276,2025-12-17,  Mia Smith  ,East,Furniture,Standing Desk,1.0,417.76,0.0,Debit Card,417.76
+ORD1738,06/12/2025,Ethan Fernando,Nrth,Furniture,Bookshelf,5.0,129.2,20.0,Credit Card,516.8
+ORD1469,2025-07-04,emma smith,North,furniture,Bookshelf,3.0,139.43,10.0,Cash,376.46
+ORD2076,17/09/2025,Aisha Kumar,West,Stationery,Pen Set,6.0,8.15,0.0,Bank Transfer,$48.90
+ORD1681,08-Nov-2025,Sofia Ali,East,Furniture,Standing Desk,6.0,424.11,5.0,PayPal,2417.43
+ORD1206,14-Nov-2025,  Lucas Nguyen  ,South,Electronics,Laptop,8.0,790.31,0.0,Credit Card,"$6,322.48"
+ORD1004,05/11/2025,Aisha Wong,South,stationery,Printer Paper,4.0,23.08,,Bank Transfer,73.86
+ORD1931,17/05/2025,Ethan Smith,West,electronics,Laptop,4.0,,5.0,Debit Card,3478.67
+ORD1548,29-Sep-2025,Aisha Nguyen,South,Electronics,Smartphone,5.0,602.01,5.0,PayPal,2859.55
+ORD1756,21/12/2025,Kasun Ali,South,Electronics,Headphones,3.0,121.76,10.0,Credit Card,328.75
+ORD2429,2025-02-14,  Olivia Fernando  ,North,Furniture,Standing Desk,3.0,426.4,15.0,cash ,1087.32
+ORD1888,"Jul 07, 2025",Kasun Brown,West,Furniture,Bookshelf,6.0,133.63,5.0,Debit Card,761.69
+ORD1913,"Oct 04, 2025",kasun nguyen,West,Clothing,T-Shirt,10.0,22.16,20.0,,177.28
+ORD2283,2025-03-02,Arjun Fernando,South,Apparel,T-Shirt,10.0,22.22,10.0,Debit Card,199.98
+ORD1811,10/03/2025,Lucas Brown,West,Furniture,Bookshelf,3.0,147.32,20.0,PayPal,353.57
+ORD1195,26-Jan-2025,Chen Lopez,,Apparel,Jacket,2.0,126.44,5.0,Debit Card,240.24
+ORD1610,15/09/2025,  Lucas Silva  ,East,Apparel,Running Shoes,10.0,99.54,0.0,Debit Card,995.4
+ORD2282,"Jun 25, 2025",Kasun Ali,East,,Printer Paper,2.0,23.64,5.0,Credit Card,44.92
+ORD1732,2025-12-23,LIAM LOPEZ,South ,Electronics,Headphones,3.0,112.53,0.0,CREDIT CARD,337.59
+ORD1883,2025-01-28,Zara Brown,North,Electronics,Headphones,8.0,$120.01,0.0,Bank Transfer,960.08
+ORD1158,"Jun 28, 2025",  Zara Garcia  ,east,Stationery,Pen Set,10.0,7.88,15.0,Credit Card,66.98
+ORD1984,2025-03-17,Olivia Garcia,North,stationery,Notebook Pack,8.0,12.63,5.0,PayPal,95.99
+ORD1463,"Jun 27, 2025",Liam Smith,,Apparel,T-Shirt,5.0,20.7,20.0,Debit Card,82.8
+ORD1161,15-Jun-2025,Emma Kumar,W.,Furniture,Standing Desk,3.0,$433.15,0.0,Bank Transfer,1299.45
+ORD1306,26-Nov-2025,Kasun Lopez,West,Furniture,Bookshelf,2.0,135.4,15.0,PayPal,230.18
+ORD1396,"Jun 17, 2025",Noah Silva,north,Stationery,Printer Paper,8.0,25.75,0.0,Debit Card,206.0
+ORD1400,08/12/2025,Emma Brown,,Electronics,Laptop,10.0,883.95,0.0,Debit Card,8839.5
+ORD2191,2025-02-15,Sofia Garcia,West,Apparel,Running Shoes,2.0,95.58,10.0,credit card,172.04
+ORD1643,04-Jul-2025,Aisha Silva,N.,electronics,Laptop,3.0,847.41,5.0,Cash,2415.12
+ORD2065,"Jan 15, 2025",Kasun Khan,E.,Apparel,Running Shoes,8.0,92.37,0.0,cash ,738.96
+ORD2304,12-Apr-2025,Lucas Khan,West,Furniture,Bookshelf,2.0,129.68,0.0,Credit Card,259.36
+ORD2187,"Feb 11, 2025",Aisha Perera,South,stationery,Pen Set,1.0,8.45,0.0,Credit Card,8.45
+ORD1965,2025-03-27,Kasun Wong,West,Electronics,Smartphone,5.0,614.85,0.0,Bank Transfer,3074.25
+ORD1063,"Jun 20, 2025",Olivia Johnson,Est,Electronics,Laptop,5.0,857.51,5.0,Debit Card,"$4,073.17"
+ORD2337,16/11/2025,Ravi Johnson,South,Furniture,Standing Desk,4.0,390.21,0.0,Credit Card,1560.84
+ORD1458,2025-12-21,Chen Patel,North,Furniture,Office Chair,1.0,190.21,0.0,Credit Card,190.21
+ORD1695,10/07/2025,,Est,Furniture,Bookshelf,2.0,$149.17,5.0,PayPal,283.42
+ORD1479,"Mar 11, 2025",Sofia Perera,West,electronics,Smartphone,1.0,554.88,0.0,Cash,554.88
+ORD1971,09-Jan-2025,Olivia Patel,North,Apparel,Running Shoes,1.0,,10.0,Cash,78.68
+ORD2352,04-Mar-2025,Lucas Garcia,West,Apparel,Running Shoes,3.0,99.25,,CREDIT CARD,297.75
+ORD2455,2025-09-17,Emma Fernando,North,Electronics,Laptop,4.0,853.18,0.0,Debit Card,3412.72
+ORD1659,2025-01-07,Zara Smith,W.,Stationery,Pen Set,-1.0,9.1,0.0,Debit Card,9.1
+ORD2405,2025-05-18,Aisha Garcia,North,Apparel,Jacket,3.0,124.46,5.0,Bank Transfer,354.71
+ORD2261,29/07/2025,Priya Silva,South,Electronics,Laptop,2.0,826.44,0.0,Bank Transfer,1652.88
+ORD1348,13-Jun-2025,Mia Silva,,Apparel,T-Shirt,5.0,21.36,5.0,Cash,$101.46
+ORD1447,29-Dec-2025,OLIVIA PERERA,South,Electronics,Smartphone,1.0,554.94,0.0,,554.94
+ORD2391,"Jan 23, 2025",olivia brown,East,Furniture,Bookshelf,1.0,150.92,0.0,Cash,150.92
+ORD1380,16-Mar-2025,,East,Furniture,Bookshelf,2.0,$139.57,5.0,credit card,265.18
+ORD1565,03-Dec-2025,Kasun Smith, North ,Clothing,Jacket,2.0,122.64,0.0,Debit Card,$245.28
+ORD2345,26-Aug-2025,  Chen Wong  ,Wst,Furniture,Standing Desk,1.0,453.1,0.0,BANK TRANSFER,453.1
+ORD1661,26/06/2025,Zara Patel,West,Stationery,Printer Paper,1.0,26.21,0.0,PayPal,26.21
+ORD1862,"Sep 22, 2025",Arjun Nguyen,S.,Stationery,Printer Paper,2.0,25.34,5.0,Credit Card,48.15
+ORD1232,2025-12-18,Chen Smith,north,Electronics,Headphones,1.0,$112.60,5.0,Credit Card,106.97
+ORD1383,12/11/2025,Arjun Khan,North,Electronic,Smartphone,5.0,$615.21,15.0,Bank Transfer,2614.64
+ORD2270,"Oct 22, 2025",Aisha Lopez,,Stationery,Printer Paper,2.0,23.2,0.0,Debit Card,46.4
+ORD1073,2025-04-27,Arjun Perera,SOUTH,Furniture,Standing Desk,2.0,436.56,5.0,,829.46
+ORD1071,08-May-2025,Priya Fernando,North,Apparel,Jacket,3.0,133.99,5.0,PayPal,381.87
+ORD2225,14-Oct-2025,Noah Wong,South,Apparel,Jacket,4.0,121.92,5.0,Debit Card,463.3
+ORD1899,16/06/2025,Chen Kumar,,Furnature,Bookshelf,10.0,140.43,5.0,Credit Card,1334.09
+ORD1172,04-Dec-2025,Chen Lopez,South,APPAREL,Running Shoes,6.0,88.09,0.0,CREDIT CARD,$528.54
+ORD1169,22-Aug-2025,Olivia Silva,South,Furniture,Office Chair,4.0,170.28,15.0,,578.95
+ORD1494,23/09/2025,Arjun Brown,East,Stationery,Printer Paper,2.0,26.27,0.0,PayPal,52.54
+ORD2174,2025-06-23,Liam Garcia,North,Electronics,Laptop,1.0,$813.19,0.0,PayPal,813.19
+ORD2166,2025-10-02,Mia Garcia,east,APPAREL,Running Shoes,1.0,,15.0,PayPal,85.44
+ORD1273,2025-06-18,Emma Wong,West,Electronic,Smartphone,3.0,590.3,0.0,credit card,1770.9
+ORD1993,17-Dec-2025,Mia Fernando,North,Furniture,Office Chair,5.0,165.93,10.0,Credit Card,
+ORD1421,17/08/2025,Liam Khan,NORTH,Electronics,Laptop,1.0,890.47,0.0,PayPal,890.47
+ORD1095,2025-09-16,Zara Lopez,W.,Apparel,T-Shirt,2.0,20.57,5.0,Debit Card,39.08
+ORD2396,"Dec 28, 2025",Ravi Silva,North,Electroncs,Headphones,3.0,112.86,5.0,PayPal,321.65
+ORD2326,03/12/2025,Zara Nguyen,West,Stationery,Pen Set,6.0,8.33,5.0,Cash,47.48
+ORD1043,08/04/2025,Ravi Fernando,West,Furniture,Office Chair,,190.39,0.0,Debit Card,951.95
+ORD1057,09/07/2025,Sofia Fernando,West,Furniture,Office Chair,1.0,182.62,5.0,Bank Transfer,
+ORD2460,2025-07-10,,South,Furniture,Standing Desk,5.0,$396.17,5.0,Debit Card,1881.81
+ORD1730,"Jul 25, 2025",Ethan Brown,East,Electronics,Smartphone,4.0,627.69,5.0,PayPal,2385.22
+ORD2482,17/08/2025,Noah Garcia,West,Furniture,Office Chair,2.0,177.4,20.0,Bank Transfer,283.84
+ORD1039,09-Mar-2025,Chen Khan,West,Stationery,Printer Paper,3.0,26.49,10.0,PayPal,71.52
+ORD1307,"Apr 04, 2025",Olivia Smith,W.,Apparel,Jacket,4.0,122.51,15.0,Credit Card,416.53
+ORD1709,10/03/2025,Lucas Brown,East,Apparel,Jacket,-10.0,133.49,5.0,Debit Card,1268.15
+ORD1665,11/01/2025,Lucas Lopez,East,Furniture,Bookshelf,3.0,131.83,10.0,Cash,355.94
+ORD1409,20-Sep-2025,Zara Brown,N.,Electronics,Headphones,2.0,122.66,0.0,Bank Transfer,245.32
+ORD1167,2025-03-02,olivia brown,East,Stationery,Pen Set,10.0,$9.16,5.0,Bank Transfer,$87.02
+ORD1535,"Apr 22, 2025",Zara Lopez,south,Stationery,Notebook Pack,1.0,11.72,0.0,PayPal,11.72
+ORD1954,19/02/2025,Noah Perera,South,,Smartphone,1.0,635.21,0.0,credit card,635.21
+ORD2404,11/02/2025,Ravi Lopez,West,Electronics,Laptop,1.0,796.35,5.0,PayPal,756.53
+ORD2477,"Oct 25, 2025",Arjun Garcia,Est,Apparel,T-Shirt,1.0,23.05,5.0,,21.9
+ORD2106,13/03/2025,Aisha Kumar,South,Furniture,Office Chair,3.0,179.54,0.0,Debit Card,538.62
+ORD2467,05-Jan-2025,  Priya Wong  ,South,Furniture,Bookshelf,1.0,131.64,0.0,PayPal,
+ORD2057,2025-06-12,Priya Wong,East,Apparel,Running Shoes,4.0,,5.0,Debit Card,355.79
+ORD1672,08-May-2025,Liam Brown,North,Electronics,Laptop,1.0,854.41,0.0,Debit,854.41
+ORD1317,"Jan 22, 2025",Mia Nguyen,Wst,Stationery,Pen Set,6.0,8.63,5.0,Cash,49.19
+ORD1982,"Dec 24, 2025",Arjun Fernando,North,Stationery ,Printer Paper,4.0,26.04,0.0,PayPal,104.16
+ORD2336,2025-08-10,Lucas Khan,West,Furniture,Standing Desk,1.0,410.66,0.0,PayPal,410.66
+ORD1517,16-Aug-2025,Chen Fernando,North,Apparel,T-Shirt,1.0,22.47,20.0,Bank Transfer,17.98
+ORD1685,25/02/2025,Chen Smith,,Apparel,Jacket,1.0,139.27,10.0,Cash,125.34
+ORD1534,2025-08-23,Mia Lopez,NORTH,Apparel,T-Shirt,6.0,20.92,0.0,Bank Transfer,125.52
+ORD1701,2025-11-21,Liam Perera,West,Furniture,Bookshelf,8.0,140.74,0.0,Cash,1125.92
+ORD2233,17/03/2025,Chen Fernando,South,Apparel,T-Shirt,10.0,22.59,15.0,Bank Transfer,192.01
+ORD1852,2025-07-31,Chen Fernando,E.,Furnature,Office Chair,8.0,167.68,20.0,Bank Transfer,1073.15
+ORD1549,"Apr 20, 2025",Olivia Silva,West,Furniture,Bookshelf,1.0,145.72,0.0,,145.72
+ORD1454,17/12/2025,Noah Johnson,North,Furniture,Standing Desk,3.0,447.71,0.0,Credit Card,1343.13
+ORD1607,09-Oct-2025,Chen Perera,North,Stationery,Notebook Pack,3.0,11.77,0.0,,35.31
+ORD2318,22-Mar-2025,Liam Silva,East,Stationery,Printer Paper,5.0,26.9,0.0,PayPal,134.5
+ORD2268,04/02/2025,Mia Nguyen,West,Stationery,Pen Set,8.0,8.93,20.0,Bank Transfer,57.15
+ORD1599,04-Mar-2025,Aisha Perera,South,Electronics,Headphones,1.0,112.03,10.0,,100.83
+ORD1736,"May 14, 2025",Lucas Perera,South,,Smartphone,8.0,578.88,15.0,Cash,"$3,936.38"
+ORD1571,08/07/2025,Kasun Patel,North,Electronics,Headphones,1.0,111.58,10.0,Bank Transfer,$100.42
+ORD2331,"Apr 14, 2025",Chen Johnson,North,Stationery,Notebook Pack,1.0,11.45,10.0,Bank Transfer,10.3
+ORD1062,2025-02-17,Zara Lopez,Est,Electronics,Laptop,6.0,817.08,5.0,Credit Card,4657.36
+ORD2071,17-Nov-2025,Kasun Nguyen,West,Stationery,Notebook Pack,1.0,12.33,,Debit Card,$12.33
+ORD1537,"Jun 25, 2025",LIAM PERERA,,Stationery,Pen Set,1.0,8.55,15.0,PayPal,7.27
+ORD1562,17/06/2025,Ethan Nguyen, North ,Stationery,Printer Paper,5.0,23.53,15.0,Cash,100.0
+ORD2059,2025-11-09,,East,Electronics,Headphones,1.0,$113.96,5.0,Debit Card,108.26
+ORD1245,2025-12-12,Noah Patel,West,electronics,Laptop,,853.14,0.0,PayPal,2559.42
+ORD1026,21-Aug-2025,  Aisha Ali  ,East,Electronics,Headphones,4.0,125.21,0.0,Bank Transfer,500.84
+ORD1223,25-Feb-2025,Ravi Wong,South,Apparel,Running Shoes,1.0,$89.84,0.0,Bank Transfer,
+ORD2242,"Apr 04, 2025",Kasun Lopez,South,Furniture,Standing Desk,1.0,411.43,15.0,Debit Card,349.72
+ORD1106,"Mar 26, 2025",Ravi Fernando,North,Apparel,T-Shirt,4.0,21.68,0.0,PayPal,86.72
+ORD1800,02/11/2025,Ethan Wong,North,Apparel,Running Shoes,1.0,97.22,5.0,Debit,92.36
+ORD1510,"Mar 02, 2025",ARJUN PATEL,North,Furniture,Bookshelf,2.0,146.79,,Debit Card,278.9
+ORD1132,09-May-2025,Arjun Smith,south,,Standing Desk,5.0,409.3,15.0,Cash,1739.52
+ORD2051,21-Dec-2025,Kasun Brown,East,Apparel,Jacket,3.0,$124.77,10.0,Credit Card,336.88
+ORD1445,05-Apr-2025,Liam Wong,North,stationery,Pen Set,1.0,9.18,20.0,Credit Card,$7.34
+ORD1694,2025-07-01,Arjun Ali,E.,FURNITURE,Office Chair,250.0,,,PayPal,831.9
+ORD1509,11/12/2025,Sofia Nguyen,N.,Electronics,Headphones,2.0,115.33,0.0,BANK TRANSFER,230.66
+ORD2180,24-Feb-2025,emma brown,,ELECTRONICS,Smartphone,2.0,616.7,0.0,Credit Card,1233.4
+ORD1076,14/05/2025,  Kasun Nguyen  ,East,Electronics,Smartphone,1.0,645.41,0.0,Credit Card,645.41
+ORD1037,04/02/2025,liam lopez,East,Furniture,Office Chair,1.0,167.82,0.0,Credit Card,167.82
+ORD2372,21/07/2025,Ethan Lopez,South ,electronics,Headphones,1.0,121.94,0.0,Credit Card,121.94
+ORD1058,04/06/2025,Aisha Johnson,East,Apparel,T-Shirt,1.0,22.04,0.0,Credit Card,22.04
+ORD1197,"Dec 14, 2025",Olivia Johnson,North,Furniture,Standing Desk,1.0,396.61,0.0,Credit Card,396.61
+ORD2287,10-May-2025,Liam Smith,East,Electronics,Smartphone,2.0,632.03,10.0,Credit Card,1137.65
+ORD1761,22-Apr-2025,Nimali Khan,East,Apparel,Jacket,1.0,127.13,0.0,Cash,127.13
+ORD1904,"Jul 05, 2025",Ravi Silva,South,stationery,Pen Set,1.0,,5.0,Debit Card,8.43
+ORD1714,01/03/2025,  Zara Brown  ,West,apparel,T-Shirt,6.0,23.12,5.0,Credit Card,131.78
+ORD1478,17/11/2025,Chen Nguyen,South,,T-Shirt,2.0,21.96,5.0,PayPal,41.72
+ORD1087,13-Feb-2025,Sofia Wong,East,Apparel,Jacket,3.0,121.62,5.0,Credit Card,346.62
+ORD2434,"Dec 26, 2025",Ravi Brown,West,Electronics,Headphones,3.0,111.95,15.0,cash ,285.47
+ORD1562,17/06/2025,Ethan Nguyen, North ,Stationery,Printer Paper,5.0,23.53,15.0,Cash,100.0
+ORD1335,06-Mar-2025,  Lucas Johnson  , North ,Electronics,Smartphone,,622.29,10.0,PayPal,3360.37
+ORD2070,18/03/2025,Priya Lopez,North,Electronics,Smartphone,4.0,594.16,5.0,Cash,2257.81
+ORD1972,"Apr 20, 2025",,East,Furniture,Office Chair,10.0,172.06,5.0,Bank Transfer,1634.57
+ORD2459,"Aug 31, 2025",Lucas Patel,South,Furniture,Office Chair,2.0,179.52,0.0,Credit Card,359.04
+ORD2224,"Aug 27, 2025",Liam Garcia,East,Furniture,Bookshelf,2.0,134.12,0.0,Debit Card,268.24
+ORD2406,16/06/2025,,North,Stationery,Pen Set,,7.88,0.0,Cash,39.4
+ORD1539,14/04/2025,Olivia Johnson,East,Stationery,Notebook Pack,2.0,12.33,20.0,Debit Card,19.73
+ORD2079,2025-09-25,emma perera,Est,Stationery,Notebook Pack,2.0,11.49,0.0,Credit Card,22.98
+ORD1682,28/06/2025,ravi patel,South,Stationery ,Notebook Pack,1.0,12.69,10.0,PayPal,11.42
+ORD1419,2025-04-07,Emma Perera,W.,Furniture,Standing Desk,4.0,415.32,0.0,Bank Transfer,1661.28
+ORD2021,06-Nov-2025,Chen Ali,East,Stationery,Printer Paper,1.0,23.37,5.0,paypal,22.2
+ORD2454,2025-02-26,Emma Kumar,North,Stationery,Pen Set,1.0,7.9,5.0,,7.5
+ORD2431,29/11/2025,Olivia Johnson,South,Stationery,Pen Set,3.0,7.93,5.0,PayPal,$22.60
+ORD1574,02-Apr-2025,Liam Wong,West,ELECTRONICS,Headphones,1.0,113.13,0.0,Debit Card,113.13
+ORD1789,16-Apr-2025,Zara Johnson,North,Electronics,Smartphone,3.0,556.2,0.0,Debit Card,"$1,668.60"
+ORD2319,13/07/2025,Mia Kumar,East,Apparel,Running Shoes,1.0,100.6,15.0,Cash,85.51
+ORD1333,08-Mar-2025,Noah Smith,East,Stationery,Printer Paper,8.0,23.55,20.0,PayPal,150.72
+ORD1889,25/12/2025,Mia Garcia,West,Stationery,Notebook Pack,3.0,11.61,0.0,Cash,34.83
+ORD1575,08/05/2025,Zara Ali,East,Furniture,Bookshelf,2.0,131.06,,Cash,249.01
+ORD2334,2025-05-20,Noah Nguyen,West,Furniture,Bookshelf,1.0,141.61,10.0,PayPal,127.45
+ORD1422,30/04/2025,Nimali Kumar,North,Stationery,Pen Set,2.0,7.84,0.0,Debit Card,15.68
+ORD2131,16/11/2025,Aisha Patel,West,Apparel,T-Shirt,2.0,23.4,15.0,Credit Card,39.78
+ORD2418,"Sep 25, 2025",Zara Patel,North,Furniture,Office Chair,1.0,175.37,5.0,Bank Transfer,166.6
+ORD2402,18-Feb-2025,Lucas Perera,EAST,Apparel,Jacket,10.0,121.85,0.0,Credit Card,1218.5
+ORD2370,2025-09-02,Olivia Patel,South,Stationery,Pen Set,1.0,9.03,5.0,Bank Transfer,8.58
+ORD2216,"Mar 09, 2025",Mia Patel,South,Furniture,Office Chair,1.0,,0.0,Credit Card,179.63
+ORD1009,2025-03-05,ethan smith,east,Stationery,Printer Paper,2.0,26.14,0.0,paypal,52.28
+ORD1996,19/06/2025,Nimali Ali,South,Electronics,Laptop,10.0,789.03,5.0,Debit Card,7495.78
+ORD2337,16/11/2025,Ravi Johnson,South,Furniture,Standing Desk,4.0,390.21,0.0,Credit Card,1560.84
+ORD2158,2025-11-09,Ethan Fernando,West,Furniture,Office Chair,5.0,183.16,5.0,Credit Card,870.01
+ORD1305,2025-06-20,Olivia Perera,East,Apparel,T-Shirt,3.0,21.68,5.0,,
+ORD2172,2025-10-31,Arjun Brown,West,Apparel,T-Shirt,5.0,23.24,15.0,Credit Card,98.77
+ORD1810,07-May-2025,Arjun Ali,West,FURNITURE,Bookshelf,8.0,$135.83,15.0,Cash,$923.64
+ORD1075,2025-09-18,Ethan Johnson,East,APPAREL,Jacket,1.0,127.25,0.0,Credit Card,127.25
+ORD2132,16-Sep-2025,Noah Lopez,,Electronics,Headphones,2.0,127.7,20.0,BANK TRANSFER,204.32
+ORD1523,19/08/2025,Priya Garcia,North,Electronics,Laptop,3.0,794.99,,,2265.72
+ORD1336,15/12/2025,Mia Fernando,South,,Pen Set,3.0,8.76,10.0,Debit Card,23.65
+ORD1570,,  Mia Perera  ,West,Stationary,Pen Set,1.0,8.66,5.0,Bank Transfer,8.23
+ORD1591,2025-10-27,Emma Fernando,North,Electronics,Headphones,2.0,,15.0,Debit Card,213.3
+ORD1089,2025-01-24,Arjun Brown,North,Electronics,Laptop,6.0,882.74,5.0,PayPal,5031.62
+ORD1784,14/06/2025,Ethan Kumar,North,apparel,Jacket,1.0,132.83,15.0,PayPal,112.91
+ORD1218,"Mar 17, 2025",Aisha Patel,SOUTH,Furniture,Bookshelf,3.0,141.95,10.0,CREDIT CARD,$383.26
+ORD2063,"Feb 04, 2025",Sofia Patel,East,Furniture,Standing Desk,2.0,410.17,10.0,Credit Card,738.31
+ORD1174,07/04/2025,Arjun Nguyen,West,Furniture,Bookshelf,1.0,142.11,0.0,Debit Card,142.11
+ORD2432,2025-10-03,Nimali Smith,East,Apparel,Jacket,6.0,127.84,0.0,PayPal,767.04
+ORD1222,02-Feb-2025,Chen Brown,EAST,Electronics,Smartphone,1.0,561.77,0.0,Bank Transfer,561.77
+ORD1320,"Aug 13, 2025",Liam Fernando,North,Apparel,Jacket,1.0,123.06,10.0,Debit Card,110.75
+ORD2355,2025-07-11,Emma Garcia,West,Stationery,Printer Paper,4.0,24.01,15.0,PayPal,81.63
+ORD2394,2025-12-03,Ravi Perera,South.,Stationery,Printer Paper,2.0,24.61,5.0,CREDIT CARD,$46.76
+ORD2023,17-Jan-2025,ZARA KUMAR,North,Furniture,Office Chair,1.0,193.39,0.0,credit card,193.39
+ORD1267,2025-11-27,Noah Nguyen,West,Electronics,Smartphone,4.0,640.56,10.0,PayPal,2306.02
+ORD1007,2025-06-22,Emma Smith,West,Furniture,Office Chair,2.0,173.99,5.0,,$330.58
+ORD2489,2025-01-21,Olivia Smith,East,Furniture,Standing Desk,4.0,413.01,0.0,Cash,1652.04
+ORD1839,19-Sep-2025,Priya Fernando,East,Apparel,Jacket,3.0,138.87,0.0,PayPal,416.61
+ORD1139,2025-05-10,CHEN SMITH,N.,Electronics,Laptop,3.0,842.99,0.0,PayPal,2528.97
+ORD1164,,Olivia Patel,West,,Office Chair,6.0,178.72,5.0,credit card,"$1,018.70"
+ORD2281,05/07/2025,Olivia Lopez,West,Apparel,T-Shirt,3.0,20.35,0.0,Bank Transfer,61.05
+ORD1595,"Apr 21, 2025",,North,Electronics,Laptop,2.0,,5.0,Debit Card,1650.45
+ORD1232,2025-12-18,Chen Smith,north,Electronics,Headphones,1.0,$112.60,5.0,Credit Card,106.97
+ORD2375,"Nov 04, 2025",Priya Fernando,North,Stationery,Notebook Pack,4.0,12.77,10.0,Cash,$45.97
+ORD2127,2025-01-06,Chen Brown,West ,Stationery,Printer Paper,1.0,$25.80,0.0,Bank Transfer,25.8
+ORD2479,"May 07, 2025",  Emma Garcia  ,South,apparel,T-Shirt,1.0,$21.23,0.0,Cash,21.23
+ORD1524,02/05/2025,Nimali Kumar,East,Electronic,Smartphone,2.0,608.31,0.0,Bank Transfer,1216.62
+ORD1914,2025-09-26,  Sofia Garcia  ,West,Stationery,Notebook Pack,1.0,$11.74,0.0,Bank Transfer,
+ORD1869,24/06/2025,  Emma Kumar  ,East,Furniture,Standing Desk,1.0,420.75,0.0,Bank Transfer,420.75
+ORD1579,"Apr 13, 2025",Sofia Nguyen,East,Furniture,Bookshelf,1.0,148.66,0.0,Debit,148.66
+ORD1818,,Noah Silva,East,Stationery,Pen Set,10.0,8.58,0.0,Bank Transfer,85.8
+ORD1020,"Oct 26, 2025",Ethan Garcia,South,Stationery,Notebook Pack,1.0,11.13,0.0,Debit Card,11.13
+ORD2485,15/03/2025,Olivia Brown,West,ELECTRONICS,Headphones,5.0,125.84,15.0,Debit Card,$534.82
+ORD1634,07-Oct-2025,ethan smith,West,furniture,Bookshelf,5.0,141.21,0.0,Bank Transfer,
+ORD1821,21-Jan-2025,Arjun Kumar,West,Furniture,Bookshelf,10.0,148.52,5.0,Debit Card,1410.94
+ORD1619,2025-09-02,Aisha Garcia,South,Stationery ,Printer Paper,8.0,24.01,10.0,Debit Card,172.87
+ORD2465,2025-11-25,Olivia Nguyen,North,,Jacket,3.0,120.55,15.0,Bank Transfer,307.4
+ORD1656,2025-12-16,Zara Khan,South,Electronic,Smartphone,3.0,569.71,,Bank Transfer,1709.13
+ORD1871,"Aug 23, 2025",,NORTH,Furniture,Bookshelf,,128.89,0.0,PayPal,644.45
+ORD1798,21/11/2025,Olivia Patel,Est,Furniture,Standing Desk,1.0,415.33,0.0,Credit Card,415.33
+ORD1138,29-Aug-2025,Chen Brown,East,Furniture,Standing Desk,8.0,450.28,5.0,Debit Card,"$3,422.13"
+ORD1558,28/10/2025,Noah Perera,East,,Laptop,6.0,900.06,10.0,Debit Card,4860.32
+ORD1698,31/07/2025,Liam Lopez,South,furniture,Standing Desk,10.0,400.09,5.0,Debit Card,3800.85
+ORD2275,"Mar 27, 2025",Lucas Lopez,East,Apparel,Running Shoes,5.0,92.39,0.0,Cash,461.95
+ORD1961,2025-02-09,Nimali Wong,North,Furniture,Standing Desk,2.0,443.86,0.0,Credit Card,887.72
+ORD2151,2025-02-17,Liam Nguyen,South,Apparel,Running Shoes,2.0,97.66,5.0,Bank Transfer,185.55
+ORD1975,"Apr 30, 2025",,East,Furniture,Office Chair,5.0,170.83,0.0,,854.15
+ORD1369,24/10/2025,Arjun Ali,North,Apparel,Jacket,10.0,$123.22,0.0,Bank Transfer,1232.2
+ORD2464,26-Mar-2025,Zara Perera,West,Stationery,Notebook Pack,1.0,$11.40,5.0,Credit Card,10.83
+ORD2098,"Nov 29, 2025",Noah Kumar,East,Stationery,Printer Paper,6.0,24.56,5.0,cash ,139.99
+ORD1328,20/08/2025,Kasun Ali,West,Electronics,Smartphone,5.0,562.23,0.0,Credit Card,2811.15
+ORD1318,"Jan 30, 2025",Noah Johnson,West ,APPAREL,Jacket,3.0,123.25,15.0,Cash,314.29
+ORD2293,2025-09-16,Chen Garcia,South,Furniture,Office Chair,1.0,190.92,5.0,PayPal,181.37
+ORD2145,20/05/2025,Lucas Patel,East,Apparel,Jacket,4.0,128.8,10.0,BANK TRANSFER,463.68
+ORD1529,02-Dec-2025,Olivia Ali,South,Furniture,Standing Desk,10.0,395.57,5.0,Debit Card,3757.91
+ORD1527,28-Mar-2025,Lucas Ali,East,Stationery,Printer Paper,3.0,25.19,0.0,Cash,75.57
+ORD1088,11-Dec-2025,Sofia Khan,SOUTH,Furniture,Office Chair,10.0,169.63,5.0,Debit Card,1611.48
+ORD1480,2025-07-14,Lucas Brown,East,Apparel,Running Shoes,4.0,90.47,5.0,Debit,343.79
+ORD1339,2025-09-23,Sofia Lopez,North,Furniture,Bookshelf,,149.53,0.0,Cash,$598.12
+ORD1807,10/04/2025,Lucas Brown,West,Electronics,Smartphone,,589.25,0.0,Cash,589.25
+ORD1658,"Oct 10, 2025",Lucas Lopez,East,stationery,Notebook Pack,5.0,11.56,5.0,Bank Transfer,54.91
+ORD1149,29/10/2025,Nimali Silva,North,Apparel,Jacket,5.0,139.3,20.0,Bank Transfer,557.2
+ORD2258,"Mar 25, 2025",Zara Ali,West,Furniture,Standing Desk,6.0,,10.0,Debit Card,2211.35
+ORD2437,11-Sep-2025,SOFIA PERERA,West,Stationery,Notebook Pack,5.0,12.54,0.0,PayPal,62.7
+ORD1029,2025-01-01,Lucas Brown,North,stationery,Printer Paper,2.0,24.3,,Credit Card,43.74
+ORD1247,2025-02-28,Mia Silva,North,Stationery,Printer Paper,2.0,$24.51,0.0,Cash,49.02
+ORD1366,"Sep 30, 2025",,east,Stationery,Printer Paper,1.0,23.88,0.0,PayPal,23.88
+ORD2339,2025-08-28,Priya Johnson,West,Apparel,Jacket,3.0,125.0,15.0,Bank Transfer,318.75
+ORD1873,31-Jul-2025,Mia Wong,NORTH,Furniture,Bookshelf,2.0,134.86,10.0,Cash,242.75
+ORD2169,"Apr 08, 2025",Sofia Ali,West,Apparel,Jacket,,132.55,20.0,Credit Card,636.24
+ORD1199,01/06/2025,Lucas Ali,West,Electronics,Smartphone,6.0,597.5,5.0,Debit Card,3405.75
+ORD2114,06-Dec-2025,Kasun Brown,South,Furniture,Office Chair,3.0,191.21,5.0,Debit Card,544.95
+ORD1745,2025-11-13,sofia wong,South ,apparel,Running Shoes,6.0,$100.35,5.0,PayPal,571.99
+ORD2024,2025-04-24,Nimali Kumar,South,Stationery,Notebook Pack,,12.4,5.0,Credit Card,47.12
+ORD1405,2025-09-28,Mia Smith,North,STATIONERY,Pen Set,1.0,8.9,5.0,Credit Card,8.46
+ORD2042,17/11/2025,Kasun Smith,South,Furniture,Standing Desk,2.0,435.64,5.0,Debit Card,827.72
+ORD1484,24-May-2025,Ethan Garcia,North,Stationery,Notebook Pack,4.0,11.99,5.0,Bank Transfer,45.56
+ORD1159,18/06/2025,  Zara Ali  ,West ,Electronics,Headphones,3.0,,0.0,Cash,388.38
+ORD1316,"Aug 17, 2025",Zara Fernando,West,Furniture,Standing Desk,1.0,395.6,15.0,Cash,336.26
+ORD1257,12-Aug-2025,Ethan Wong,North,Furniture,Office Chair,2.0,189.25,0.0,PayPal,378.5
+ORD1008,26/06/2025,Priya Kumar,North,Furniture,Bookshelf,1.0,135.34,0.0,PayPal,135.34
+ORD2234,2025-01-12,Sofia Silva,South,Apparel,Jacket,1.0,132.32,5.0,,125.7
+ORD1385,30/08/2025,Emma Johnson,South,Furniture,Bookshelf,4.0,144.04,5.0,Credit Card,547.35
+ORD1879,21/03/2025,Emma Smith, North ,Furniture,Bookshelf,4.0,143.73,20.0,PayPal,459.94
+ORD1178,2025-09-27,,South,Electronics,Smartphone,10.0,647.68,5.0,PayPal,6152.96
+ORD1803,2025-10-18,Liam Lopez,W.,Apparel,Jacket,2.0,124.13,20.0,Bank Transfer,198.61
+ORD1315,14-Jun-2025,Emma Smith,East,Furniture,Standing Desk,3.0,442.16,0.0,Cash,1326.48
+ORD1358,"Jan 24, 2025",Ethan Perera,South,Furniture,Bookshelf,1.0,129.74,0.0,Cash,129.74
+ORD1299,"Jan 09, 2025",Arjun Ali,SOUTH,Stationery,Printer Paper,3.0,23.82,0.0,Cash,71.46
+ORD1456,05/01/2025,Kasun Smith,West,Apparel,Jacket,1.0,134.49,15.0,PayPal,114.32
+ORD1544,2025-09-23,Ravi Perera,north,FURNITURE,Office Chair,2.0,187.38,0.0,Cash,
+ORD1663,2025-03-15,ETHAN PERERA,West,Stationery,Notebook Pack,4.0,11.99,0.0,Cash,47.96
+ORD1597,16-Jan-2025,Ethan Lopez,West,Electronics,Headphones,1.0,120.35,0.0,Bank Transfer,120.35
+ORD1906,2025-03-27,,,Furniture,Office Chair,,184.22,,Debit,147.38
+ORD2084,28/02/2025,,North,Furniture,Standing Desk,,422.18,0.0,Debit Card,1266.54
+ORD1968,09-Aug-2025,Lucas Nguyen,South,APPAREL,Jacket,4.0,119.6,0.0,Bank Transfer,478.4
+ORD1528,17/05/2025,Emma Fernando,West,Apparel,Running Shoes,2.0,96.44,0.0,Credit Card,192.88
+ORD2302,25/09/2025,Noah Smith,South,stationery,Pen Set,1.0,8.97,0.0,PayPal,8.97
+ORD1160,25/07/2025,liam brown,North,Apparel,Jacket,3.0,139.76,5.0,Cash,398.32
+ORD2000,"Dec 02, 2025",Aisha Smith,West,Stationery,Pen Set,2.0,8.21,15.0,Cash,13.96
+ORD1361,23/06/2025,Mia Kumar,South,Furniture,Bookshelf,5.0,130.8,0.0,Debit Card,654.0
+ORD2371,"May 25, 2025",Nimali Smith,West,Furniture,Bookshelf,3.0,140.01,0.0,Cash,420.03
+ORD1203,07-Jul-2025,Noah Kumar,West,Stationery,Printer Paper,1.0,24.46,5.0,Credit Card,23.24
+ORD1979,21-Jun-2025,  Mia Lopez  ,West,Electronics,Laptop,4.0,$804.76,10.0,PayPal,2897.14
+ORD1829,28-Apr-2025,Noah Wong,East,Electronics,Headphones,2.0,129.23,0.0,Debit Card,258.46
+ORD1113,03/05/2025,Olivia Brown,North,Electronics,Headphones,6.0,123.91,0.0,Bank Transfer,743.46
+ORD1956,20-Oct-2025,Ethan Johnson,West,Electronics,Laptop,3.0,852.27,10.0,Bank Transfer,2301.13
+ORD1308,14/04/2025,Liam Kumar,South,Furniture,Standing Desk,2.0,446.51,10.0,Credit Card,803.72
+ORD2105,2025-06-17,Chen Johnson,North,Stationery,Notebook Pack,4.0,11.06,0.0,Credit Card,44.24
+ORD1423,29-May-2025,  Arjun Lopez  ,East,Stationery,Printer Paper,2.0,24.92,5.0,Bank Transfer,47.35
+ORD2122,14/09/2025,Priya Silva,East,Clothing,T-Shirt,1.0,23.55,5.0,Credit Card,22.37
+ORD2465,2025-11-25,Olivia Nguyen,North,,Jacket,3.0,120.55,15.0,Bank Transfer,307.4
+ORD2230,30/09/2025,sofia brown,EAST,apparel,T-Shirt,2.0,20.47,0.0,Credit Card,40.94
+ORD2209,28/04/2025,Noah Silva,West,Stationery,Printer Paper,,24.05,0.0,Debit Card,
+ORD1460,2025-10-28,Olivia Kumar,West,Furniture,Office Chair,2.0,175.95,5.0,Credit Card,334.3
+ORD1590,20-Aug-2025,,NORTH,Furniture,Bookshelf,2.0,137.22,0.0,CREDIT CARD,274.44
+ORD2344,28/02/2025,Olivia Khan,North,Furniture,Office Chair,2.0,184.93,0.0,paypal,369.86
+ORD1763,15/10/2025,,West,FURNITURE,Bookshelf,10.0,136.22,0.0,Bank Transfer,1362.2
+ORD1875,2025-04-02,,E.,Stationery,Printer Paper,2.0,26.64,0.0,Debit Card,53.28
+ORD1986,11-Aug-2025,Olivia Kumar,South,Stationery,Printer Paper,4.0,25.92,15.0,PayPal,88.13
+ORD1450,"May 21, 2025",  Sofia Perera  ,West,Apparel,T-Shirt,2.0,23.72,0.0,Debit Card,$47.44
+ORD2244,09-Jul-2025,Kasun Khan,North,Furniture,Standing Desk,3.0,396.51,20.0,Cash,$951.62
+ORD1680,2025-11-28,Kasun Nguyen,NORTH,Electronics,Headphones,1.0,$114.73,0.0,Debit Card,114.73
+ORD1693,13/05/2025,Kasun Johnson,EAST,Electronics,Headphones,1.0,119.06,20.0,paypal,95.25
+ORD2435,2025-10-27,Arjun Khan,East,Stationery,Pen Set,4.0,8.62,10.0,Bank Transfer,
+ORD1081,2025-06-03,Sofia Johnson,West,Aparel,T-Shirt,8.0,23.6,15.0,Cash,160.48
+ORD2359,25/12/2025,Mia Kumar,North,Apparel,Jacket,4.0,131.57,0.0,Bank Transfer,526.28
+ORD2045,"Oct 29, 2025",Chen Brown,West,Furniture,Office Chair,,181.27,0.0,PayPal,1450.16
+ORD2043,15-Nov-2025,Priya Perera,west,Electronics,Laptop,,$793.04,20.0,PayPal,2537.73
+ORD1834,"Sep 20, 2025",Liam Nguyen,South,Apparel,Jacket,2.0,136.81,10.0,Credit Card,246.26
+ORD1216,26/01/2025,Lucas Khan,South,Electronics,Laptop,6.0,862.73,5.0,Bank Transfer,4917.56
+ORD2026,07/08/2025,Ethan Kumar,north, Furniture ,Office Chair,6.0,192.87,0.0,Bank Transfer,1157.22
+ORD1031,13/02/2025,Chen Lopez,North,Electronic,Smartphone,1.0,620.47,10.0,Bank Transfer,558.42
+ORD1243,22-Mar-2025,Mia Patel,East, Furniture ,Bookshelf,,$146.61,0.0,Bank Transfer,146.61
+ORD2280,09/03/2025,Aisha Brown,EAST,Electroncs,Smartphone,1.0,,5.0,Cash,609.56
+ORD1642,"Feb 19, 2025",Liam Silva,,Furniture,Office Chair,2.0,188.47,0.0,Debit,376.94
+ORD1697,14/09/2025,Emma Lopez,West,FURNITURE,Office Chair,5.0,176.56,10.0,Bank Transfer,794.52
+ORD1210,2025-12-23,Zara Nguyen,South,Apparel,Jacket,4.0,120.36,0.0,PayPal,481.44
+ORD2019,2025-05-17,Arjun Nguyen,South,Apparel,Running Shoes,3.0,102.12,5.0,Debit Card,291.04
+ORD1771,09/05/2025,Nimali Nguyen,West ,Apparel,T-Shirt,2.0,23.32,0.0,,46.64
+ORD1753,"Jan 24, 2025",,West,Stationery,Notebook Pack,2.0,11.87,0.0,credit card,23.74
+ORD2354,14/08/2025,Zara Patel,north,Furniture,Standing Desk,10.0,$406.16,0.0,CREDIT CARD,4061.6
+ORD1436,"Mar 02, 2025",Chen Khan,South,Apparel,T-Shirt,6.0,$22.75,10.0,PayPal,122.85
+ORD2362,20/11/2025,Lucas Kumar,West,stationery,Pen Set,4.0,8.12,0.0,credit card,32.48
+ORD1680,2025-11-28,Kasun Nguyen,NORTH,Electronics,Headphones,1.0,$114.73,0.0,Debit Card,114.73
+ORD2133,12-Nov-2025,Priya Patel,East,Electronics,Headphones,5.0,126.62,0.0,Credit Card,633.1
+ORD2419,24-Jan-2025,Emma Wong,West,Electronics,Smartphone,1.0,615.18,20.0,PayPal,492.14
+ORD1689,03-Aug-2025,ETHAN SILVA,North,Furniture,Standing Desk,1.0,439.24,0.0,Bank Transfer,439.24
+ORD1552,"May 22, 2025",Noah Khan,east, Furniture ,Office Chair,2.0,168.12,15.0,Credit Card,285.8
+ORD1545,05/08/2025,Olivia Brown,North,Electronics,Smartphone,3.0,628.36,15.0,Debit Card,1602.32
+ORD2161,09-May-2025,Ravi Perera,west,Apparel,Running Shoes,1.0,96.1,0.0,Debit Card,96.1
+ORD1833,2025-01-23,Olivia Nguyen,South,,Office Chair,3.0,$190.53,20.0,CREDIT CARD,457.27
+ORD2088,"Dec 12, 2025",Liam Smith,West ,Stationery ,Pen Set,2.0,8.39,0.0,Credit Card,16.78
+ORD1928,16/02/2025,Olivia Perera,West,Furniture,Office Chair,5.0,193.86,10.0,paypal,872.37
+ORD1715,2025-05-10,chen ali,South,Stationery,Printer Paper,4.0,24.26,0.0,Debit Card,97.04
+ORD1404,22-Apr-2025,Arjun Johnson, North ,Apparel,Jacket,10.0,128.46,0.0,Bank Transfer,1284.6
+ORD2010,15-Jul-2025,Arjun Silva,South,ELECTRONICS,Smartphone,3.0,616.46,5.0,Bank Transfer,1756.91
+ORD1363,12/03/2025,Lucas Kumar,West,Electronics,Laptop,3.0,$804.72,20.0,Bank Transfer,1931.33
+ORD1272,29/07/2025,Lucas Johnson,North,Stationery,Notebook Pack,8.0,12.71,5.0,Cash,96.6
+ORD1467,2025-06-01,Arjun Ali,North,apparel,Running Shoes,3.0,98.14,0.0,Credit Card,294.42
+ORD2389,2025-06-23,,North,Stationery,Pen Set,3.0,8.35,0.0,Cash,25.05
+ORD2140,"Mar 27, 2025",Ravi Silva,West,Electronics,Laptop,-3.0,813.55,0.0,Cash,2440.65
+ORD2006,22-Mar-2025,,,Apparel,T-Shirt,2.0,22.82,0.0,Cash,45.64
+ORD1278,10/01/2025,Mia Patel,South,Furnature,Bookshelf,2.0,131.96,0.0,Debit Card,$263.92
+ORD2387,2025-07-15,sofia silva,East,APPAREL,Running Shoes,8.0,96.0,5.0,Debit Card,729.6
+ORD2475,17/09/2025,Mia Smith,North,Aparel,Jacket,3.0,$134.76,0.0,Credit Card,404.28
+ORD2165,26-Apr-2025,Aisha Silva,West,Stationery,Printer Paper,6.0,26.53,5.0,Credit Card,151.22
+ORD1442,"Apr 11, 2025",Lucas Khan,West,Electronics,Headphones,1.0,129.14,0.0,cash ,$129.14
+ORD1723,2025-12-09,Chen Fernando,North,Apparel,Running Shoes,3.0,89.32,5.0,Bank Transfer,254.56
+ORD1787,"Sep 21, 2025",Noah Smith,South,Furniture,Bookshelf,3.0,131.98,0.0,Bank Transfer,395.94
+ORD2193,04-Oct-2025,Arjun Brown,South,Furniture,Bookshelf,1.0,$139.76,10.0,Cash,$125.78
+ORD1443,13-Sep-2025,Lucas Patel,West,FURNITURE,Office Chair,1.0,188.34,5.0,,178.92
+ORD1300,"Jan 01, 2025",Mia Khan,West,Stationery,Notebook Pack,6.0,11.06,0.0,Debit Card,66.36
+ORD2009,,  Olivia Garcia  ,West,Furniture,Standing Desk,1.0,$411.53,15.0,Debit Card,349.8
+ORD1376,13/12/2025,Priya Nguyen,West,Furniture,Bookshelf,3.0,130.75,0.0,Debit Card,392.25
+ORD2351,2025-10-25,Priya Brown,North,Apparel,Jacket,8.0,133.93,10.0,,964.3
+ORD2159,2025-10-04,Zara Khan,North,ELECTRONICS,Headphones,5.0,125.81,20.0,PayPal,503.24
+ORD2441,27/06/2025,Ravi Ali,West,Apparel,Jacket,3.0,139.07,5.0,Credit Card,396.35
+ORD2049,,Sofia Garcia,North,Apparel,Jacket,1.0,127.26,15.0,Credit Card,108.17
+ORD2491,29-Oct-2025,,East,Electronics,Headphones,6.0,129.44,0.0,Cash,776.64
+ORD1473,"Jun 16, 2025",Ethan Perera,East,Clothing,Running Shoes,1.0,89.26,0.0,PayPal,89.26
+ORD1948,15-Jun-2025,Ravi Patel,South.,Furniture,Bookshelf,4.0,149.37,20.0,Credit Card,477.98
+ORD1564,01/03/2025,Ravi Nguyen,,Stationery,Notebook Pack,-4.0,11.38,5.0,Cash,43.24
+ORD1872,"May 13, 2025",Noah Silva,South,,Smartphone,4.0,$582.36,0.0,Debit Card,
+ORD2411,08/06/2025,Olivia Garcia,north,Stationary,Notebook Pack,4.0,12.11,0.0,,48.44
+ORD1751,2025-11-09,Nimali Khan,Nrth,Furniture,Standing Desk,1.0,447.53,5.0,PayPal,425.15
+ORD1389,"Apr 01, 2025",Liam Lopez,Wst,stationery,Notebook Pack,1.0,12.61,10.0,PayPal,11.35
+ORD1023,17-Jul-2025,Ethan Nguyen,West,Electronics,Smartphone,1.0,629.01,0.0,Bank Transfer,629.01
+ORD1884,21/07/2025,KASUN BROWN,North, Furniture ,Bookshelf,2.0,$133.48,0.0,Bank Transfer,266.96
+ORD2263,11/10/2025,Chen Perera,,Furniture,Standing Desk,3.0,$417.58,0.0,Bank Transfer,1252.74
+ORD1125,2025-04-04,Chen Khan,East, Furniture ,Bookshelf,1.0,,0.0,Cash,144.1
+ORD1424,11/12/2025,Lucas Khan,East,Apparel,Running Shoes,1.0,97.96,15.0,Debit Card,83.27
+ORD1919,2025-04-29,Aisha Wong,East,Apparel,Running Shoes,,91.82,0.0,Debit Card,734.56
+ORD1774,2025-09-21,Emma Silva,North,Electronics,Headphones,2.0,127.83,10.0,PayPal,230.09
+ORD1881,2025-06-11,Chen Nguyen,Est,APPAREL,Running Shoes,1.0,89.0,10.0,PayPal,80.1
+ORD2397,15/08/2025,Mia Ali,West,electronics,Laptop,4.0,877.28,10.0,PayPal,3158.21
+ORD1471,"Aug 09, 2025",Ravi Wong,West,ELECTRONICS,Headphones,,112.55,0.0,Credit Card,112.55
+ORD1722,02/01/2025,Aisha Johnson,North,Furniture,Office Chair,5.0,179.17,20.0,Credit Card,716.68
+ORD2442,28/05/2025,Nimali Brown,East,Electronics,Headphones,2.0,125.95,20.0,PayPal,201.52
+ORD1461,"Mar 25, 2025",Arjun Nguyen,West,Furniture,Standing Desk,1.0,412.68,20.0,Bank Transfer,330.14
+ORD1143,,ZARA PATEL,North,Stationery,Pen Set,2.0,9.03,0.0,Bank Transfer,18.06
+ORD1051,11-Feb-2025,  Kasun Smith  , North ,Stationery,Printer Paper,6.0,23.96,0.0,Debit Card,143.76
+ORD1864,30-Jun-2025,Ethan Silva,South,Stationery,Notebook Pack,4.0,12.62,10.0,,45.43
+ORD2451,28-Feb-2025,Arjun Smith,South,Stationery,Notebook Pack,5.0,12.19,0.0,PayPal,60.95
+ORD2082,13/04/2025,Nimali Patel,East,Furniture,Bookshelf,4.0,144.53,0.0,Bank Transfer,578.12
+ORD1624,12/08/2025,Chen Johnson,East,Apparel,T-Shirt,4.0,23.12,,Debit Card,92.48
+ORD2126,"Nov 21, 2025",Sofia Nguyen,North,Apparel,Jacket,5.0,135.43,0.0,Cash,677.15
+ORD1082,23/12/2025,Sofia Wong,South,Stationery,Notebook Pack,2.0,11.07,15.0,Debit Card,$18.82
+ORD1704,03/01/2025,Liam Wong,South,Stationery,Notebook Pack,10.0,,0.0,Cash,
+ORD1483,"May 30, 2025",Chen Nguyen,South,Furniture,Bookshelf,4.0,147.57,15.0,Cash,501.74
+ORD1322,2025-12-14,Ravi Garcia,East,Electronics,Headphones,2.0,115.94,0.0,PayPal,231.88
+ORD2298,2025-09-10,Emma Silva,east,Furniture,Bookshelf,3.0,143.97,0.0,PayPal,431.91
+ORD1506,2025-02-28,Priya Johnson,West,Stationery,Pen Set,1.0,8.7,15.0,Bank Transfer,7.39
+ORD2478,2025-10-21,Olivia Ali,WEST,Apparel,Jacket,3.0,129.48,15.0,Bank Transfer,330.17
+ORD1842,"Feb 19, 2025",Kasun Brown,NORTH,Apparel,Running Shoes,2.0,99.63,0.0,Bank Transfer,199.26
+ORD1067,06-Jul-2025,Liam Garcia,,FURNITURE,Standing Desk,6.0,438.81,5.0,Debit Card,2501.22
+ORD2330,23-Jun-2025,Kasun Nguyen,East,Apparel,Jacket,2.0,126.62,15.0,Cash,215.25
+ORD1985,26-Jan-2025,Ethan Patel, North ,Apparel,Running Shoes,4.0,94.42,15.0,PayPal,321.03
+ORD2378,"May 28, 2025",Chen Silva,South,Furniture,Standing Desk,,430.88,5.0,PayPal,409.34
+ORD1802,24/04/2025,Priya Khan,North,Electronics,Headphones,2.0,123.4,5.0,Debit Card,234.46
+ORD1916,21-Mar-2025,Sofia Perera,North,Furniture,Standing Desk,5.0,425.26,0.0,Bank Transfer,2126.3
+ORD1908,"Feb 23, 2025",Priya Nguyen,South,Electronics,Smartphone,5.0,626.92,0.0,Credit Card,3134.6
+ORD1032,"Mar 07, 2025",Chen Wong,South,Electronics,Headphones,3.0,,0.0,Cash,375.6
+ORD1796,25/05/2025,Ravi Silva,W.,Electronic,Smartphone,,587.63,5.0,Credit Card,1674.75
+ORD1418,28-Apr-2025,ARJUN BROWN,East,Stationery,Notebook Pack,2.0,11.27,0.0,Debit Card,22.54
+ORD1882,"Sep 19, 2025",Priya Silva,South,Electronics,Headphones,3.0,111.33,0.0,Bank Transfer,333.99
+ORD1633,"Aug 03, 2025",Kasun Silva,West,Apparel,T-Shirt,3.0,20.9,0.0,PayPal,
+ORD2206,2025-01-17,Liam Patel,South,Electronics,Headphones,,121.09,10.0,Credit Card,108.98
+ORD2284,2025-03-06,Nimali Fernando,North,Furniture,Standing Desk,1.0,414.47,0.0,PayPal,414.47
+ORD1065,"Dec 20, 2025",Olivia Wong,North,Electronic,Smartphone,6.0,612.78,0.0,Cash,3676.68
+ORD1140,"Feb 07, 2025",Liam Fernando,South,Stationery,Pen Set,2.0,8.73,,Bank Transfer,15.71
+ORD2251,17-Feb-2025,Lucas Perera,South,FURNITURE,Bookshelf,6.0,$149.17,0.0,Bank Transfer,895.02
+ORD2245,2025-03-17,Mia Brown,south,Furniture,Bookshelf,2.0,140.03,0.0,cc,280.06
+ORD1078,"Sep 19, 2025",Emma Silva,South,Apparel,Running Shoes,2.0,96.17,0.0,Cash,192.34
+ORD1492,28/11/2025,Liam Nguyen,West,Electroncs,Headphones,2.0,116.68,5.0,Cash,221.69
+ORD2289,2025-06-29,Aisha Smith,South,Apparel,Jacket,1.0,126.98,0.0,Cash,126.98
+ORD2178,29/11/2025,,South ,Apparel,T-Shirt,5.0,21.39,0.0,,106.95
+ORD1533,07-Sep-2025,Lucas Nguyen,North,Stationery,Pen Set,1.0,7.93,0.0,Credit Card,7.93
+ORD1066,10-Oct-2025,Olivia Silva,south,Apparel,Running Shoes,2.0,98.43,15.0,Credit Card,
+ORD2486,20/09/2025,Emma Ali,South,Apparel,T-Shirt,1.0,22.68,0.0,PayPal,22.68
+ORD1976,24/07/2025,Nimali Ali,North,Clothing,Running Shoes,6.0,99.66,20.0,paypal,478.37
+ORD2306,01/09/2025,Ethan Brown,East,Furniture,Bookshelf,2.0,,0.0,Debit Card,$290.24
+ORD1297,"Mar 04, 2025",Liam Khan,West,Furniture,Standing Desk,1.0,402.74,10.0,Bank Transfer,362.47
+ORD1592,2025-08-27,Lucas Silva,North,Stationery,Pen Set,8.0,8.89,0.0,Bank Transfer,71.12
+ORD1420,04/05/2025,,North,Electronic,Laptop,2.0,790.73,5.0,Bank Transfer,1502.39
+ORD1768,22/02/2025,Arjun Ali,West,stationery,Pen Set,3.0,8.52,0.0,Debit Card,25.56
+ORD1893,2025-09-13,Olivia Lopez,,Stationery ,Notebook Pack,2.0,11.15,0.0,cc,22.3
+ORD1439,12/09/2025,Ravi Smith,West,Stationery,Printer Paper,2.0,25.57,5.0,Cash,48.58
+ORD1262,2025-11-18,Chen Brown,West,Electronics,Headphones,2.0,113.89,15.0,Bank Transfer,$193.61
+ORD2034,23/12/2025,Olivia Silva,West,Apparel,Running Shoes,2.0,88.81,10.0,Cash,159.86
+ORD1725,"May 16, 2025",Ravi Perera,North,Furniture,Standing Desk,1.0,443.91,0.0,Debit Card,$443.91
+ORD2483,23-Sep-2025,Ethan Lopez,,Stationery ,Printer Paper,1.0,26.2,0.0,,26.2
+ORD1282,16-Nov-2025,  Kasun Ali  ,West,apparel,T-Shirt,10.0,20.76,0.0,Credit Card,207.6
+ORD1627,2025-10-21,Ethan Lopez,North,Apparel,T-Shirt,1.0,22.23,5.0,Debit Card,21.12
+ORD2322,08-Aug-2025,Mia Garcia,West,Electroncs,Smartphone,3.0,$553.09,10.0,Cash,1493.34
+ORD2091,"Aug 27, 2025",Olivia Smith,,ELECTRONICS,Smartphone,1.0,552.96,10.0,Credit Card,
+ORD1775,12-Oct-2025,Priya Fernando,South,Furniture,Standing Desk,,407.19,10.0,Bank Transfer,1099.41
+ORD1189,2025-12-08,Aisha Kumar,West,Furniture,Standing Desk,2.0,426.04,0.0,credit card,852.08
+ORD2498,22/07/2025,Lucas Wong,North,Furniture,Office Chair,4.0,181.94,10.0,PayPal,654.98
+ORD1252,2025-12-27,Arjun Wong,East,Stationery,Printer Paper,2.0,23.56,10.0,Credit Card,42.41
+ORD1584,2025-09-29,ARJUN SILVA,West,Furniture,Office Chair,1.0,181.02,0.0,Credit Card,181.02
+ORD2073,"Jul 31, 2025",Noah Brown,South,Furniture,Standing Desk,1.0,386.53,10.0,Cash,347.88
+ORD2408,2025-05-11,Kasun Khan,West,Stationery,Notebook Pack,3.0,12.76,10.0,Credit Card,34.45
+ORD2254,12-Jun-2025,Liam Johnson,E.,Stationery,Pen Set,,7.98,10.0,PayPal,35.91
+ORD1515,03/07/2025,Aisha Brown,South,Electronics,Laptop,3.0,816.89,20.0,Debit Card,1960.54
+ORD2392,"May 25, 2025",Priya Nguyen,East,Stationery,Notebook Pack,3.0,12.72,20.0,Bank Transfer,
+ORD2018,24-Feb-2025,Olivia Fernando,North,Furniture,Office Chair,2.0,$173.33,0.0,Bank Transfer,346.66
+ORD2471,2025-05-26,Nimali Smith,East,Stationery,Printer Paper,1.0,23.02,5.0,Bank Transfer,21.87
+ORD1707,15-Sep-2025,sofia fernando,North,,Notebook Pack,1.0,12.73,10.0,Credit Card,11.46
+ORD1488,04/12/2025,Olivia Ali,West,Furnature,Standing Desk,3.0,$393.56,5.0,PayPal,1121.65
+ORD1664,"May 02, 2025",Liam Ali,West,Apparel,T-Shirt,4.0,22.93,0.0,Cash,91.72
+ORD2237,"Jun 21, 2025",ZARA NGUYEN,East,Apparel,Jacket,1.0,$139.64,0.0,cc,$139.64
+ORD2217,"Sep 03, 2025",Sofia Fernando,,Electronics,Laptop,3.0,917.94,10.0,Bank Transfer,2478.44
+ORD1274,2025-12-03,Olivia Garcia,,Furniture,Standing Desk,2.0,440.35,0.0,Bank Transfer,
+ORD1686,16/06/2025,Priya Patel,East,Apparel,Jacket,3.0,$129.22,0.0,,387.66
+ORD2257,2025-04-21,Ravi Ali,West,Electronics,Smartphone,1.0,563.19,5.0,PayPal,535.03
+ORD2294,"Feb 24, 2025",Kasun Lopez, East,Apparel,Jacket,1.0,130.05,10.0,cc,117.05
+ORD1964,23/10/2025,,West,Apparel,Jacket,5.0,126.51,5.0,,600.92
+ORD1878,28/04/2025,Nimali Lopez,South,Furniture,Office Chair,4.0,165.73,0.0,Bank Transfer,662.92
+ORD2087,04/10/2025,ravi perera,South,Furnature,Bookshelf,2.0,148.86,0.0,Credit Card,297.72
+ORD2403,11-Jul-2025,Emma Lopez,East,Stationery,Notebook Pack,3.0,12.08,0.0,Debit Card,36.24
+ORD1449,04-Jan-2025,Zara Perera,,Electronics,Laptop,4.0,839.87,0.0,Bank Transfer,3359.48
+ORD1412,"Jun 26, 2025",Noah Wong,North,Stationery,Notebook Pack,1.0,12.29,0.0,Credit Card,12.29
+ORD1459,"May 24, 2025",Liam Fernando,East,Apparel,Jacket,1.0,137.71,0.0,Credit Card,137.71
+ORD1377,"May 23, 2025",Sofia Khan,east,Furniture,Office Chair,2.0,173.08,10.0,Cash,311.54
+ORD2358,10/12/2025,Arjun Patel,West,Apparel,T-Shirt,4.0,22.33,5.0,Cash,84.85
+ORD1668,15/02/2025,Nimali Brown,South,APPAREL,Jacket,1.0,138.45,0.0,PayPal,138.45
+ORD2288,2025-03-05,,South,Electronics,Smartphone,3.0,587.85,0.0,Debit Card,1763.55
+ORD1150,28-Nov-2025,Olivia Patel,South,Furniture,Office Chair,4.0,$176.44,0.0,Credit Card,705.76
+ORD1998,"Mar 14, 2025",aisha silva, North ,Clothing,T-Shirt,5.0,22.19,0.0,Cash,110.95
+ORD2243,01/03/2025,Liam Garcia,South,Furniture,Office Chair,1.0,168.26,0.0,PayPal,$168.26
+ORD1734,"Jul 14, 2025",Mia Nguyen,North,Clothing,Running Shoes,2.0,102.25,0.0,Debit Card,204.5
+ORD1219,2025-05-09,Kasun Smith,North,Stationery,Printer Paper,2.0,23.51,0.0,paypal,47.02
+ORD1240,2025-05-20,,East,Electronics,Headphones,10.0,112.79,10.0,Credit Card,1015.11
+ORD2119,2025-11-06,Zara Nguyen,South.,Apparel,T-Shirt,1.0,20.51,5.0,cc,19.48
+ORD1868,28/07/2025,Emma Wong,North,Electronics,Headphones,1.0,124.77,0.0,,124.77
+ORD1726,2025-05-29,Mia Kumar,Est,,Laptop,5.0,819.98,5.0,PayPal,"$3,894.90"
+ORD1193,"Jul 15, 2025",Mia Nguyen, East,Furniture,Office Chair,1.0,192.29,0.0,Cash,192.29
+ORD1793,2025-06-11,Aisha Silva,North,Stationery,Notebook Pack,2.0,12.55,0.0,Bank Transfer,25.1
+ORD1192,12-Apr-2025,Ethan Lopez,West,Furniture,Standing Desk,3.0,444.35,15.0,Credit Card,
+ORD2003,20-Feb-2025,, North ,Apparel,T-Shirt,6.0,20.28,5.0,Debit Card,115.6
+ORD1230,23/06/2025,RAVI SILVA,West ,Stationery,Notebook Pack,1.0,12.52,0.0,Credit Card,12.52
+ORD2439,"Aug 05, 2025",Lucas Wong,Nrth,Electronics,Laptop,10.0,$806.09,10.0,cc,7254.81
+ORD1963,2025-05-08,Kasun Wong,West,Apparel,Jacket,2.0,128.12,10.0,Credit Card,$230.62
+ORD1645,29-Mar-2025,,WEST,Furniture,Office Chair,3.0,182.98,5.0,Credit Card,521.49
+ORD1360,"Nov 16, 2025",Emma Fernando,North,Furniture,Standing Desk,4.0,$401.07,15.0,PayPal,1363.64
+ORD1003,2025-01-17,Aisha Smith,South,Stationery,Notebook Pack,1.0,12.7,5.0,CREDIT CARD,12.06
+ORD1927,25/05/2025,Priya Fernando,West,Electronics,Smartphone,2.0,572.08,0.0,Credit Card,1144.16
+ORD1017,2025-02-03,Nimali Nguyen,,Furniture,Standing Desk,3.0,,20.0,Debit Card,957.17
+ORD1334,"Sep 03, 2025",Zara Kumar,WEST,Apparel,T-Shirt,2.0,20.89,5.0,Bank Transfer,39.69
+ORD2252,2025-04-24,Priya Khan,North,Stationery ,Printer Paper,4.0,24.09,0.0,Credit Card,96.36
+ORD1583,03-Dec-2025,ETHAN LOPEZ,East,electronics,Laptop,1.0,817.33,10.0,BANK TRANSFER,735.6
+ORD2476,02/06/2025,Aisha Brown,East,Stationery,Pen Set,2.0,8.14,0.0,cash ,16.28
+ORD2110,26/07/2025,Olivia Lopez,EAST,Stationary,Printer Paper,,23.56,5.0,Credit Card,$44.76
+ORD1840,"Oct 30, 2025",Noah Khan,West,Clothing,Running Shoes,2.0,97.85,10.0,PayPal,176.13
+ORD1628,12-Jun-2025,Arjun Johnson,North,Apparel,Running Shoes,6.0,97.07,10.0,cash ,524.18
+ORD2445,2025-12-11,Mia Kumar,West,Stationery,Notebook Pack,2.0,12.28,0.0,Debit Card,$24.56
+ORD1324,2025-11-29,priya khan,N.,Furniture,Bookshelf,2.0,143.67,15.0,Credit Card,244.24
+ORD1825,06-Oct-2025,Kasun Silva,WEST,apparel,Running Shoes,6.0,98.38,5.0,Cash,560.77
+ORD2273,02-Jul-2025,Liam Patel,E.,Apparel,Jacket,2.0,136.73,10.0,Bank Transfer,246.11
+ORD1632,25-Feb-2025,Aisha Perera,Wst,Furnature,Standing Desk,1.0,423.7,10.0,BANK TRANSFER,381.33
+ORD2074,"Jun 04, 2025",nimali wong,East,Stationery,Pen Set,4.0,8.52,0.0,Debit Card,34.08
+ORD1170,,Noah Patel,west,Stationery,Printer Paper,5.0,26.8,10.0,Cash,120.6
+ORD1779,"Apr 05, 2025",Noah Kumar,South,Furniture,Office Chair,,176.65,0.0,PayPal,176.65
+ORD2075,11/07/2025,Liam Kumar,South,electronics,Smartphone,1.0,$553.84,0.0,Credit Card,553.84
+ORD1940,"Jan 05, 2025",Liam Nguyen,West,Furniture,Office Chair,1.0,165.86,0.0,Bank Transfer,
+ORD1856,11-Nov-2025,liam fernando,West,Stationery,Printer Paper,1.0,23.93,0.0,Credit Card,23.93
+ORD1438,"Oct 01, 2025",MIA PATEL,East,Stationary,Pen Set,6.0,8.56,10.0,Cash,46.22
+ORD1120,"Sep 08, 2025",Emma Silva,East,Stationery,Notebook Pack,3.0,,5.0,PayPal,36.62
+ORD2095,16-Jan-2025,Noah Brown,North,Stationery,Pen Set,6.0,9.02,0.0,Cash,54.12
+ORD2052,03/06/2025,Lucas Garcia,West ,Electronics,Smartphone,2.0,594.48,5.0,Credit Card,1129.51
+ORD2207,2025-08-23,Zara Fernando,East,Stationery,Pen Set,5.0,8.06,5.0,Debit Card,38.29
+ORD2068,"Jan 29, 2025",Sofia Nguyen,East,Stationery,Notebook Pack,,11.41,,Bank Transfer,19.4
+ORD1077,02/11/2025,Zara Garcia,East,Electronics,Smartphone,6.0,612.59,10.0,PayPal,3307.99
+ORD1901,"Jun 22, 2025",Zara Johnson,West,,Jacket,3.0,139.9,0.0,Credit Card,419.7
+ORD1372,"Aug 03, 2025",Olivia Silva,South,,Bookshelf,3.0,142.08,5.0,PayPal,404.93
+ORD2115,16-Jul-2025,Mia Lopez,West,STATIONERY,Printer Paper,3.0,23.63,0.0,Debit Card,70.89
+ORD1762,"Mar 09, 2025",Kasun Wong,East,Apparel,Jacket,1.0,122.51,0.0,Credit Card,122.51
+ORD1942,18-Dec-2025,Lucas Kumar,north,Electronic,Smartphone,,582.88,10.0,,524.59
+ORD1578,09-Jun-2025,Lucas Smith,,Furniture,Standing Desk,3.0,,0.0,Credit Card,1265.46
+ORD1820,"Aug 17, 2025",Kasun Fernando,SOUTH,Electronics,Headphones,3.0,119.79,0.0,PayPal,359.37
+ORD2134,"Feb 27, 2025",Kasun Nguyen,South,Apparel,T-Shirt,,20.48,0.0,PayPal,61.44
+ORD2152,2025-03-04,Emma Smith,South,Apparel,Jacket,2.0,139.19,0.0,PayPal,278.38
+ORD2338,2025-12-27,,West,Apparel,Jacket,2.0,$134.10,0.0,Debit Card,268.2
+ORD1887,15/05/2025,Arjun Patel,WEST,Stationery,Printer Paper,1.0,25.63,0.0,Bank Transfer,25.63
+ORD1969,20-Apr-2025,Ethan Kumar,East,Stationery,Printer Paper,3.0,23.22,20.0,Cash,55.73
+ORD1786,17-Aug-2025,chen perera,Est,Stationery ,Printer Paper,1.0,26.61,0.0,Debit Card,26.61
+ORD2189,2025-03-15,Priya Wong,Wst,Furniture,Office Chair,2.0,186.48,5.0,PayPal,$354.31
+ORD2246,"Mar 04, 2025",Aisha Silva,West,Furniture,Standing Desk,2.0,430.88,10.0,Debit Card,775.58
+ORD1302,06/10/2025,Aisha Silva,,Stationery,Printer Paper,3.0,24.69,15.0,Credit Card,62.96
+ORD1690,2025-10-20,Nimali Garcia,South,apparel,T-Shirt,,$20.82,0.0,Bank Transfer,20.82
+ORD1813,"Nov 07, 2025",noah lopez,East,Apparel,Jacket,2.0,126.68,5.0,Debit Card,240.69
+ORD1237,2025-09-04,,North,Apparel,Jacket,1.0,133.78,10.0,Cash,120.4
+ORD2050,02-Aug-2025,Kasun Fernando,East,Electronics,Smartphone,,627.59,0.0,Bank Transfer,1882.77
+ORD1500,28/11/2025,Emma Johnson,South ,,Bookshelf,2.0,137.31,15.0,Debit Card,233.43
+ORD2417,"Sep 02, 2025",Sofia Fernando,South,Electronics,Smartphone,3.0,,0.0,Cash,"$1,935.15"
+ORD1795,2025-09-15,Emma Patel,east,Furniture,Bookshelf,8.0,,0.0,Bank Transfer,1107.6
+ORD2183,30/03/2025,Lucas Smith,Nrth,APPAREL,Running Shoes,1.0,94.76,0.0,Cash,94.76
+ORD1991,13/01/2025,Sofia Fernando,East,Apparel,Jacket,2.0,122.99,,Bank Transfer,221.38
+ORD2062,2025-11-23,NIMALI PERERA,S.,Stationery,Printer Paper,1.0,25.06,5.0,Cash,23.81
+ORD1935,17/04/2025,Chen Silva,East,apparel,Jacket,8.0,139.57,5.0,Cash,1060.73
+ORD1388,"Nov 30, 2025",Arjun Wong,North,Electronics,Smartphone,1.0,$584.17,10.0,Debit Card,525.75
+ORD1391,24/02/2025,Lucas Patel,West,Apparel,Running Shoes,3.0,102.31,,cash ,291.58
+ORD1744,"Jul 26, 2025",Zara Perera,North,Electronic,Smartphone,1.0,623.35,0.0,credit card,
+ORD1353,28/08/2025,Chen Patel,W.,Stationery,Printer Paper,4.0,24.61,0.0,Credit Card,$98.44
+ORD1236,09-Jun-2025,Mia Smith,South,Apparel,Running Shoes,10.0,92.3,10.0,Debit Card,830.7
+ORD2321,"Oct 26, 2025",Aisha Kumar,east,Apparel,T-Shirt,3.0,$21.62,0.0,PayPal,64.86
+ORD1481,"Nov 01, 2025",Olivia Patel,East,apparel,Jacket,10.0,121.55,,cc,1154.72
+ORD1568,02-Mar-2025,Aisha Garcia,west,Clothing,T-Shirt,2.0,21.34,5.0,Cash,40.55
+ORD2305,06-Aug-2025,,East,,Office Chair,1.0,193.78,20.0,PayPal,155.02
+ORD2443,17-Sep-2025,  Arjun Nguyen  ,East,Furniture,Office Chair,,193.9,0.0,Bank Transfer,193.9
+ORD2105,2025-06-17,Chen Johnson,North,Stationery,Notebook Pack,4.0,11.06,0.0,Credit Card,44.24
+ORD1121,"Mar 20, 2025",Zara Fernando,E.,Apparel,T-Shirt,2.0,22.5,0.0,Bank Transfer,$45.00
+ORD2335,27/06/2025,  Noah Johnson  ,Est,Furniture,Office Chair,4.0,170.03,0.0,Bank Transfer,
+ORD2025,13-Aug-2025,,East,Electronics,Headphones,2.0,$115.61,5.0,PayPal,219.66
+ORD1927,25/05/2025,Priya Fernando,West,Electronics,Smartphone,2.0,572.08,0.0,Credit Card,1144.16
+ORD1516,15-Oct-2025,Chen Silva,West,Stationery,Notebook Pack,2.0,12.59,5.0,PayPal,23.92
+ORD1224,2025-12-04,Sofia Brown,N.,Electronics,Laptop,1.0,,15.0,Credit Card,684.74
+ORD2141,2025-09-30,Arjun Silva,West,Stationery,Pen Set,4.0,8.67,10.0,PayPal,$31.21
+ORD1614,18/07/2025,Mia Lopez,South,Apparel,Running Shoes,1.0,93.06,0.0,Debit Card,$93.06
+ORD1844,01-Jan-2025,ZARA WONG,west,Stationery,Printer Paper,10.0,25.71,,Cash,231.39
+ORD1053,"Aug 03, 2025",,South,Electronics,Smartphone,4.0,625.12,0.0,Cash,2500.48
+ORD2427,"Dec 02, 2025",Chen Brown,West,Electronics,Headphones,1.0,117.92,0.0,Bank Transfer,$117.92
+ORD1486,2025-04-18,Ravi Kumar,East,Apparel,T-Shirt,8.0,22.67,5.0,Credit Card,172.29
+ORD2480,20/02/2025,Olivia Ali,West,STATIONERY,Pen Set,5.0,9.17,0.0,PayPal,45.85
+ORD1819,2025-12-06,Arjun Lopez,South,Electronics,Laptop,3.0,800.93,0.0,Bank Transfer,2402.79
+ORD1156,31/03/2025,Chen Wong,West,Electronics,Laptop,2.0,820.86,15.0,Cash,1395.46
+ORD1601,13/05/2025,Noah Perera,North,Aparel,Running Shoes,8.0,98.61,0.0,Debit Card,788.88
+ORD2241,"May 26, 2025",Ravi Fernando,South,,Bookshelf,2.0,$147.49,15.0,Bank Transfer,250.73
+ORD1249,2025-07-22,Liam Perera,South,Furniture,Office Chair,1.0,191.51,0.0,Cash,191.51
+ORD1762,"Mar 09, 2025",Kasun Wong,East,Apparel,Jacket,1.0,122.51,0.0,Credit Card,122.51
+ORD2415,20-Sep-2025,Lucas Brown,South,Electronics,Laptop,4.0,843.77,0.0,Debit Card,3375.08
+ORD1543,20-Apr-2025,Chen Smith,South ,Electroncs,Laptop,1.0,854.87,0.0,Bank Transfer,854.87
+ORD1794,25/11/2025,Noah Kumar,North,Electronics,Laptop,5.0,893.85,15.0,Credit Card,3798.86
+ORD2125,10/02/2025,Noah Khan,West,Stationery,Printer Paper,,25.65,10.0,Credit Card,23.09
+ORD1629,2025-06-19,Noah Khan,East,Electronics,Headphones,1.0,119.26,0.0,cash ,119.26
+ORD1151,2025-03-26,Sofia Nguyen,East,Electroncs,Laptop,5.0,857.94,0.0,PayPal,4289.7
+ORD1292,"Apr 25, 2025",Aisha Garcia,North,FURNITURE,Bookshelf,2.0,129.37,0.0,Cash,258.74
+ORD1382,,Priya Wong,East,Furniture,Office Chair,3.0,173.29,15.0,Debit Card,441.89
+ORD1687,2025-09-22,,West,Electronics,Headphones,3.0,120.87,0.0,Cash,362.61
+ORD1898,14-Dec-2025,Nimali Nguyen,South,Furniture,Bookshelf,3.0,129.02,0.0,credit card,387.06
+ORD1855,24-Mar-2025,Emma Khan,West,Apparel,T-Shirt,1.0,20.5,,Cash,20.5
+ORD2072,01-Mar-2025,Sofia Ali, East,Apparel,Running Shoes,4.0,90.89,0.0,Credit Card,363.56
+ORD1896,2025-06-21,Priya Garcia,East,APPAREL,T-Shirt,1.0,20.68,0.0,Bank Transfer,
+ORD2180,24-Feb-2025,emma brown,,ELECTRONICS,Smartphone,2.0,616.7,0.0,Credit Card,1233.4
+ORD2310,17/06/2025,Olivia Patel,North,Apparel,Jacket,3.0,$133.91,0.0,Credit Card,401.73
+ORD1892,2025-03-16,Olivia Brown,North,Furniture,Office Chair,1.0,191.24,0.0,Debit Card,191.24
+ORD2177,10-Jan-2025,Chen Nguyen,north,Apparel,Jacket,10.0,128.75,0.0,Debit Card,1287.5
+ORD1616,27-Dec-2025,Mia Nguyen,South,Electronics,Laptop,1.0,798.52,0.0,Bank Transfer,798.52
+ORD1155,"Apr 28, 2025",Aisha Kumar,East,Electronics,Smartphone,4.0,608.0,20.0,Bank Transfer,1945.6
+ORD2324,"Feb 13, 2025",Noah Lopez,East,Apparel,Running Shoes,2.0,102.2,5.0,cc,194.18
+ORD1698,31/07/2025,Liam Lopez,South,furniture,Standing Desk,10.0,400.09,5.0,Debit Card,3800.85
+ORD1323,21-Oct-2025,Olivia Wong,East,Electronics,Smartphone,,580.52,5.0,paypal,2205.98
+ORD2195,01-Apr-2025,Kasun Johnson,north,Stationery,Pen Set,2.0,$8.99,0.0,Credit Card,17.98
+ORD1083,07/12/2025,Ethan Johnson,S.,Stationery,Notebook Pack,2.0,12.9,20.0,Bank Transfer,20.64
+ORD1513,"Oct 03, 2025",Kasun Wong,South,Apparel,Jacket,1.0,133.77,0.0,PayPal,133.77
+ORD2179,2025-02-19,Ravi Nguyen,South,Furniture,Standing Desk,1.0,395.11,0.0,Bank Transfer,395.11
+ORD1930,23-Dec-2025,,North,STATIONERY,Pen Set,1.0,9.11,20.0,Debit Card,7.29
+ORD2265,15-May-2025,Sofia Johnson,WEST,Electronics,Headphones,3.0,124.59,,Credit Card,373.77
+ORD1011,27/04/2025,Sofia Smith,South,Apparel,Jacket,3.0,123.15,0.0,Credit Card,369.45
+ORD1832,30-Oct-2025,Kasun Johnson,,Furniture,Office Chair,2.0,180.32,0.0,Credit Card,360.64
+ORD1033,07/11/2025,Zara Khan,South,Stationery,Printer Paper,3.0,24.71,0.0,Cash,74.13
+ORD1414,27-Nov-2025,Zara Garcia,West,Clothing,Jacket,1.0,137.67,10.0,PayPal,123.9
+ORD1581,2025-10-07,Arjun Fernando,,Apparel,T-Shirt,5.0,22.82,10.0,PayPal,102.69
+ORD2197,2025-11-12,ravi perera,north,FURNITURE,Bookshelf,1.0,133.2,20.0,Credit Card,106.56
+ORD1331,18/09/2025,Arjun Smith,South.,Furniture,Bookshelf,5.0,144.36,0.0,Debit Card,721.8
+ORD1615,31-Oct-2025,Lucas Kumar,,Furniture,Office Chair,2.0,183.25,15.0,Bank Transfer,311.52
+ORD2046,04/11/2025,Aisha Khan,East,Electronic,Smartphone,3.0,623.32,10.0,Bank Transfer,1682.96
+ORD2015,12/06/2025,Noah Wong,North,Electronics,Headphones,1.0,118.15,10.0,,106.34
+ORD1090,2025-11-19,Nimali Ali,Wst,STATIONERY,Notebook Pack,4.0,11.73,,PayPal,46.92
+ORD2316,09/08/2025,  Olivia Patel  ,West,Stationery,Pen Set,1.0,8.72,5.0,PayPal,
+ORD1602,16-Aug-2025,Olivia Smith,East,Apparel,Jacket,1.0,126.87,10.0,Credit Card,114.18
+ORD1134,29-Oct-2025,Sofia Smith,South,Furniture,Standing Desk,4.0,393.33,15.0,Cash,1337.32
+ORD1556,"Jul 04, 2025",Lucas Fernando,West,Electronics,Laptop,6.0,810.36,15.0,Bank Transfer,"$4,132.84"
+ORD2032,10-Nov-2025,Liam Ali,South,Furniture,Standing Desk,5.0,399.07,5.0,PayPal,1895.58
+ORD2211,2025-05-07,arjun garcia,,Apparel,T-Shirt,4.0,20.78,0.0,Bank Transfer,83.12
+ORD1321,07/07/2025,Mia Silva,North,APPAREL,Jacket,1.0,$132.15,0.0,Bank Transfer,132.15
+ORD2367,11-Mar-2025,Aisha Silva,South,Apparel,Jacket,1.0,120.18,5.0,cash ,114.17
+ORD2343,27-May-2025,Kasun Patel,South,Furniture,Standing Desk,2.0,$396.90,10.0,PayPal,714.42
+ORD1635,18/12/2025,Arjun Fernando,West,Apparel,Jacket,4.0,120.33,10.0,Debit,433.19
+ORD1553,2025-06-04,Nimali Wong,S.,Apparel,Jacket,3.0,125.95,0.0,PayPal,377.85
+ORD2056,"Nov 19, 2025",Noah Brown,east,Apparel,Running Shoes,2.0,101.49,0.0,PayPal,202.98
+ORD2204,02-Apr-2025,Ethan Garcia,South,STATIONERY,Pen Set,10.0,,,PayPal,86.0
+ORD1797,22/03/2025,  Arjun Fernando  ,West,Stationery,Pen Set,4.0,8.76,0.0,,35.04
+ORD2290,28/06/2025,Mia Fernando,South,Apparel,Running Shoes,4.0,97.4,0.0,Bank Transfer,389.6
+ORD2356,07-May-2025,PRIYA KUMAR,South.,Aparel,Jacket,1.0,122.22,20.0,Cash,97.78
+ORD1175,23/01/2025,Lucas Ali,WEST,Stationery,Notebook Pack,10.0,12.66,10.0,PayPal,113.94
+ORD1767,2025-12-20,Sofia Khan,North,Electronics,Laptop,1.0,$828.09,10.0,Cash,
+ORD1246,07/11/2025,Ravi Silva,East,Stationery,Pen Set,6.0,8.35,10.0,Debit Card,45.09
+ORD2081,"Sep 24, 2025",SOFIA PERERA,East,Electronics,Smartphone,2.0,593.18,5.0,Debit Card,"$1,127.04"
+ORD2265,15-May-2025,Sofia Johnson,WEST,Electronics,Headphones,3.0,124.59,,Credit Card,373.77
+ORD1146,2025-03-22,Aisha Silva,West,Electronics,Smartphone,4.0,558.99,10.0,Bank Transfer,2012.36
+ORD1091,05-May-2025,Olivia Johnson,north,Stationery,Notebook Pack,5.0,12.6,15.0,Credit Card,53.55
+ORD1683,13/12/2025,Ethan Nguyen,N.,Furniture,Standing Desk,,433.97,5.0,Credit Card,412.27
+ORD1311,2025-06-19,PRIYA SMITH,East,Apparel,Jacket,1.0,136.97,20.0,PayPal,109.58
+ORD1094,2025-09-29,Lucas Kumar,West,Clothing,Jacket,5.0,138.11,0.0,Bank Transfer,690.55
+ORD2213,2025-01-21,Chen Ali,North,Electronics,Laptop,8.0,787.45,0.0,PayPal,6299.6
+ORD1925,22/08/2025,Ravi Patel,West,Apparel,Jacket,5.0,129.16,5.0,Debit Card,613.51
+ORD2309,13/09/2025,aisha fernando,West,Electronics,Smartphone,10.0,554.47,5.0,Bank Transfer,5267.47
+ORD2036,09-May-2025,Lucas Ali,South,Electronics,Smartphone,,621.45,0.0,Credit Card,1242.9
+ORD1244,"Feb 13, 2025",Liam Fernando,South,apparel,Running Shoes,1.0,89.9,10.0,CREDIT CARD,$80.91
+ORD2112,16-Jan-2025,Arjun Silva,Wst, Furniture ,Standing Desk,1.0,,10.0,Cash,401.62
+ORD1215,21/08/2025,Noah Johnson,South,Electronic,Smartphone,1.0,583.44,0.0,Bank Transfer,583.44
+ORD1999,2025-01-31,Sofia Khan,East,Electronics,Headphones,1.0,127.01,0.0,Credit Card,127.01
+ORD1854,"Mar 12, 2025",Emma Ali,South,Apparel,T-Shirt,2.0,23.04,10.0,PayPal,41.47
+ORD1426,13/10/2025,Kasun Johnson,west,Electronics,Laptop,1.0,814.92,20.0,paypal,651.94
+ORD2361,"Feb 16, 2025",Arjun Patel,South,Furniture,Standing Desk,4.0,402.08,5.0,Debit Card,1527.9
+ORD2143,14-Dec-2025,Lucas Wong,North,Stationery,Notebook Pack,3.0,12.24,15.0,Credit Card,31.21
+ORD2144,23-Nov-2025,Mia Lopez,West,Stationery,Printer Paper,3.0,25.32,20.0,,60.77
+ORD1227,03/02/2025,Olivia Patel,East,Electronics,Headphones,10.0,127.02,10.0,PayPal,1143.18
+ORD2262,30-Dec-2025,Olivia Khan,South,Stationery,Pen Set,5.0,8.91,0.0,PayPal,44.55
+ORD1001,2025-02-27,Aisha Ali,East,Apparel,Jacket,2.0,139.37,10.0,credit card,250.87
+ORD1402,11/11/2025,  Arjun Khan  ,South ,Furniture,Bookshelf,2.0,139.75,10.0,PayPal,251.55
+ORD2104,07/06/2025,Ethan Smith,North,Electronics,Headphones,2.0,124.28,5.0,Bank Transfer,
+ORD1085,18/04/2025,  Zara Kumar  ,East,FURNITURE,Standing Desk,6.0,407.7,0.0,PayPal,2446.2
+ORD1163,2025-07-05,Chen Johnson,West,Stationery,Printer Paper,1.0,24.12,20.0,Credit Card,19.3
+ORD1115,"Nov 07, 2025",Emma Kumar,South,Aparel,Running Shoes,1.0,93.99,0.0,Cash,93.99
+ORD1671,19/10/2025,Aisha Fernando,South ,Stationery,Printer Paper,1.0,23.25,15.0,Debit Card,19.76
+ORD2181,"Aug 07, 2025",Lucas Kumar,West ,Furniture,Office Chair,1.0,188.9,0.0,cc,188.9
+ORD1890,03/04/2025,Olivia Nguyen,South,Stationery,Pen Set,3.0,8.82,0.0,Credit Card,26.46
+ORD1626,19/12/2025,  Sofia Fernando  ,South,Furniture,Standing Desk,3.0,426.07,5.0,Credit Card,1214.3
+ORD2127,2025-01-06,Chen Brown,West ,Stationery,Printer Paper,1.0,$25.80,0.0,Bank Transfer,25.8
+ORD1953,2025-11-10,Sofia Garcia,West,Electronics,Headphones,1.0,111.15,0.0,Cash,111.15
+ORD1808,04/12/2025,Sofia Ali,South,Apparel,Running Shoes,1.0,98.89,0.0,Bank Transfer,98.89
+ORD1259,2025-11-21,Emma Wong,South,Stationery,Printer Paper,5.0,23.6,0.0,Cash,118.0
+ORD1625,"Oct 15, 2025",mia khan,South,Apparel,T-Shirt,2.0,23.2,10.0,PayPal,41.76
+ORD1827,22-Sep-2025,Ethan Garcia,,Furniture,Office Chair,1.0,188.47,0.0,PayPal,188.47
+ORD1235,2025-12-07,zara lopez,North,Furniture,Bookshelf,2.0,131.81,0.0,paypal,263.62
+ORD1136,2025-05-21,Liam Perera,,Electronics,Headphones,6.0,117.87,0.0,Debit Card,707.22
+ORD1617,2025-09-10,Sofia Fernando,west,Furniture,Office Chair,6.0,184.2,0.0,Credit Card,
+ORD1837,"Aug 18, 2025",Chen Lopez,West,Furniture,Office Chair,5.0,191.32,0.0,Debit Card,956.6
+ORD1843,02-Mar-2025,  Noah Brown  ,South,Stationery,Printer Paper,1.0,26.83,0.0,Bank Transfer,26.83
+ORD1960,"Jan 30, 2025",Priya Wong,,Apparel,T-Shirt,1.0,$22.32,0.0,Credit Card,
+ORD1593,"Apr 17, 2025",Ravi Patel,West ,Furniture,Bookshelf,4.0,$138.60,0.0,Cash,554.4
+ORD1344,2025-11-13,Aisha Brown,East,Stationery,Notebook Pack,5.0,11.11,5.0,Cash,52.77
+ORD2279,"Apr 07, 2025",EMMA SILVA,West,Furniture,Office Chair,2.0,174.33,15.0,Credit Card,296.36
+ORD1294,29/08/2025,Ravi Nguyen,North,Apparel,T-Shirt,1.0,21.05,5.0,Credit Card,$20.00
+ORD1365,12/11/2025,Sofia Nguyen,East,Stationery,Notebook Pack,,12.02,0.0,Bank Transfer,36.06
+ORD1179,21/03/2025,Noah Brown,East,APPAREL,Jacket,4.0,139.25,10.0,Cash,501.3
+ORD1660,18-Oct-2025,Emma Smith,North,Electronics,Headphones,2.0,127.16,10.0,Cash,228.89
+ORD1997,2025-09-25,,WEST,Stationery,Printer Paper,4.0,26.45,,Bank Transfer,105.8
+ORD1015,"Jul 14, 2025",Priya Johnson,South,Stationery,Pen Set,1.0,9.06,0.0,,9.06
+ORD2111,2025-10-09,Liam Perera,East,Furniture,Bookshelf,3.0,$145.43,0.0,Credit Card,436.29
+ORD1166,08/01/2025,Zara Smith,South,Stationery,Printer Paper,,25.33,0.0,Credit Card,50.66
+ORD2456,2025-03-22,Sofia Ali,West,Furniture,Bookshelf,3.0,130.59,0.0,Bank Transfer,391.77
+ORD1060,06-Nov-2025,nimali ali,East,Furniture,Standing Desk,2.0,449.35,0.0,CREDIT CARD,898.7
+ORD1710,26/07/2025,AISHA KHAN,South,Electroncs,Headphones,1.0,127.33,0.0,cc,127.33
+ORD1677,15-Jan-2025,,SOUTH,furniture,Standing Desk,1.0,430.36,0.0,Bank Transfer,430.36
+ORD1781,06/12/2025,Lucas Garcia,EAST,,Office Chair,4.0,167.65,0.0,Cash,$670.60
+ORD1425,24-Sep-2025,Arjun Silva,East,,Jacket,5.0,120.42,0.0,Cash,
+ORD1293,"Mar 12, 2025",Liam Patel,West,Electronics,Headphones,4.0,123.05,0.0,Debit Card,492.2
+ORD2066,03-Sep-2025,Chen Kumar,North,Apparel,Jacket,2.0,139.18,15.0,Debit Card,236.61
+ORD2386,10-Dec-2025,Liam Perera, East,Apparel,Running Shoes,1.0,95.61,15.0,Bank Transfer,81.27
+ORD1330,29-May-2025,Sofia Lopez,South,Stationery,Printer Paper,2.0,23.99,10.0,Debit Card,43.18
+ORD1430,15/03/2025,Ravi Perera,West,Apparel,T-Shirt,2.0,,0.0,PayPal,40.72
+ORD2013,"Dec 17, 2025",nimali lopez,South,stationery,Printer Paper,2.0,$26.92,0.0,Cash,53.84
+ORD1080,05-Feb-2025,Lucas Nguyen,East,Stationery,Notebook Pack,1.0,12.28,0.0,Credit Card,12.28
+ORD2053,09/10/2025,Noah Patel,West,Stationery,Notebook Pack,8.0,,10.0,Debit Card,80.35
+ORD1938,22/04/2025,Emma Khan,West,Apparel,Jacket,3.0,133.47,0.0,Cash,400.41
+ORD1835,13/05/2025,Kasun Wong,West,Electronics,Headphones,3.0,128.76,0.0,Bank Transfer,386.28
+ORD1750,10/09/2025,Olivia Lopez,West,Electronics,Headphones,5.0,121.9,0.0,Credit Card,
+ORD1891,2025-05-19,  Arjun Wong  ,West,Apparel,T-Shirt,3.0,21.63,10.0,PayPal,58.4
+ORD1255,2025-02-28,Ethan Perera,East,Furniture,Standing Desk,1.0,436.39,0.0,Debit Card,436.39
+ORD2400,2025-10-16,Nimali Nguyen,North,Furniture,Standing Desk,1.0,416.17,5.0,Bank Transfer,395.36
+ORD1693,13/05/2025,Kasun Johnson,EAST,Electronics,Headphones,1.0,119.06,20.0,paypal,95.25
+ORD2109,"Jun 26, 2025",NOAH NGUYEN,North,Apparel,T-Shirt,5.0,22.89,10.0,Bank Transfer,103.01
+ORD1137,2025-09-09,Emma Lopez,North,Apparel,Jacket,6.0,121.5,0.0,Bank Transfer,729.0
+ORD2136,28/09/2025,Liam Garcia,North,ELECTRONICS,Headphones,5.0,126.87,,Debit Card,507.48
+ORD2219,27-Jul-2025,Kasun Kumar,East,Apparel,T-Shirt,1.0,20.96,0.0,PayPal,20.96
+ORD1853,2025-09-05,priya patel,East,Stationery,Printer Paper,3.0,$24.20,0.0,PayPal,72.6
+ORD2203,2025-01-28,Zara Fernando,South ,,Pen Set,5.0,8.21,15.0,Bank Transfer,34.89
+ORD1724,"Feb 21, 2025",Priya Johnson,South,Electronics,Smartphone,2.0,617.89,,PayPal,1235.78
+ORD1860,31-Mar-2025,Chen Brown,North,Electronics,Laptop,3.0,,5.0,Debit Card,2367.38
+ORD1970,"Aug 18, 2025",Ethan Perera,North,Stationery,Pen Set,1.0,8.23,0.0,Cash,8.23
+ORD1497,"Jun 09, 2025",  Lucas Brown  ,South,Furniture,Bookshelf,2.0,138.85,0.0,Bank Transfer,277.7
+ORD1951,2025-11-14,Mia Kumar,South,Electronics,Laptop,3.0,814.69,0.0,Cash,2444.07
+ORD1806,"Dec 02, 2025",Arjun Smith, East,Apparel,Jacket,10.0,,0.0,Bank Transfer,1275.9
+ORD1130,2025-12-06,,East,Furniture,Standing Desk,1.0,436.84,10.0,PayPal,393.16
+ORD1338,05/06/2025,Kasun Fernando,East,Electronic,Headphones,10.0,128.53,0.0,Debit Card,1285.3
+ORD2212,"Oct 30, 2025",Olivia Nguyen,North,Furniture,Office Chair,2.0,168.3,0.0,Debit,336.6
+ORD1609,15/07/2025,Mia Brown,West,Electronics,Laptop,3.0,854.12,0.0,Cash,2562.36
+ORD2149,20-Feb-2025,Emma Johnson,WEST,Stationery,Notebook Pack,10.0,12.29,10.0,Cash,110.61
+ORD1196,30-Jun-2025,Arjun Johnson,South,Apparel,Running Shoes,1.0,88.55,,Bank Transfer,88.55
+ORD1293,"Mar 12, 2025",Liam Patel,West,Electronics,Headphones,4.0,123.05,0.0,Debit Card,492.2
+ORD1910,"Nov 17, 2025",Olivia Fernando,South,Stationery,Pen Set,1.0,8.16,0.0,Credit Card,8.16
+ORD1585,31-Dec-2025,Priya Smith,,electronics,Headphones,1.0,115.03,20.0,Debit Card,$92.02
+ORD1104,07/10/2025,Arjun Brown,South,Stationery,Printer Paper,1.0,24.76,0.0,,24.76
+ORD2433,31/08/2025,,North,Electronics,Headphones,1.0,113.31,0.0,Debit Card,113.31
+ORD2447,30-Mar-2025,Nimali Fernando,W.,Electronics,Headphones,2.0,114.55,0.0,Credit Card,229.1
+ORD1720,03/07/2025,  Zara Patel  ,South,furniture,Office Chair,2.0,178.57,10.0,Credit Card,$321.43
+ORD1885,"Jun 11, 2025",,South,Stationery,Pen Set,2.0,7.89,10.0,PayPal,14.2
+ORD1777,2025-06-15,Liam Kumar,East,Electronics,Headphones,500.0,111.38,0.0,PayPal,334.14
+ORD1850,24/02/2025,,East,Furniture,Bookshelf,2.0,137.92,0.0,Cash,275.84
+ORD1895,21-Apr-2025,Priya Brown,North,Electronics,Laptop,1.0,833.56,0.0,,833.56
+ORD1228,2025-09-29,Sofia Brown,West,Apparel,Running Shoes,1.0,90.0,5.0,Credit Card,$85.50
+ORD2458,04/03/2025,Nimali Brown,West,Electronics,Headphones,2.0,111.38,0.0,Credit Card,222.76
+ORD1127,2025-02-13,Arjun Ali,West,Furniture,Office Chair,5.0,173.72,0.0,PayPal,868.6
+ORD1406,16/09/2025,Nimali Nguyen,South,STATIONERY,Printer Paper,1.0,23.33,5.0,Debit Card,22.16
+ORD1776,"Jan 03, 2025",  Lucas Brown  ,south,Furniture,Standing Desk,,441.58,0.0,,3532.64
+ORD1822,16-May-2025,Mia Khan,North,,Smartphone,3.0,611.58,0.0,Debit Card,1834.74
+ORD1712,"Nov 24, 2025",,Nrth,Stationery,Notebook Pack,3.0,$12.42,15.0,Bank Transfer,31.67
+ORD2462,2025-08-23,mia perera,West,Stationery,Notebook Pack,3.0,12.73,5.0,Debit Card,$36.28
+ORD2061,01/08/2025,Zara Perera,East,Apparel,Running Shoes,1.0,91.8,0.0,Cash,91.8
+ORD2164,09/09/2025,chen silva,West,Apparel,T-Shirt,2.0,20.54,5.0,credit card,39.03
+ORD1304,26/06/2025,  Arjun Ali  ,North,Electronic,Smartphone,2.0,608.67,0.0,paypal,1217.34
+ORD1268,"Oct 11, 2025",  Liam Brown  ,South,Apparel,Running Shoes,1.0,96.16,5.0,Cash,91.35
+ORD1546,15/02/2025,Emma Smith,East,Stationery,Notebook Pack,1.0,11.81,0.0,Cash,11.81
+ORD1213,2025-07-05,Emma Johnson,East,Furniture,Office Chair,3.0,172.58,0.0,Bank Transfer,517.74
+ORD1897,12/05/2025,Mia Perera,West,Stationery,Printer Paper,,,5.0,Credit Card,46.78
+ORD2223,2025-01-29,Mia Perera,North,Furniture,Bookshelf,5.0,132.4,0.0,PayPal,662.0
+ORD1917,2025-06-26,Sofia Brown,North,Electronics,Headphones,5.0,122.61,0.0,PayPal,613.05
+ORD1676,"Jun 29, 2025",Mia Fernando,EAST,Stationery,Printer Paper,1.0,25.92,20.0,Credit Card,20.74
+ORD1815,17-Sep-2025,Aisha Lopez,West ,Electronics,Laptop,4.0,895.38,0.0,Bank Transfer,3581.52
+ORD2266,07-Dec-2025,Sofia Silva,South,Apparel,Jacket,3.0,130.67,0.0,PayPal,392.01
+ORD1343,"Jan 24, 2025",Priya Johnson,South ,ELECTRONICS,Smartphone,6.0,633.08,0.0,Bank Transfer,3798.48
+ORD1550,21/02/2025,Olivia Kumar,North,Electronics,Smartphone,5.0,627.07,10.0,Bank Transfer,2821.82
+ORD2215,2025-05-04,,North,Stationery,Pen Set,2.0,$8.45,10.0,PayPal,15.21
+ORD1967,"Oct 09, 2025",Lucas Lopez,East,Furniture,Bookshelf,2.0,129.64,0.0,,259.28
+ORD2231,2025-08-23,Noah Smith,West,Furniture,Office Chair,5.0,180.71,10.0,CREDIT CARD,
+ORD1296,08-Nov-2025,Zara Smith,East,Apparel,T-Shirt,1.0,22.54,0.0,BANK TRANSFER,22.54
+ORD1696,2025-08-29,Liam Lopez,,Electronics,Smartphone,2.0,562.13,5.0,PayPal,1068.05
+ORD1074,"May 23, 2025",  Noah Kumar  ,,Furniture,Bookshelf,5.0,143.53,5.0,Cash,681.77
+ORD1606,2025-01-18,Arjun Johnson,East,Electronics,Headphones,10.0,116.07,10.0,PayPal,1044.63
+ORD1105,2025-09-06,Aisha Silva,East,Stationery,Notebook Pack,1.0,12.89,,PayPal,11.6
+ORD1646,2025-07-23,Chen Brown,EAST,FURNITURE,Standing Desk,5.0,404.53,10.0,Credit Card,1820.38
+ORD1415,12-Jul-2025,Noah Johnson,South,STATIONERY,Notebook Pack,5.0,12.66,10.0,Cash,56.97
+ORD2041,2025-01-27,Zara Patel,,Apparel,T-Shirt,1.0,21.11,0.0,PayPal,21.11
+ORD1440,2025-07-09,Lucas Silva,North,Furniture,Office Chair,,167.95,0.0,Bank Transfer,671.8
+ORD2020,"Jan 14, 2025",Mia Smith,West,Apparel,Jacket,1.0,121.17,20.0,Debit Card,96.94
+ORD1092,"Apr 23, 2025",Kasun Kumar,West,Stationery,Notebook Pack,8.0,12.02,5.0,Credit Card,91.35
+ORD2113,"Jul 15, 2025",Ethan Silva,West,Apparel,T-Shirt,6.0,22.91,5.0,Bank Transfer,130.59
+ORD2260,"Sep 26, 2025",Lucas Smith,West,Stationery,Pen Set,3.0,8.71,15.0,Credit Card,22.21
+ORD1909,19/07/2025,Sofia Khan,South,Apparel,Jacket,2.0,125.9,0.0,cc,251.8
+ORD1103,2025-06-30,Sofia Kumar,West,Electronics,Laptop,2.0,825.92,10.0,PayPal,1486.66
+ORD1239,2025-08-08,Aisha Nguyen,,Furniture,Office Chair,2.0,192.37,10.0,Credit Card,346.27
+ORD2320,15-Jan-2025,Liam Fernando, East,Electronics,Laptop,2.0,$788.88,0.0,Cash,1577.76
+ORD1943,2025-11-27,Olivia Ali,N.,Furniture,Bookshelf,4.0,130.94,0.0,Debit Card,523.76
+ORD2271,2025-01-30,Olivia Garcia,Wst,Apparel,Running Shoes,,94.36,0.0,Debit Card,377.44
+ORD1939,27/03/2025,Priya Nguyen,North,Electronics,Laptop,3.0,886.94,0.0,PayPal,2660.82
+ORD2182,2025-12-17,  Olivia Garcia  ,South ,Electronics,Smartphone,2.0,635.01,0.0,Credit Card,1270.02
+ORD1006,2025-12-24,Zara Garcia,east,Electronics,Headphones,,116.24,5.0,Debit Card,$110.43
+ORD2407,29-Jan-2025,Noah Wong,West,,Bookshelf,4.0,134.45,0.0,Credit Card,537.8
+ORD1966,03-Dec-2025,kasun wong,West,Furniture,Bookshelf,6.0,140.88,0.0,Cash,845.28
+ORD1019,2025-03-13,Arjun Ali,East,Furniture,Standing Desk,3.0,448.35,0.0,Bank Transfer,1345.05
+ORD1122,05/09/2025,Ravi Silva,East,Stationery,Printer Paper,3.0,26.77,0.0,paypal,80.31
+ORD1662,2025-11-08,Chen Perera,South.,,Running Shoes,2.0,89.43,0.0,Cash,178.86
+ORD2308,2025-11-18,Olivia Perera,North,Furniture,Office Chair,2.0,188.16,0.0,Credit Card,376.32
+ORD1275,2025-03-14,Mia Patel,West,Apparel,Jacket,2.0,127.88,5.0,Debit Card,242.97
+ORD1434,21/01/2025,Noah Khan,South,Apparel,Running Shoes,,87.88,15.0,PayPal,298.79
+ORD1812,06/06/2025,Chen Wong,North,Furniture,Bookshelf,1.0,$150.33,0.0,CREDIT CARD,150.33
+ORD2301,07-Jan-2025,Chen Johnson,North,Electroncs,Headphones,2.0,117.68,15.0,PayPal,200.06
+ORD2448,10-Sep-2025,Sofia Khan,South,stationery,Notebook Pack,1.0,12.62,10.0,Bank Transfer,11.36
+ORD2463,"Sep 22, 2025",Noah Smith,,,Laptop,8.0,788.62,0.0,Cash,6308.96
+ORD1182,"Nov 13, 2025",Noah Khan,East,electronics,Laptop,4.0,866.07,0.0,Debit Card,3464.28
+ORD1185,"May 31, 2025",Mia Garcia,West,Electronics,Laptop,3.0,858.29,15.0,cash ,2188.64
+ORD1407,24-Sep-2025,Ravi Smith,South,Furniture,Bookshelf,3.0,134.92,20.0,BANK TRANSFER,323.81
+ORD1866,2025-06-28,Mia Lopez,East,Apparel,Running Shoes,5.0,91.53,0.0,Debit Card,457.65
+ORD1521,2025-07-07,Liam Kumar,West,Stationery,Printer Paper,2.0,23.95,10.0,Bank Transfer,43.11
+ORD2004,14/09/2025,Ravi Wong,NORTH,Furnature,Office Chair,1.0,181.41,0.0,Credit Card,181.41
+ORD1381,2025-08-15,Priya Ali,West,Furniture,Bookshelf,5.0,136.59,5.0,Debit Card,648.8
+ORD1428,23-Dec-2025,Zara Silva,South,Furniture,Bookshelf,4.0,141.34,0.0,Cash,565.36
+ORD1079,29-Dec-2025,,south,Electronics,Laptop,,880.25,0.0,,880.25
+ORD2010,15-Jul-2025,Arjun Silva,South,ELECTRONICS,Smartphone,3.0,616.46,5.0,Bank Transfer,1756.91
+ORD1923,22-Dec-2025,,east,Apparel,Running Shoes,3.0,91.08,5.0,PayPal,259.58
+ORD1608,2025-03-12,Zara Khan,South ,Stationery,Notebook Pack,1.0,12.22,10.0,Bank Transfer,11.0
+ORD2380,2025-04-03,Zara Kumar,S.,Stationery,Notebook Pack,2.0,12.32,5.0,,23.41
+ORD1590,20-Aug-2025,,NORTH,Furniture,Bookshelf,2.0,137.22,0.0,CREDIT CARD,274.44
+ORD2413,16/10/2025,Zara Smith,West,Furniture,Standing Desk,1.0,$437.91,10.0,Cash,394.12
+ORD2058,2025-10-16,Chen Wong,West,apparel,Running Shoes,1.0,89.82,0.0,PayPal,89.82
+ORD2092,"Jun 08, 2025",Ravi Brown,South,Stationery,Pen Set,3.0,8.96,10.0,Debit Card,24.19
+ORD2102,06/10/2025,Arjun Fernando,North,Furniture,Bookshelf,2.0,133.73,0.0,Bank Transfer,267.46
+ORD2130,31/08/2025,Kasun Nguyen,North,Apparel,Jacket,3.0,120.41,5.0,Cash,343.17
+ORD2236,02/02/2025,Aisha Lopez,South,Furniture,Office Chair,6.0,$186.89,0.0,Bank Transfer,1121.34
+ORD2364,2025-08-05,Emma Lopez,South,Apparel,T-Shirt,1.0,22.82,,Cash,22.82
+ORD1959,2025-11-24,Liam Garcia,West,Stationery,Pen Set,5.0,8.47,0.0,Cash,42.35
+ORD1560,05-Aug-2025,  Ethan Smith  ,South,Stationery,Notebook Pack,2.0,11.37,5.0,Cash,21.6
+ORD1847,30/04/2025,Noah Patel,West,Stationery,Pen Set,4.0,8.87,5.0,Cash,33.71
+ORD1691,2025-09-01,Mia Wong,East,Apparel,Jacket,4.0,130.4,0.0,Debit Card,521.6
+ORD2500,2025-11-19,Sofia Wong,North,APPAREL,Running Shoes,,91.37,0.0,Bank Transfer,91.37
+ORD2446,17-Apr-2025,Sofia Ali,North,Apparel,Running Shoes,1.0,96.51,15.0,,82.03
+ORD1437,10-Oct-2025,Lucas Kumar,Est,Furniture,Office Chair,2.0,189.07,0.0,PayPal,378.14
+ORD1491,02/10/2025,Noah Smith,South,Apparel,T-Shirt,3.0,22.84,15.0,Cash,58.24
+ORD2461,04/08/2025,Arjun Fernando,,Stationery,Printer Paper,1.0,23.28,5.0,cash ,22.12
+ORD2424,24-Jun-2025,Kasun Khan,South,Furniture,Standing Desk,8.0,430.0,20.0,Credit Card,2752.0
+ORD1070,2025-01-13,kasun ali,East,Stationery,Notebook Pack,3.0,11.05,0.0,PayPal,33.15
+ORD1809,06/07/2025,Lucas Silva,South,Apparel,Running Shoes,1.0,101.08,0.0,credit card,101.08
+ORD2185,13-Aug-2025,  Arjun Nguyen  ,North,Electronics,Headphones,3.0,120.11,0.0,Debit Card,
+ORD1012,23/05/2025,Ravi Johnson,East,Stationery,Notebook Pack,,12.89,10.0,Debit Card,92.81
+ORD1145,2025-02-11,Kasun Khan,South,Apparel,Jacket,3.0,121.7,0.0,Bank Transfer,365.1
+ORD1918,2025-06-03,Aisha Kumar,West,Stationery,Pen Set,4.0,8.17,0.0,Cash,$32.68
+ORD1640,2025-02-21,,South.,Electronics,Laptop,3.0,835.25,0.0,PayPal,2505.75
+ORD1177,30/10/2025,Lucas Lopez,North,Stationery,Printer Paper,1.0,26.46,10.0,PayPal,$23.81
+ORD1995,25-Jun-2025,Emma Patel,West,Electronics,Laptop,4.0,893.13,5.0,PayPal,3393.89
+ORD1441,16-Mar-2025,,West,Furniture,Office Chair,1.0,170.19,15.0,Cash,144.66
+ORD1522,2025-08-06,Emma Ali,South,Furniture,Office Chair,1.0,189.29,0.0,cash ,
+ORD2200,2025-06-16,Zara Khan,Est,Apparel,Running Shoes,3.0,93.06,5.0,Debit Card,265.22
+ORD2005,29-Sep-2025,Sofia Garcia,West ,Furniture,Office Chair,,175.77,5.0,PayPal,333.96
+ORD2256,26/06/2025,Mia Patel,West,Furnature,Standing Desk,1.0,426.46,0.0,Bank Transfer,426.46
+ORD2235,04/08/2025,Ravi Ali,North,Furniture,Bookshelf,2.0,147.8,15.0,Cash,251.26
+ORD1144,20/02/2025,Nimali Johnson,South,Aparel,T-Shirt,-1.0,20.74,10.0,Cash,18.67
+ORD1754,29/10/2025,Olivia Brown,North,apparel,Jacket,2.0,135.7,5.0,Bank Transfer,257.83
+ORD1520,"Sep 11, 2025",Emma Nguyen, North ,Apparel,T-Shirt,2.0,23.2,15.0,Cash,39.44
+ORD2323,"Dec 05, 2025",ARJUN KHAN,South,Electronic,Laptop,2.0,787.48,5.0,Cash,
+ORD1823,04/07/2025,ethan brown,,Stationery,Printer Paper,2.0,23.16,0.0,Credit Card,$46.32
+ORD1429,05-Apr-2025,Chen Khan,South,Stationery,Notebook Pack,2.0,12.03,0.0,,24.06
+ORD1613,2025-05-07,Arjun Patel,North,Electronics,Smartphone,1.0,,15.0,Debit,496.8
+ORD2033,2025-08-20,Noah Ali,North,Apparel,Jacket,10.0,121.72,0.0,Debit Card,1217.2
+ORD1157,2025-10-27,Zara Johnson,,Electronics,Headphones,-1.0,128.89,0.0,paypal,128.89
+ORD1540,2025-02-17,Mia Patel,North,Furniture,Standing Desk,3.0,423.88,10.0,Cash,1144.48
+ORD2291,"Feb 04, 2025",Emma Lopez,North,Apparel,Running Shoes,2.0,90.16,0.0,Bank Transfer,180.32
+ORD1462,2025-07-16,Olivia Kumar,North,Furniture,Bookshelf,1.0,143.51,0.0,Bank Transfer,143.51
+ORD1577,22/09/2025,  Liam Silva  ,North,,Office Chair,5.0,183.32,0.0,PayPal,916.6
+ORD2363,"Feb 11, 2025",,West ,Furniture,Standing Desk,,$427.12,10.0,Cash,384.41
+ORD1256,"Aug 24, 2025",Mia Smith,West,Apparel,Running Shoes,3.0,98.99,15.0,Credit Card,252.42
+ORD1980,2025-04-27,Aisha Johnson,West,Electronics,Smartphone,3.0,,0.0,Credit Card,1930.23
+ORD2186,20-Nov-2025,Ethan Kumar,South,ELECTRONICS,Smartphone,3.0,578.27,,Credit Card,1734.81
+ORD2007,2025-06-04,Arjun Wong,East,Apparel,Jacket,1.0,135.9,0.0,Credit Card,135.9
+ORD1561,08-Jun-2025,Noah Wong,South,Electronics,Smartphone,2.0,645.66,5.0,Debit Card,1226.75
+ORD1209,2025-05-01,Olivia Silva,West,Electronics,Smartphone,3.0,587.42,0.0,Cash,1762.26
+ORD1911,06/12/2025,Mia Lopez,East,Electronics,Laptop,4.0,846.44,0.0,PayPal,3385.76
+ORD2312,05-Dec-2025,Chen Brown,East,Furnature,Standing Desk,1.0,,5.0,,386.69
+ORD1002,13/03/2025,EMMA JOHNSON,North,Furniture,Office Chair,3.0,170.09,0.0,Bank Transfer,510.27
+ORD2366,15-Jan-2025,Liam Johnson,South,Apparel,T-Shirt,2.0,20.29,0.0,credit card,40.58
+ORD1270,13-Feb-2025,Kasun Perera,South,Furniture,Bookshelf,8.0,138.9,0.0,,1111.2
+ORD1266,20-Aug-2025,  Liam Perera  ,East,Stationery,Pen Set,6.0,9.09,5.0,Cash,51.81
+ORD1915,15/02/2025,Ravi Patel,East,Furniture,Office Chair,1.0,$169.66,5.0,PayPal,161.18
+ORD1231,"Aug 07, 2025",lucas johnson,east,Furniture,Bookshelf,2.0,138.33,5.0,Cash,262.83
+ORD2159,2025-10-04,Zara Khan,North,ELECTRONICS,Headphones,5.0,125.81,20.0,PayPal,503.24
+ORD2120,"Aug 06, 2025",Ravi Silva,East,Stationery,Printer Paper,2.0,26.29,5.0,,49.95
+ORD2400,2025-10-16,Nimali Nguyen,North,Furniture,Standing Desk,1.0,416.17,5.0,Bank Transfer,395.36
+ORD1865,2025-12-27,,east,Electronics,Laptop,3.0,852.74,0.0,Bank Transfer,2558.22
+ORD2067,2025-03-21,Ravi Lopez,east,Stationery,Pen Set,1.0,8.35,5.0,PayPal,7.93
+ORD1874,"May 28, 2025",Noah Silva,East,Furniture,Office Chair,2.0,188.32,15.0,Credit Card,320.14
+ORD2390,29-Sep-2025,Zara Fernando,East,Apparel,T-Shirt,1.0,21.35,0.0,Credit Card,
+ORD1399,"Oct 26, 2025",Aisha Patel,East,Furniture,Standing Desk,1.0,444.97,20.0,Debit Card,$355.98
+ORD1076,14/05/2025,  Kasun Nguyen  ,East,Electronics,Smartphone,1.0,645.41,0.0,Credit Card,645.41
+ORD1046,"Mar 27, 2025",Zara Brown,West,Furniture,Office Chair,2.0,,10.0,Debit Card,324.97
+ORD1162,"Dec 03, 2025",Ravi Silva,NORTH,Electronics,Laptop,3.0,861.47,15.0,Debit Card,2196.75
+ORD1992,"Nov 16, 2025",Olivia Brown,North,Stationery,Pen Set,4.0,8.34,0.0,Debit Card,33.36
+ORD1728,06/12/2025,Kasun Garcia,East,Electronics,Headphones,1.0,111.04,0.0,PayPal,111.04
+ORD1630,2025-11-22,Noah Lopez,East,Electronics,Headphones,1.0,124.35,20.0,PayPal,99.48
+ORD1289,19/08/2025,Olivia Lopez,West,Furniture,Standing Desk,2.0,$424.01,0.0,Credit Card,$848.02
+ORD2060,"Mar 02, 2025",Aisha Brown,,Electronics,Laptop,6.0,,5.0,Debit Card,5088.5
+ORD2221,20/06/2025,Liam Patel,West,Apparel,T-Shirt,2.0,22.0,0.0,Cash,44.0
+ORD1576,"Oct 20, 2025",Mia Smith,North,Electronics,Smartphone,,600.9,20.0,,480.72
+ORD1851,05/08/2025,Mia Nguyen,East,stationery,Printer Paper,2.0,23.44,10.0,PayPal,42.19
+ORD2340,"Nov 17, 2025",Liam Wong,south,Apparel,T-Shirt,6.0,21.29,0.0,Cash,
+ORD1912,04-Oct-2025,Priya Wong,West,stationery,Pen Set,-8.0,9.1,10.0,Debit Card,65.52
+ORD2255,07/08/2025,Mia Silva,East,Electronics,Headphones,3.0,115.93,0.0,Credit Card,347.79
+ORD2409,17-Apr-2025,Kasun Silva,West,ELECTRONICS,Laptop,3.0,881.31,0.0,Cash,2643.93
+ORD1933,08-May-2025,Ethan Kumar,West,APPAREL,T-Shirt,1.0,22.43,20.0,Debit Card,17.94
+ORD2101,"Oct 30, 2025",Zara Kumar,Wst,Clothing,T-Shirt,2.0,23.75,5.0,Bank Transfer,45.12
+ORD2208,06/11/2025,,South,Furniture,Standing Desk,1.0,$401.06,15.0,Bank Transfer,340.9
+ORD1248,14-Dec-2025,Chen Wong,Est,Apparel,Jacket,2.0,135.15,5.0,Credit Card,256.79
+ORD1477,05/09/2025,Noah Garcia,Est,Furniture,Standing Desk,3.0,,0.0,Debit Card,1334.16
+ORD1086,15/08/2025,Nimali Wong,West,Stationery,Pen Set,3.0,9.09,5.0,CREDIT CARD,25.91
+ORD1470,04/07/2025,Priya Smith,South,Stationery ,Pen Set,5.0,$8.62,15.0,Credit Card,36.63
+ORD1226,"Aug 16, 2025",Noah Smith,East,Apparel,T-Shirt,10.0,20.63,0.0,Bank Transfer,206.3
+ORD1775,12-Oct-2025,Priya Fernando,South,Furniture,Standing Desk,,407.19,10.0,Bank Transfer,1099.41
+ORD1332,10/09/2025,Aisha Garcia,East,Furniture,Office Chair,3.0,176.0,0.0,PayPal,528.0
+ORD1234,31/01/2025,Lucas Johnson,North,Stationery,Printer Paper,2.0,25.13,0.0,PayPal,50.26
+ORD1589,14-May-2025,Lucas Kumar,West,Furniture,Standing Desk,1.0,408.22,10.0,Cash,367.4
+ORD1476,"Feb 02, 2025",Kasun Silva,East,ELECTRONICS,Headphones,10.0,110.49,20.0,PayPal,883.92
+ORD2285,27-Feb-2025,noah perera,Wst,apparel,T-Shirt,3.0,23.54,5.0,Debit,67.09
+ORD1600,25/07/2025,Mia Johnson,north,Furniture,Office Chair,1.0,167.65,0.0,Bank Transfer,167.65
+ORD1422,30/04/2025,Nimali Kumar,North,Stationery,Pen Set,2.0,7.84,0.0,Debit Card,15.68
+ORD1183,16/02/2025,Zara Smith,North,Apparel,T-Shirt,1.0,,5.0,PayPal,21.47
+ORD1989,2025-06-15,,WEST,Stationery,Notebook Pack,6.0,12.39,10.0,PayPal,66.91
+ORD2001,2025-12-04,Mia Lopez,,Apparel,Jacket,4.0,136.17,0.0,Credit Card,544.68
+ORD2357,08/07/2025,Sofia Perera,north,STATIONERY,Pen Set,4.0,8.97,0.0,Credit Card,
+ORD1050,26/01/2025,Chen Wong,South,electronics,Laptop,,789.0,0.0,Credit Card,1578.0
+ORD2453,19/03/2025,Emma Ali,North,Furniture,Standing Desk,1.0,428.44,5.0,PayPal,407.02
+ORD2030,2025-09-22,, East,Stationery ,Notebook Pack,1.0,$12.16,0.0,PayPal,12.16
+ORD1530,2025-12-31,Lucas Lopez,S.,Electronics,Headphones,2.0,118.62,10.0,PayPal,
+ORD2259,03/11/2025,Noah Fernando,South,apparel,Running Shoes,3.0,101.56,10.0,,$274.21
+ORD1487,11-Dec-2025,Chen Fernando,East,Stationery ,Notebook Pack,1.0,12.31,0.0,Debit Card,12.31
+ORD1686,16/06/2025,Priya Patel,East,Apparel,Jacket,3.0,$129.22,0.0,,387.66
+ORD1498,2025-06-28,Chen Smith,West,Stationery,Pen Set,2.0,8.13,0.0,PayPal,16.26
+ORD1107,2025-10-16,,West,Apparel,Running Shoes,1.0,91.2,5.0,Debit Card,86.64
+ORD1444,28-Mar-2025,Mia Fernando,South,Stationery,Pen Set,2.0,8.58,10.0,Bank Transfer,15.44
+ORD1647,2025-10-06,Ethan Fernando,East,Apparel,Jacket,2.0,121.2,0.0,,242.4
+ORD2037,"Feb 28, 2025",Ravi Johnson,East,Electroncs,Smartphone,3.0,610.88,5.0,,1741.01
+ORD1727,2025-03-01,Emma Lopez,North,Apparel,T-Shirt,4.0,22.04,0.0,,88.16
+ORD1191,03-Jun-2025,Zara Ali,,Apparel,Running Shoes,2.0,99.31,0.0,PayPal,198.62
+ORD1283,06-Jul-2025,  Arjun Brown  ,East,Stationery ,Notebook Pack,1.0,12.95,5.0,Debit,$12.30
+ORD1030,2025-06-07,  Arjun Perera  ,,Furniture,Bookshelf,3.0,148.67,0.0,Bank Transfer,446.01
+ORD1170,,Noah Patel,west,Stationery,Printer Paper,5.0,26.8,10.0,Cash,120.6
+ORD2002,"Nov 29, 2025",ETHAN KHAN,West,Furniture,Standing Desk,3.0,424.82,10.0,Bank Transfer,1147.01
+ORD2205,"Apr 10, 2025",Mia Patel,South,Apparel,T-Shirt,2.0,23.05,0.0,Cash,46.1
+ORD1101,05/10/2025,Ravi Silva,Nrth,Furniture,Bookshelf,1.0,140.7,5.0,Debit Card,133.66
+ORD1198,2025-08-14,, East,,Standing Desk,3.0,398.62,0.0,Debit Card,1195.86
+ORD1496,01-Jun-2025,Zara Smith,North,electronics,Smartphone,2.0,590.03,5.0,,
+ORD1648,06/04/2025,,East,Furniture,Bookshelf,2.0,146.38,10.0,PayPal,263.48
+ORD1988,2025-09-26,Arjun Khan,North,Apparel,Running Shoes,2.0,92.5,20.0,Cash,148.0
+ORD1045,2025-02-20,Liam Johnson,North,STATIONERY,Printer Paper,1.0,24.35,15.0,Credit Card,20.7
+ORD1711,2025-01-12,Kasun Smith,East,Furniture,Office Chair,1.0,$165.96,5.0,Credit Card,157.66
+ORD1374,"Apr 17, 2025",Lucas Johnson,West,Stationery,Printer Paper,1.0,26.55,20.0,Bank Transfer,$21.24
+ORD1679,2025-07-29,Aisha Lopez,North,,Jacket,3.0,126.87,0.0,PayPal,$380.61
+ORD1567,2025-05-13,Kasun Garcia,South,Stationery,Printer Paper,10.0,25.2,20.0,Cash,201.6
+ORD1848,03-Jan-2025,aisha nguyen,North,Furniture,Office Chair,4.0,189.96,,Bank Transfer,$721.85
+ORD1461,"Mar 25, 2025",Arjun Nguyen,West,Furniture,Standing Desk,1.0,412.68,20.0,Bank Transfer,330.14
+ORD2438,20-Sep-2025,Chen Khan,North,Stationery,Pen Set,8.0,7.99,15.0,Bank Transfer,54.33
+ORD2156,,Ethan Silva,Est,FURNITURE,Standing Desk,4.0,416.99,5.0,,1584.56
+ORD1040,18/02/2025,Emma Johnson,West,furniture,Office Chair,1.0,191.31,5.0,Cash,181.74
+ORD1435,2025-06-20,Sofia Perera,,Furniture,Office Chair,1.0,181.19,,,163.07
+ORD1974,"Mar 21, 2025",Olivia Patel,EAST,Furniture,Bookshelf,2.0,136.09,10.0,Bank Transfer,244.96
+ORD2240,10/07/2025,,North,STATIONERY,Pen Set,1.0,8.42,0.0,Debit Card,8.42
+ORD2008,"May 12, 2025",Ethan Lopez,North,Apparel,Jacket,2.0,133.86,0.0,Bank Transfer,267.72
+ORD1457,"Jun 19, 2025",Emma Wong,North,Apparel,Jacket,1.0,124.54,20.0,Debit Card,99.63
+ORD1261,12/04/2025,,South,furniture,Standing Desk,4.0,$422.87,0.0,Credit Card,"$1,691.48"
+ORD1036,2025-04-28,Arjun Perera,north,STATIONERY,Printer Paper,1.0,24.64,10.0,Credit Card,22.18
+ORD1828,06/11/2025,Aisha Wong,South ,Stationery,Pen Set,,9.1,0.0,PayPal,54.6
+ORD1310,28/11/2025,Nimali Patel,east,Electronics,Laptop,3.0,868.15,0.0,Credit Card,2604.45
+ORD1277,10/12/2025,Noah Johnson,West,Electronics,Headphones,4.0,119.08,0.0,Bank Transfer,476.32
+ORD1637,2025-06-25,Kasun Silva,south,Electronics,Smartphone,2.0,566.29,0.0,Credit Card,1132.58
+ORD1655,2025-04-19,Nimali Fernando,NORTH,Electronics,Headphones,5.0,117.77,5.0,PayPal,559.41
+ORD1623,22-Jun-2025,Sofia Garcia,South,Electronics,Smartphone,1.0,567.82,0.0,Debit Card,567.82
+ORD1845,2025-12-24,Zara Khan,West,ELECTRONICS,Laptop,1.0,783.95,10.0,PayPal,705.56
+ORD1394,"Apr 06, 2025",Aisha Ali,East,Aparel,T-Shirt,3.0,23.63,0.0,Cash,70.89
+ORD1108,04-Apr-2025,Liam Patel,West,Stationery,Pen Set,4.0,,0.0,Cash,34.88
+ORD1350,"May 17, 2025",Ravi Khan,South,Electronics,Smartphone,1.0,635.53,0.0,Credit Card,635.53
+ORD1525,"Aug 08, 2025",Kasun Nguyen,South,Apparel,Jacket,4.0,,0.0,Debit Card,550.2
+ORD1785,04/10/2025,Sofia Perera,,FURNITURE,Standing Desk,3.0,445.11,10.0,Bank Transfer,1201.8
+ORD1048,2025-08-21,Sofia Silva,West,Furniture,Standing Desk,1.0,419.82,0.0,Debit Card,419.82
+ORD1204,"Oct 02, 2025",,E.,Furniture,Standing Desk,4.0,389.04,10.0,Cash,1400.54
+ORD1022,18/11/2025,Kasun Kumar,West ,Electronics,Headphones,2.0,115.79,5.0,Bank Transfer,220.0
+ORD1403,2025-08-21,Mia Silva,West,Electronics,Headphones,4.0,118.96,0.0,Bank Transfer,475.84
+ORD2108,15-Dec-2025,Lucas Patel,East,Furniture,Office Chair,1.0,187.68,5.0,PayPal,
+ORD2155,21/12/2025,lucas patel,S.,Stationery,Notebook Pack,3.0,12.19,0.0,Credit Card,$36.57
+ORD2440,2025-08-02,Chen Smith,West,Aparel,Jacket,1.0,128.03,5.0,,121.63
+ORD1990,"Jun 28, 2025",Nimali Garcia,East,Furniture,Bookshelf,3.0,150.01,0.0,Bank Transfer,450.03
+ORD1742,10-Feb-2025,Ravi Brown,west,Furniture,Office Chair,1.0,165.96,0.0,Credit Card,165.96
+ORD2311,24/09/2025,Chen Kumar,West,APPAREL,Jacket,8.0,123.37,5.0,Debit Card,937.61
+ORD2148,"Jan 06, 2025",Aisha Lopez,North,Stationery,Printer Paper,3.0,23.85,20.0,,
+ORD1034,10/12/2025,Mia Brown,West,Stationery,Notebook Pack,1.0,11.1,5.0,Credit Card,10.54
+ORD1788,04/01/2025,Noah Khan,South,Stationery,Printer Paper,2.0,24.18,0.0,PayPal,48.36
+ORD1924,05/02/2025,Kasun Fernando, East,Furniture,Office Chair,4.0,$167.80,0.0,Credit Card,671.2
+ORD2044,,Aisha Nguyen,West,Stationery,Pen Set,5.0,8.91,10.0,Debit Card,40.09
+ORD2495,07/11/2025,Olivia Kumar,South,Apparel,T-Shirt,3.0,22.25,0.0,Bank Transfer,66.75
+ORD2244,09-Jul-2025,Kasun Khan,North,Furniture,Standing Desk,3.0,396.51,20.0,Cash,$951.62
+ORD1580,26/08/2025,Mia Nguyen,West,Furniture,Office Chair,1.0,176.19,0.0,Debit Card,$176.19
+ORD1482,"Apr 13, 2025",Chen Garcia,South,Apparel,T-Shirt,2.0,23.3,0.0,PayPal,46.6
+ORD1932,2025-05-09,Ethan Lopez,NORTH,Furniture,Office Chair,1.0,178.19,5.0,Credit Card,169.28
+ORD1357,10/03/2025,Priya Ali,East,Stationery,Notebook Pack,2.0,11.59,0.0,PayPal,23.18
+ORD2249,27/02/2025,Chen Perera,,Aparel,T-Shirt,1.0,20.99,5.0,Bank Transfer,19.94
+ORD1760,"Sep 20, 2025",,East,Apparel,T-Shirt,2.0,$22.47,0.0,Bank Transfer,44.94
+ORD1093,08/05/2025,Emma Brown,South,Stationery,Printer Paper,5.0,25.6,10.0,PayPal,115.2
+ORD2176,2025-02-06,Liam Ali,South,Furniture,Office Chair,1.0,193.62,10.0,PayPal,174.26
+ORD2416,"Sep 27, 2025",Noah Patel,West,Stationery,Pen Set,8.0,8.16,0.0,Debit,65.28
+ORD2342,2025-06-13,Noah Johnson,S.,Stationery,Notebook Pack,-5.0,12.33,10.0,PayPal,55.48
+ORD2473,13/05/2025,Arjun Lopez,East,Apparel,Running Shoes,2.0,87.76,0.0,PayPal,$175.52
+ORD1804,29-May-2025,Noah Patel,North,Electronics,Smartphone,2.0,618.07,0.0,Debit Card,1236.14
+ORD1746,06-Jul-2025,Liam Lopez,South,Furniture,Bookshelf,3.0,148.79,0.0,PayPal,446.37
+ORD1280,"Jun 01, 2025",Emma Wong,North,Electronics,Smartphone,2.0,607.74,5.0,Cash,1154.71
+ORD1765,16-Mar-2025,Liam Johnson,North,Stationery,Notebook Pack,1.0,$12.03,0.0,CREDIT CARD,12.03
+ORD1605,20/04/2025,Kasun Patel,East,Furniture,Bookshelf,1.0,129.27,0.0,PayPal,129.27
+ORD1926,"Jan 10, 2025",Olivia Perera,North,Furniture,Bookshelf,2.0,129.78,0.0,Debit Card,259.56
+ORD2374,"Dec 26, 2025",Kasun Perera,West,FURNITURE,Standing Desk,4.0,406.11,5.0,Bank Transfer,1543.22
+ORD2399,"May 26, 2025",kasun lopez,South,Furniture,Office Chair,3.0,$170.98,0.0,Bank Transfer,512.94
+ORD1401,18-Dec-2025,SOFIA ALI, North ,stationery,Notebook Pack,-4.0,11.09,0.0,Cash,44.36
+ORD1258,23-Jun-2025,Arjun Garcia,South,FURNITURE,Standing Desk,5.0,394.97,0.0,Credit Card,1974.85
+ORD1945,2025-04-09,,West,Aparel,T-Shirt,1.0,21.26,0.0,Cash,21.26
+ORD2097,07-Mar-2025,Emma Silva,North,Apparel,Running Shoes,6.0,,,Cash,542.94
+ORD2220,2025-11-21,Aisha Lopez,north,Apparel,T-Shirt,2.0,22.41,15.0,paypal,38.1
+ORD2286,11/04/2025,Emma Perera,,Electronics,Laptop,1.0,830.23,5.0,Debit,788.72
+ORD2162,24-Nov-2025,AISHA PERERA,West,Apparel,Jacket,,131.73,5.0,Cash,1001.15
+ORD1495,14-Dec-2025,Olivia Garcia,North,Stationery,Pen Set,3.0,$7.83,0.0,PayPal,23.49
+ORD1773,"Aug 18, 2025",Kasun Johnson,North,Furniture,Standing Desk,1.0,412.92,0.0,,412.92
+ORD1551,16/07/2025,Mia Silva,East,Apparel,T-Shirt,1.0,21.31,0.0,BANK TRANSFER,21.31
+ORD2487,17/01/2025,Kasun Wong,East,Stationary,Pen Set,2.0,$8.57,0.0,Credit Card,17.14
+ORD1202,08-Feb-2025,Olivia Kumar,South,Stationery,Pen Set,,$7.98,0.0,PayPal,7.98
+ORD1313,12/09/2025,mia kumar,East,Apparel,T-Shirt,250.0,23.46,0.0,Credit Card,23.46
+ORD1291,15-Sep-2025,Mia Khan,West,Stationery,Notebook Pack,,11.56,5.0,Credit Card,21.96
+ORD2214,2025-07-21,,Nrth,Stationery,Printer Paper,1.0,23.95,15.0,PayPal,20.36
+ORD1764,05/08/2025,Aisha Wong,N.,Furniture,Standing Desk,1.0,427.44,0.0,Credit Card,427.44
+ORD2137,20/03/2025,chen kumar,West,Apparel,Running Shoes,1.0,88.01,0.0,PayPal,88.01
+ORD1950,"Aug 21, 2025",Aisha Kumar,West,Furniture,Bookshelf,1.0,141.44,0.0,Debit Card,141.44
+ORD1184,2025-12-22,Sofia Perera,North,electronics,Headphones,5.0,120.39,15.0,Cash,511.66
+ORD2177,10-Jan-2025,Chen Nguyen,north,Apparel,Jacket,10.0,128.75,0.0,Debit Card,1287.5
+ORD2350,13/03/2025,,North,STATIONERY,Notebook Pack,3.0,12.67,0.0,Bank Transfer,38.01
+ORD2069,2025-01-10,Nimali Nguyen,East,Stationery,Printer Paper,4.0,26.35,15.0,Cash,89.59
+ORD2469,"Jul 27, 2025",Nimali Patel,North,Apparel,Jacket,10.0,133.83,15.0,Credit Card,1137.56
+ORD2031,2025-06-05,Sofia Brown,SOUTH,stationery,Notebook Pack,2.0,12.88,0.0,PayPal,25.76
+ORD1251,12-Sep-2025,,South,Electronics,Laptop,1.0,909.82,5.0,PayPal,864.33
+ORD1824,29-Nov-2025,Lucas Smith,East,Electronics,Laptop,3.0,812.97,20.0,Cash,1951.13
+ORD2100,2025-09-04,Ethan Smith,East,Electronics,Headphones,1.0,117.61,10.0,Debit Card,$105.85
+ORD2142,16/03/2025,Zara Perera,EAST,Furniture,Standing Desk,1.0,442.65,5.0,PayPal,420.52
+ORD1941,10-Jul-2025,Noah Khan,SOUTH,Electronics,Headphones,8.0,$114.79,5.0,,872.4
+ORD1392,2025-09-10,Olivia Lopez,West,Stationery,Printer Paper,1.0,25.54,,Cash,24.26
+ORD2457,20/02/2025,Olivia Johnson,East,Stationery,Pen Set,1.0,8.07,0.0,Cash,8.07
+ORD2093,2025-11-12,Priya Garcia,West,Electronics,Headphones,5.0,119.71,0.0,Debit Card,598.55
+ORD2192,01/05/2025,Nimali Smith,North,Stationery,Printer Paper,10.0,26.56,0.0,Bank Transfer,265.6
+ORD1905,06-Mar-2025,Arjun Johnson,,Electronics,Laptop,2.0,$832.56,0.0,Credit Card,1665.12
+ORD1731,02-Sep-2025,Zara Johnson,South,Aparel,T-Shirt,1.0,23.43,5.0,Credit Card,22.26
+ORD1555,2025-02-27,Arjun Brown,North,Stationery,Notebook Pack,8.0,11.99,20.0,Bank Transfer,$76.74
+ORD1367,2025-07-08,Lucas Johnson,Nrth,Electronics,Laptop,,829.62,0.0,PayPal,4148.1
+ORD1346,31/01/2025,Kasun Brown,west,Apparel,T-Shirt,4.0,$21.44,10.0,PayPal,77.18
+ORD1536,15-Jun-2025,,South,Furniture,Standing Desk,2.0,390.94,10.0,Bank Transfer,703.69
+ORD2423,28-Oct-2025,Ravi Kumar,Wst,Furniture,Bookshelf,3.0,,10.0,,351.49
+ORD2210,31/08/2025,Ravi Patel,North,Aparel,Running Shoes,6.0,99.45,5.0,cc,566.87
+ORD2373,2025-10-13,Arjun Smith,W.,Electronics,Laptop,8.0,837.3,0.0,Debit Card,6698.4
+ORD1920,15-Oct-2025,Zara Silva,South,Stationery,Notebook Pack,6.0,12.4,0.0,Debit Card,74.4
+ORD1212,20-Dec-2025,Mia Khan,,Electronics,Laptop,3.0,796.58,0.0,PayPal,2389.74
+ORD1503,11/11/2025,Nimali Brown,,Electronic,Laptop,3.0,854.57,5.0,PayPal,2435.52
+ORD1538,2025-03-05,kasun brown,W.,ELECTRONICS,Laptop,3.0,$854.48,0.0,Credit Card,2563.44
+ORD2221,20/06/2025,Liam Patel,West,Apparel,T-Shirt,2.0,22.0,0.0,Cash,44.0
+ORD1176,2025-12-06,Olivia Brown,North,Stationery,Notebook Pack,2.0,11.84,0.0,Debit Card,23.68

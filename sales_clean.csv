@@ -1,0 +1,1489 @@
+order_id,order_date,year_month,customer_name,region,category,product,quantity,unit_price,discount_pct,payment_method,total_amount
+ORD1029,2025-01-01,2025-01,Lucas Brown,North,Stationery,Printer Paper,2,24.3,0,Credit Card,48.6
+ORD1300,2025-01-01,2025-01,Mia Khan,West,Stationery,Notebook Pack,6,11.06,0,Debit Card,66.36
+ORD1844,2025-01-01,2025-01,Zara Wong,West,Stationery,Printer Paper,10,25.71,0,Cash,257.1
+ORD1411,2025-01-02,2025-01,Nimali Nguyen,North,Furniture,Standing Desk,6,401.85,0,Credit Card,2411.1
+ORD1722,2025-01-02,2025-01,Aisha Johnson,North,Furniture,Office Chair,5,179.17,20,Credit Card,716.68
+ORD1704,2025-01-03,2025-01,Liam Wong,South,Stationery,Notebook Pack,10,12.135,0,Cash,121.35
+ORD1776,2025-01-03,2025-01,Lucas Brown,South,Furniture,Standing Desk,2,441.58,0,Unknown,883.16
+ORD1848,2025-01-03,2025-01,Aisha Nguyen,North,Furniture,Office Chair,4,189.96,0,Bank Transfer,759.84
+ORD1449,2025-01-04,2025-01,Zara Perera,Unknown,Electronics,Laptop,4,839.87,0,Bank Transfer,3359.48
+ORD1788,2025-01-04,2025-01,Noah Khan,South,Stationery,Printer Paper,2,24.18,0,PayPal,48.36
+ORD1880,2025-01-04,2025-01,Liam Lopez,West,Apparel,Running Shoes,4,101.85,10,Cash,366.66
+ORD1456,2025-01-05,2025-01,Kasun Smith,West,Apparel,Jacket,1,134.49,15,PayPal,114.32
+ORD1940,2025-01-05,2025-01,Liam Nguyen,West,Furniture,Office Chair,1,165.86,0,Bank Transfer,165.86
+ORD2467,2025-01-05,2025-01,Priya Wong,South,Furniture,Bookshelf,1,131.64,0,PayPal,131.64
+ORD1566,2025-01-06,2025-01,Unknown,East,Apparel,T-Shirt,1,20.33,0,Bank Transfer,20.33
+ORD2127,2025-01-06,2025-01,Chen Brown,West,Stationery,Printer Paper,1,25.8,0,Bank Transfer,25.8
+ORD2148,2025-01-06,2025-01,Aisha Lopez,North,Stationery,Printer Paper,3,23.85,20,Unknown,57.24
+ORD1659,2025-01-07,2025-01,Zara Smith,West,Stationery,Pen Set,1,9.1,0,Debit Card,9.1
+ORD2301,2025-01-07,2025-01,Chen Johnson,North,Electronics,Headphones,2,117.68,15,PayPal,200.06
+ORD1166,2025-01-08,2025-01,Zara Smith,South,Stationery,Printer Paper,2,25.33,0,Credit Card,50.66
+ORD1299,2025-01-09,2025-01,Arjun Ali,South,Stationery,Printer Paper,3,23.82,0,Cash,71.46
+ORD1971,2025-01-09,2025-01,Olivia Patel,North,Apparel,Running Shoes,1,94.785,10,Cash,85.31
+ORD2117,2025-01-09,2025-01,Olivia Ali,West,Apparel,Jacket,2,124.62,0,PayPal,249.24
+ORD2430,2025-01-09,2025-01,Nimali Lopez,North,Electronics,Smartphone,3,585.17,10,Debit Card,1579.96
+ORD1278,2025-01-10,2025-01,Mia Patel,South,Furniture,Bookshelf,2,131.96,0,Debit Card,263.92
+ORD1926,2025-01-10,2025-01,Olivia Perera,North,Furniture,Bookshelf,2,129.78,0,Debit Card,259.56
+ORD2069,2025-01-10,2025-01,Nimali Nguyen,East,Stationery,Printer Paper,4,26.35,15,Cash,89.59
+ORD2177,2025-01-10,2025-01,Chen Nguyen,North,Apparel,Jacket,10,128.75,0,Debit Card,1287.5
+ORD2426,2025-01-10,2025-01,Aisha Silva,North,Stationery,Printer Paper,3,24.61,0,Credit Card,73.83
+ORD2449,2025-01-10,2025-01,Mia Patel,East,Electronics,Laptop,3,830.02,10,Debit Card,2241.05
+ORD1665,2025-01-11,2025-01,Lucas Lopez,East,Furniture,Bookshelf,3,131.83,10,Cash,355.94
+ORD1417,2025-01-12,2025-01,Sofia Brown,West,Electronics,Laptop,8,865.86,10,Bank Transfer,6234.19
+ORD1711,2025-01-12,2025-01,Kasun Smith,East,Furniture,Office Chair,1,165.96,5,Credit Card,157.66
+ORD2234,2025-01-12,2025-01,Sofia Silva,South,Apparel,Jacket,1,132.32,5,Unknown,125.7
+ORD1070,2025-01-13,2025-01,Kasun Ali,East,Stationery,Notebook Pack,3,11.05,0,PayPal,33.15
+ORD1991,2025-01-13,2025-01,Sofia Fernando,East,Apparel,Jacket,2,122.99,0,Bank Transfer,245.98
+ORD2035,2025-01-13,2025-01,Kasun Brown,South,Stationery,Pen Set,8,8.41,0,PayPal,67.28
+ORD2020,2025-01-14,2025-01,Mia Smith,West,Apparel,Jacket,1,121.17,20,Debit Card,96.94
+ORD1165,2025-01-15,2025-01,Arjun Ali,South,Electronics,Smartphone,1,570.06,0,Unknown,570.06
+ORD1677,2025-01-15,2025-01,Unknown,South,Furniture,Standing Desk,1,430.36,0,Bank Transfer,430.36
+ORD2065,2025-01-15,2025-01,Kasun Khan,East,Apparel,Running Shoes,8,92.37,0,Cash,738.96
+ORD2320,2025-01-15,2025-01,Liam Fernando,East,Electronics,Laptop,2,788.88,0,Cash,1577.76
+ORD2366,2025-01-15,2025-01,Liam Johnson,South,Apparel,T-Shirt,2,20.29,0,Credit Card,40.58
+ORD1597,2025-01-16,2025-01,Ethan Lopez,West,Electronics,Headphones,1,120.35,0,Bank Transfer,120.35
+ORD1604,2025-01-16,2025-01,Unknown,West,Stationery,Pen Set,1,8.72,10,Unknown,7.85
+ORD2095,2025-01-16,2025-01,Noah Brown,North,Stationery,Pen Set,6,9.02,0,Cash,54.12
+ORD2112,2025-01-16,2025-01,Arjun Silva,West,Furniture,Standing Desk,1,417.76,10,Cash,375.98
+ORD1003,2025-01-17,2025-01,Aisha Smith,South,Stationery,Notebook Pack,1,12.7,5,Credit Card,12.06
+ORD1413,2025-01-17,2025-01,Sofia Silva,South,Stationery,Pen Set,6,8.46,20,Credit Card,40.61
+ORD2023,2025-01-17,2025-01,Zara Kumar,North,Furniture,Office Chair,1,193.39,0,Credit Card,193.39
+ORD2206,2025-01-17,2025-01,Liam Patel,South,Electronics,Headphones,2,121.09,10,Credit Card,217.96
+ORD2487,2025-01-17,2025-01,Kasun Wong,East,Stationery,Pen Set,2,8.57,0,Credit Card,17.14
+ORD1606,2025-01-18,2025-01,Arjun Johnson,East,Electronics,Headphones,10,116.07,10,PayPal,1044.63
+ORD1934,2025-01-18,2025-01,Nimali Brown,North,Apparel,T-Shirt,1,23.03,15,Bank Transfer,19.58
+ORD1816,2025-01-19,2025-01,Priya Wong,West,Furniture,Office Chair,2,173.07,0,Debit Card,346.14
+ORD2129,2025-01-19,2025-01,Sofia Ali,East,Electronics,Headphones,1,127.28,0,Credit Card,127.28
+ORD2315,2025-01-19,2025-01,Liam Fernando,East,Stationery,Pen Set,1,8.35,0,Credit Card,8.35
+ORD2346,2025-01-19,2025-01,Nimali Fernando,East,Apparel,Jacket,10,139.93,10,Debit Card,1259.37
+ORD1434,2025-01-21,2025-01,Noah Khan,South,Apparel,Running Shoes,2,87.88,15,PayPal,149.4
+ORD1821,2025-01-21,2025-01,Arjun Kumar,West,Furniture,Bookshelf,10,148.52,5,Debit Card,1410.94
+ORD2213,2025-01-21,2025-01,Chen Ali,North,Electronics,Laptop,8,787.45,0,PayPal,6299.6
+ORD2489,2025-01-21,2025-01,Olivia Smith,East,Furniture,Standing Desk,4,413.01,0,Cash,1652.04
+ORD1253,2025-01-22,2025-01,Zara Perera,West,Stationery,Notebook Pack,3,12.06,15,Bank Transfer,30.75
+ORD1317,2025-01-22,2025-01,Mia Nguyen,West,Stationery,Pen Set,6,8.63,5,Cash,49.19
+ORD2388,2025-01-22,2025-01,Kasun Patel,South,Stationery,Printer Paper,1,25.2,0,Bank Transfer,25.2
+ORD1175,2025-01-23,2025-01,Lucas Ali,West,Stationery,Notebook Pack,10,12.66,10,PayPal,113.94
+ORD1833,2025-01-23,2025-01,Olivia Nguyen,South,Furniture,Office Chair,3,190.53,20,Credit Card,457.27
+ORD2391,2025-01-23,2025-01,Olivia Brown,East,Furniture,Bookshelf,1,150.92,0,Cash,150.92
+ORD1089,2025-01-24,2025-01,Arjun Brown,North,Electronics,Laptop,6,882.74,5,PayPal,5031.62
+ORD1208,2025-01-24,2025-01,Liam Patel,West,Electronics,Headphones,1,117.51,0,Credit Card,117.51
+ORD1343,2025-01-24,2025-01,Priya Johnson,South,Electronics,Smartphone,6,633.08,0,Bank Transfer,3798.48
+ORD1358,2025-01-24,2025-01,Ethan Perera,South,Furniture,Bookshelf,1,129.74,0,Cash,129.74
+ORD1753,2025-01-24,2025-01,Unknown,West,Stationery,Notebook Pack,2,11.87,0,Credit Card,23.74
+ORD2419,2025-01-24,2025-01,Emma Wong,West,Electronics,Smartphone,1,615.18,20,PayPal,492.14
+ORD1355,2025-01-25,2025-01,Liam Patel,West,Furniture,Bookshelf,4,138.16,0,Bank Transfer,552.64
+ORD1427,2025-01-25,2025-01,Mia Johnson,West,Stationery,Pen Set,1,8.5,5,Bank Transfer,8.07
+ORD1446,2025-01-25,2025-01,Aisha Silva,South,Apparel,Jacket,3,123.75,5,Debit Card,352.69
+ORD1755,2025-01-25,2025-01,Zara Lopez,West,Apparel,T-Shirt,6,21.8,5,Debit Card,124.26
+ORD1050,2025-01-26,2025-01,Chen Wong,South,Electronics,Laptop,3,789.0,0,Credit Card,2367.0
+ORD1195,2025-01-26,2025-01,Chen Lopez,Unknown,Apparel,Jacket,2,126.44,5,Debit Card,240.24
+ORD1216,2025-01-26,2025-01,Lucas Khan,South,Electronics,Laptop,6,862.73,5,Bank Transfer,4917.56
+ORD1985,2025-01-26,2025-01,Ethan Patel,North,Apparel,Running Shoes,4,94.42,15,PayPal,321.03
+ORD2041,2025-01-27,2025-01,Zara Patel,Unknown,Apparel,T-Shirt,1,21.11,0,PayPal,21.11
+ORD2385,2025-01-27,2025-01,Lucas Khan,West,Electronics,Laptop,4,830.5,0,Cash,3322.0
+ORD2436,2025-01-27,2025-01,Lucas Perera,North,Stationery,Notebook Pack,1,11.96,5,PayPal,11.36
+ORD1883,2025-01-28,2025-01,Zara Brown,North,Electronics,Headphones,8,120.01,0,Bank Transfer,960.08
+ORD1994,2025-01-28,2025-01,Arjun Nguyen,South,Apparel,T-Shirt,10,21.78,0,Cash,217.8
+ORD2203,2025-01-28,2025-01,Zara Fernando,South,Stationery,Pen Set,5,8.21,15,Bank Transfer,34.89
+ORD1265,2025-01-29,2025-01,Mia Wong,North,Apparel,Running Shoes,2,96.69,0,Cash,193.38
+ORD1618,2025-01-29,2025-01,Arjun Nguyen,South,Electronics,Smartphone,5,634.69,10,Credit Card,2856.11
+ORD2068,2025-01-29,2025-01,Sofia Nguyen,East,Stationery,Notebook Pack,3,11.41,0,Bank Transfer,34.23
+ORD2223,2025-01-29,2025-01,Mia Perera,North,Furniture,Bookshelf,5,132.4,0,PayPal,662.0
+ORD2407,2025-01-29,2025-01,Noah Wong,West,Furniture,Bookshelf,4,134.45,0,Credit Card,537.8
+ORD1318,2025-01-30,2025-01,Noah Johnson,West,Apparel,Jacket,3,123.25,15,Cash,314.29
+ORD1960,2025-01-30,2025-01,Priya Wong,Unknown,Apparel,T-Shirt,1,22.32,0,Credit Card,22.32
+ORD2271,2025-01-30,2025-01,Olivia Garcia,West,Apparel,Running Shoes,2,94.36,0,Debit Card,188.72
+ORD1047,2025-01-31,2025-01,Kasun Silva,North,Stationery,Notebook Pack,2,12.91,20,PayPal,20.66
+ORD1234,2025-01-31,2025-01,Lucas Johnson,North,Stationery,Printer Paper,2,25.13,0,PayPal,50.26
+ORD1346,2025-01-31,2025-01,Kasun Brown,West,Apparel,T-Shirt,4,21.44,10,PayPal,77.18
+ORD1526,2025-01-31,2025-01,Mia Wong,East,Furniture,Office Chair,1,166.28,5,Bank Transfer,157.97
+ORD1559,2025-01-31,2025-01,Ethan Wong,East,Electronics,Laptop,5,823.44,0,Bank Transfer,4117.2
+ORD1999,2025-01-31,2025-01,Sofia Khan,East,Electronics,Headphones,1,127.01,0,Credit Card,127.01
+ORD1222,2025-02-02,2025-02,Chen Brown,East,Electronics,Smartphone,1,561.77,0,Bank Transfer,561.77
+ORD1298,2025-02-02,2025-02,Emma Lopez,West,Stationery,Pen Set,6,8.95,0,Bank Transfer,53.7
+ORD1476,2025-02-02,2025-02,Kasun Silva,East,Electronics,Headphones,10,110.49,20,PayPal,883.92
+ORD1569,2025-02-02,2025-02,Priya Ali,North,Stationery,Printer Paper,2,23.42,5,PayPal,44.5
+ORD1952,2025-02-02,2025-02,Ethan Khan,West,Apparel,T-Shirt,8,20.6,5,Bank Transfer,156.56
+ORD2236,2025-02-02,2025-02,Aisha Lopez,South,Furniture,Office Chair,6,186.89,0,Bank Transfer,1121.34
+ORD1017,2025-02-03,2025-02,Nimali Nguyen,Unknown,Furniture,Standing Desk,3,417.76,20,Debit Card,1002.62
+ORD1227,2025-02-03,2025-02,Olivia Patel,East,Electronics,Headphones,10,127.02,10,PayPal,1143.18
+ORD1670,2025-02-03,2025-02,Sofia Ali,West,Electronics,Headphones,5,111.66,0,Debit Card,558.3
+ORD2365,2025-02-03,2025-02,Mia Silva,East,Stationery,Printer Paper,2,26.72,0,PayPal,53.44
+ORD1037,2025-02-04,2025-02,Liam Lopez,East,Furniture,Office Chair,1,167.82,0,Credit Card,167.82
+ORD1264,2025-02-04,2025-02,Chen Brown,East,Stationery,Pen Set,8,8.52,5,Credit Card,64.75
+ORD1499,2025-02-04,2025-02,Sofia Perera,North,Furniture,Bookshelf,3,143.77,5,Credit Card,409.74
+ORD2063,2025-02-04,2025-02,Sofia Patel,East,Furniture,Standing Desk,2,410.17,10,Credit Card,738.31
+ORD2268,2025-02-04,2025-02,Mia Nguyen,West,Stationery,Pen Set,8,8.93,20,Bank Transfer,57.15
+ORD2291,2025-02-04,2025-02,Emma Lopez,North,Apparel,Running Shoes,2,90.16,0,Bank Transfer,180.32
+ORD2493,2025-02-04,2025-02,Liam Silva,West,Furniture,Bookshelf,2,136.81,5,Bank Transfer,259.94
+ORD1080,2025-02-05,2025-02,Lucas Nguyen,East,Stationery,Notebook Pack,1,12.28,0,Credit Card,12.28
+ORD1217,2025-02-05,2025-02,Nimali Nguyen,South,Furniture,Office Chair,5,179.96,0,Credit Card,899.8
+ORD1924,2025-02-05,2025-02,Kasun Fernando,East,Furniture,Office Chair,4,167.8,0,Credit Card,671.2
+ORD1958,2025-02-06,2025-02,Aisha Khan,West,Apparel,Running Shoes,8,100.97,0,Credit Card,807.76
+ORD2176,2025-02-06,2025-02,Liam Ali,South,Furniture,Office Chair,1,193.62,10,PayPal,174.26
+ORD1055,2025-02-07,2025-02,Aisha Brown,North,Furniture,Bookshelf,3,140.8,0,Credit Card,422.4
+ORD1140,2025-02-07,2025-02,Liam Fernando,South,Stationery,Pen Set,2,8.73,0,Bank Transfer,17.46
+ORD1622,2025-02-07,2025-02,Mia Ali,West,Furniture,Bookshelf,3,150.86,15,Bank Transfer,384.69
+ORD1202,2025-02-08,2025-02,Olivia Kumar,South,Stationery,Pen Set,3,7.98,0,PayPal,23.94
+ORD1532,2025-02-08,2025-02,Noah Silva,East,Stationery,Pen Set,1,8.81,5,Cash,8.37
+ORD1961,2025-02-09,2025-02,Nimali Wong,North,Furniture,Standing Desk,2,443.86,0,Credit Card,887.72
+ORD2232,2025-02-09,2025-02,Emma Fernando,Unknown,Furniture,Standing Desk,1,409.59,0,Credit Card,409.59
+ORD2274,2025-02-09,2025-02,Nimali Kumar,South,Apparel,Jacket,2,126.9,0,Credit Card,253.8
+ORD1187,2025-02-10,2025-02,Ethan Nguyen,South,Electronics,Headphones,4,122.31,10,Debit Card,440.32
+ORD1653,2025-02-10,2025-02,Ethan Lopez,North,Furniture,Standing Desk,3,414.71,5,Bank Transfer,1181.92
+ORD1742,2025-02-10,2025-02,Ravi Brown,West,Furniture,Office Chair,1,165.96,0,Credit Card,165.96
+ORD1922,2025-02-10,2025-02,Zara Johnson,South,Furniture,Standing Desk,2,395.42,20,Bank Transfer,632.67
+ORD2125,2025-02-10,2025-02,Noah Khan,West,Stationery,Printer Paper,2,25.65,10,Credit Card,46.17
+ORD1051,2025-02-11,2025-02,Kasun Smith,North,Stationery,Printer Paper,6,23.96,0,Debit Card,143.76
+ORD1099,2025-02-11,2025-02,Olivia Fernando,South,Stationery,Printer Paper,1,25.09,10,PayPal,22.58
+ORD1145,2025-02-11,2025-02,Kasun Khan,South,Apparel,Jacket,3,121.7,0,Bank Transfer,365.1
+ORD2187,2025-02-11,2025-02,Aisha Perera,South,Stationery,Pen Set,1,8.45,0,Credit Card,8.45
+ORD2363,2025-02-11,2025-02,Unknown,West,Furniture,Standing Desk,2,427.12,10,Cash,768.82
+ORD2404,2025-02-11,2025-02,Ravi Lopez,West,Electronics,Laptop,1,796.35,5,PayPal,756.53
+ORD1031,2025-02-13,2025-02,Chen Lopez,North,Electronics,Smartphone,1,620.47,10,Bank Transfer,558.42
+ORD1087,2025-02-13,2025-02,Sofia Wong,East,Apparel,Jacket,3,121.62,5,Credit Card,346.62
+ORD1127,2025-02-13,2025-02,Arjun Ali,West,Furniture,Office Chair,5,173.72,0,PayPal,868.6
+ORD1141,2025-02-13,2025-02,Arjun Smith,West,Furniture,Standing Desk,5,439.46,0,Bank Transfer,2197.3
+ORD1244,2025-02-13,2025-02,Liam Fernando,South,Apparel,Running Shoes,1,89.9,10,Credit Card,80.91
+ORD1270,2025-02-13,2025-02,Kasun Perera,South,Furniture,Bookshelf,8,138.9,0,Unknown,1111.2
+ORD1474,2025-02-13,2025-02,Arjun Nguyen,South,Stationery,Notebook Pack,8,11.65,5,PayPal,88.54
+ORD2118,2025-02-13,2025-02,Olivia Johnson,West,Electronics,Headphones,2,127.83,5,PayPal,242.88
+ORD2324,2025-02-13,2025-02,Noah Lopez,East,Apparel,Running Shoes,2,102.2,5,Credit Card,194.18
+ORD1123,2025-02-14,2025-02,Priya Brown,South,Furniture,Office Chair,10,191.67,0,PayPal,1916.7
+ORD2429,2025-02-14,2025-02,Olivia Fernando,North,Furniture,Standing Desk,3,426.4,15,Cash,1087.32
+ORD1472,2025-02-15,2025-02,Mia Wong,North,Electronics,Laptop,1,854.24,15,Bank Transfer,726.1
+ORD1546,2025-02-15,2025-02,Emma Smith,East,Stationery,Notebook Pack,1,11.81,0,Cash,11.81
+ORD1668,2025-02-15,2025-02,Nimali Brown,South,Apparel,Jacket,1,138.45,0,PayPal,138.45
+ORD1915,2025-02-15,2025-02,Ravi Patel,East,Furniture,Office Chair,1,169.66,5,PayPal,161.18
+ORD2191,2025-02-15,2025-02,Sofia Garcia,West,Apparel,Running Shoes,2,95.58,10,Credit Card,172.04
+ORD1183,2025-02-16,2025-02,Zara Smith,North,Apparel,T-Shirt,1,21.905,5,PayPal,20.81
+ORD1408,2025-02-16,2025-02,Ravi Kumar,North,Stationery,Pen Set,1,8.41,15,Bank Transfer,7.15
+ORD1594,2025-02-16,2025-02,Kasun Kumar,East,Electronics,Smartphone,5,555.69,0,Bank Transfer,2778.45
+ORD1928,2025-02-16,2025-02,Olivia Perera,West,Furniture,Office Chair,5,193.86,10,PayPal,872.37
+ORD2361,2025-02-16,2025-02,Arjun Patel,South,Furniture,Standing Desk,4,402.08,5,Debit Card,1527.9
+ORD1062,2025-02-17,2025-02,Zara Lopez,West,Electronics,Laptop,6,817.08,5,Credit Card,4657.36
+ORD1129,2025-02-17,2025-02,Sofia Khan,West,Electronics,Laptop,4,839.95,0,Debit Card,3359.8
+ORD1341,2025-02-17,2025-02,Kasun Nguyen,South,Stationery,Printer Paper,4,24.19,15,Bank Transfer,82.25
+ORD1540,2025-02-17,2025-02,Mia Patel,North,Furniture,Standing Desk,3,423.88,10,Cash,1144.48
+ORD1638,2025-02-17,2025-02,Lucas Nguyen,West,Stationery,Printer Paper,6,26.99,0,Credit Card,161.94
+ORD2151,2025-02-17,2025-02,Liam Nguyen,South,Apparel,Running Shoes,2,97.66,5,Bank Transfer,185.55
+ORD2251,2025-02-17,2025-02,Lucas Perera,South,Furniture,Bookshelf,6,149.17,0,Bank Transfer,895.02
+ORD2481,2025-02-17,2025-02,Liam Silva,South,Electronics,Smartphone,6,631.74,0,PayPal,3790.44
+ORD1040,2025-02-18,2025-02,Emma Johnson,West,Furniture,Office Chair,1,191.31,5,Cash,181.74
+ORD2402,2025-02-18,2025-02,Lucas Perera,East,Apparel,Jacket,10,121.85,0,Credit Card,1218.5
+ORD1451,2025-02-19,2025-02,Olivia Khan,South,Electronics,Smartphone,6,607.55,0,Bank Transfer,3645.3
+ORD1642,2025-02-19,2025-02,Liam Silva,Unknown,Furniture,Office Chair,2,188.47,0,Debit Card,376.94
+ORD1748,2025-02-19,2025-02,Arjun Perera,East,Electronics,Smartphone,1,607.95,20,Cash,486.36
+ORD1842,2025-02-19,2025-02,Kasun Brown,North,Apparel,Running Shoes,2,99.63,0,Bank Transfer,199.26
+ORD1954,2025-02-19,2025-02,Noah Perera,South,Electronics,Smartphone,1,635.21,0,Credit Card,635.21
+ORD2179,2025-02-19,2025-02,Ravi Nguyen,South,Furniture,Standing Desk,1,395.11,0,Bank Transfer,395.11
+ORD1045,2025-02-20,2025-02,Liam Johnson,North,Stationery,Printer Paper,1,24.35,15,Credit Card,20.7
+ORD1144,2025-02-20,2025-02,Nimali Johnson,South,Apparel,T-Shirt,1,20.74,10,Cash,18.67
+ORD1211,2025-02-20,2025-02,Chen Nguyen,Unknown,Apparel,Jacket,4,138.22,5,Cash,525.24
+ORD2003,2025-02-20,2025-02,Unknown,North,Apparel,T-Shirt,6,20.28,5,Debit Card,115.6
+ORD2078,2025-02-20,2025-02,Olivia Khan,North,Electronics,Headphones,3,115.11,0,PayPal,345.33
+ORD2149,2025-02-20,2025-02,Emma Johnson,West,Stationery,Notebook Pack,10,12.29,10,Cash,110.61
+ORD2457,2025-02-20,2025-02,Olivia Johnson,East,Stationery,Pen Set,1,8.07,0,Cash,8.07
+ORD2480,2025-02-20,2025-02,Olivia Ali,West,Stationery,Pen Set,5,9.17,0,PayPal,45.85
+ORD1550,2025-02-21,2025-02,Olivia Kumar,North,Electronics,Smartphone,5,627.07,10,Bank Transfer,2821.82
+ORD1640,2025-02-21,2025-02,Unknown,South,Electronics,Laptop,3,835.25,0,PayPal,2505.75
+ORD1724,2025-02-21,2025-02,Priya Johnson,South,Electronics,Smartphone,2,617.89,0,PayPal,1235.78
+ORD1886,2025-02-21,2025-02,Lucas Garcia,East,Apparel,Running Shoes,2,99.9,15,Debit Card,169.83
+ORD1068,2025-02-22,2025-02,Mia Kumar,West,Apparel,Jacket,1,122.96,15,Cash,104.52
+ORD1288,2025-02-22,2025-02,Emma Patel,North,Stationery,Printer Paper,2,25.1,0,Debit Card,50.2
+ORD1505,2025-02-22,2025-02,Kasun Garcia,West,Apparel,Running Shoes,8,87.68,0,Debit Card,701.44
+ORD1768,2025-02-22,2025-02,Arjun Ali,West,Stationery,Pen Set,3,8.52,0,Debit Card,25.56
+ORD1908,2025-02-23,2025-02,Priya Nguyen,South,Electronics,Smartphone,5,626.92,0,Credit Card,3134.6
+ORD1391,2025-02-24,2025-02,Lucas Patel,West,Apparel,Running Shoes,3,102.31,0,Cash,306.93
+ORD1493,2025-02-24,2025-02,Aisha Smith,East,Stationery,Notebook Pack,5,12.5,10,Debit Card,56.25
+ORD1850,2025-02-24,2025-02,Unknown,East,Furniture,Bookshelf,2,137.92,0,Cash,275.84
+ORD2018,2025-02-24,2025-02,Olivia Fernando,North,Furniture,Office Chair,2,173.33,0,Bank Transfer,346.66
+ORD2180,2025-02-24,2025-02,Emma Brown,Unknown,Electronics,Smartphone,2,616.7,0,Credit Card,1233.4
+ORD2294,2025-02-24,2025-02,Kasun Lopez,East,Apparel,Jacket,1,130.05,10,Credit Card,117.05
+ORD1223,2025-02-25,2025-02,Ravi Wong,South,Apparel,Running Shoes,1,89.84,0,Bank Transfer,89.84
+ORD1632,2025-02-25,2025-02,Aisha Perera,West,Furniture,Standing Desk,1,423.7,10,Bank Transfer,381.33
+ORD1685,2025-02-25,2025-02,Chen Smith,Unknown,Apparel,Jacket,1,139.27,10,Cash,125.34
+ORD1841,2025-02-25,2025-02,Aisha Khan,Unknown,Electronics,Headphones,4,112.98,0,Debit Card,451.92
+ORD2307,2025-02-25,2025-02,Unknown,West,Stationery,Pen Set,4,8.92,15,PayPal,30.33
+ORD2454,2025-02-26,2025-02,Emma Kumar,North,Stationery,Pen Set,1,7.9,5,Unknown,7.5
+ORD2474,2025-02-26,2025-02,Liam Lopez,East,Stationery,Printer Paper,1,23.39,20,Cash,18.71
+ORD1001,2025-02-27,2025-02,Aisha Ali,East,Apparel,Jacket,2,139.37,10,Credit Card,250.87
+ORD1393,2025-02-27,2025-02,Lucas Fernando,West,Furniture,Office Chair,5,168.68,10,Cash,759.06
+ORD1555,2025-02-27,2025-02,Arjun Brown,North,Stationery,Notebook Pack,8,11.99,20,Bank Transfer,76.74
+ORD2134,2025-02-27,2025-02,Kasun Nguyen,South,Apparel,T-Shirt,2,20.48,0,PayPal,40.96
+ORD2249,2025-02-27,2025-02,Chen Perera,Unknown,Apparel,T-Shirt,1,20.99,5,Bank Transfer,19.94
+ORD2285,2025-02-27,2025-02,Noah Perera,West,Apparel,T-Shirt,3,23.54,5,Debit Card,67.09
+ORD2398,2025-02-27,2025-02,Olivia Smith,East,Stationery,Pen Set,6,8.5,10,Credit Card,45.9
+ORD1229,2025-02-28,2025-02,Nimali Silva,West,Apparel,T-Shirt,8,22.2,5,Debit Card,168.72
+ORD1247,2025-02-28,2025-02,Mia Silva,North,Stationery,Printer Paper,2,24.51,0,Cash,49.02
+ORD1255,2025-02-28,2025-02,Ethan Perera,East,Furniture,Standing Desk,1,436.39,0,Debit Card,436.39
+ORD1506,2025-02-28,2025-02,Priya Johnson,West,Stationery,Pen Set,1,8.7,15,Bank Transfer,7.4
+ORD2037,2025-02-28,2025-02,Ravi Johnson,East,Electronics,Smartphone,3,610.88,5,Unknown,1741.01
+ORD2084,2025-02-28,2025-02,Unknown,North,Furniture,Standing Desk,2,422.18,0,Debit Card,844.36
+ORD2103,2025-02-28,2025-02,Ravi Garcia,North,Stationery,Pen Set,2,7.91,0,PayPal,15.82
+ORD2344,2025-02-28,2025-02,Olivia Khan,North,Furniture,Office Chair,2,184.93,0,PayPal,369.86
+ORD2451,2025-02-28,2025-02,Arjun Smith,South,Stationery,Notebook Pack,5,12.19,0,PayPal,60.95
+ORD1564,2025-03-01,2025-03,Ravi Nguyen,Unknown,Stationery,Notebook Pack,4,11.38,5,Cash,43.24
+ORD1572,2025-03-01,2025-03,Arjun Ali,North,Apparel,Jacket,2,120.81,20,Credit Card,193.3
+ORD1714,2025-03-01,2025-03,Zara Brown,West,Apparel,T-Shirt,6,23.12,5,Credit Card,131.78
+ORD1727,2025-03-01,2025-03,Emma Lopez,North,Apparel,T-Shirt,4,22.04,0,Unknown,88.16
+ORD2072,2025-03-01,2025-03,Sofia Ali,East,Apparel,Running Shoes,4,90.89,0,Credit Card,363.56
+ORD2199,2025-03-01,2025-03,Noah Khan,West,Stationery,Printer Paper,2,25.58,0,Bank Transfer,51.16
+ORD2243,2025-03-01,2025-03,Liam Garcia,South,Furniture,Office Chair,1,168.26,0,PayPal,168.26
+ORD1167,2025-03-02,2025-03,Olivia Brown,East,Stationery,Pen Set,10,9.16,5,Bank Transfer,87.02
+ORD1436,2025-03-02,2025-03,Chen Khan,South,Apparel,T-Shirt,6,22.75,10,PayPal,122.85
+ORD1510,2025-03-02,2025-03,Arjun Patel,North,Furniture,Bookshelf,2,146.79,0,Debit Card,293.58
+ORD1568,2025-03-02,2025-03,Aisha Garcia,West,Apparel,T-Shirt,2,21.34,5,Cash,40.55
+ORD1843,2025-03-02,2025-03,Noah Brown,South,Stationery,Printer Paper,1,26.83,0,Bank Transfer,26.83
+ORD2060,2025-03-02,2025-03,Aisha Brown,Unknown,Electronics,Laptop,6,839.95,5,Debit Card,4787.72
+ORD2283,2025-03-02,2025-03,Arjun Fernando,South,Apparel,T-Shirt,10,22.22,10,Debit Card,199.98
+ORD1052,2025-03-03,2025-03,Arjun Nguyen,North,Stationery,Notebook Pack,2,12.93,0,Bank Transfer,25.86
+ORD1297,2025-03-04,2025-03,Liam Khan,West,Furniture,Standing Desk,1,402.74,10,Bank Transfer,362.47
+ORD1599,2025-03-04,2025-03,Aisha Perera,South,Electronics,Headphones,1,112.03,10,Unknown,100.83
+ORD2152,2025-03-04,2025-03,Emma Smith,South,Apparel,Jacket,2,139.19,0,PayPal,278.38
+ORD2246,2025-03-04,2025-03,Aisha Silva,West,Furniture,Standing Desk,2,430.88,10,Debit Card,775.58
+ORD2352,2025-03-04,2025-03,Lucas Garcia,West,Apparel,Running Shoes,3,99.25,0,Credit Card,297.75
+ORD2458,2025-03-04,2025-03,Nimali Brown,West,Electronics,Headphones,2,111.38,0,Credit Card,222.76
+ORD1009,2025-03-05,2025-03,Ethan Smith,East,Stationery,Printer Paper,2,26.14,0,PayPal,52.28
+ORD1538,2025-03-05,2025-03,Kasun Brown,West,Electronics,Laptop,3,854.48,0,Credit Card,2563.44
+ORD2288,2025-03-05,2025-03,Unknown,South,Electronics,Smartphone,3,587.85,0,Debit Card,1763.55
+ORD1335,2025-03-06,2025-03,Lucas Johnson,North,Electronics,Smartphone,3,622.29,10,PayPal,1680.18
+ORD1905,2025-03-06,2025-03,Arjun Johnson,Unknown,Electronics,Laptop,2,832.56,0,Credit Card,1665.12
+ORD2284,2025-03-06,2025-03,Nimali Fernando,North,Furniture,Standing Desk,1,414.47,0,PayPal,414.47
+ORD1032,2025-03-07,2025-03,Chen Wong,South,Electronics,Headphones,3,118.78999999999999,0,Cash,356.37
+ORD2097,2025-03-07,2025-03,Emma Silva,North,Apparel,Running Shoes,6,94.785,0,Cash,568.71
+ORD1333,2025-03-08,2025-03,Noah Smith,East,Stationery,Printer Paper,8,23.55,20,PayPal,150.72
+ORD1039,2025-03-09,2025-03,Chen Khan,West,Stationery,Printer Paper,3,26.49,10,PayPal,71.52
+ORD1200,2025-03-09,2025-03,Mia Wong,East,Furniture,Office Chair,1,171.14,0,Debit Card,171.14
+ORD1281,2025-03-09,2025-03,Ethan Fernando,South,Apparel,Running Shoes,1,97.49,0,Credit Card,97.49
+ORD1762,2025-03-09,2025-03,Kasun Wong,East,Apparel,Jacket,1,122.51,0,Credit Card,122.51
+ORD2012,2025-03-09,2025-03,Nimali Johnson,South,Stationery,Printer Paper,1,24.11,0,Bank Transfer,24.11
+ORD2216,2025-03-09,2025-03,Mia Patel,South,Furniture,Office Chair,1,180.25,0,Credit Card,180.25
+ORD2280,2025-03-09,2025-03,Aisha Brown,East,Electronics,Smartphone,1,606.8,5,Cash,576.46
+ORD1357,2025-03-10,2025-03,Priya Ali,East,Stationery,Notebook Pack,2,11.59,0,PayPal,23.18
+ORD1709,2025-03-10,2025-03,Lucas Brown,East,Apparel,Jacket,10,133.49,5,Debit Card,1268.16
+ORD1811,2025-03-10,2025-03,Lucas Brown,West,Furniture,Bookshelf,3,147.32,20,PayPal,353.57
+ORD1946,2025-03-10,2025-03,Priya Perera,West,Apparel,T-Shirt,8,23.74,0,PayPal,189.92
+ORD1479,2025-03-11,2025-03,Sofia Perera,West,Electronics,Smartphone,1,554.88,0,Cash,554.88
+ORD2367,2025-03-11,2025-03,Aisha Silva,South,Apparel,Jacket,1,120.18,5,Cash,114.17
+ORD1250,2025-03-12,2025-03,Priya Patel,East,Furniture,Office Chair,3,191.71,5,Credit Card,546.37
+ORD1293,2025-03-12,2025-03,Liam Patel,West,Electronics,Headphones,4,123.05,0,Debit Card,492.2
+ORD1363,2025-03-12,2025-03,Lucas Kumar,West,Electronics,Laptop,3,804.72,20,Bank Transfer,1931.33
+ORD1512,2025-03-12,2025-03,Ethan Silva,South,Apparel,Running Shoes,1,93.69,0,PayPal,93.69
+ORD1547,2025-03-12,2025-03,Ethan Kumar,Unknown,Furniture,Standing Desk,10,448.69,5,Debit Card,4262.55
+ORD1608,2025-03-12,2025-03,Zara Khan,South,Stationery,Notebook Pack,1,12.22,10,Bank Transfer,11.0
+ORD1854,2025-03-12,2025-03,Emma Ali,South,Apparel,T-Shirt,2,23.04,10,PayPal,41.47
+ORD2277,2025-03-12,2025-03,Sofia Garcia,West,Electronics,Laptop,5,812.09,0,PayPal,4060.45
+ORD1002,2025-03-13,2025-03,Emma Johnson,North,Furniture,Office Chair,3,170.09,0,Bank Transfer,510.27
+ORD1019,2025-03-13,2025-03,Arjun Ali,East,Furniture,Standing Desk,3,448.35,0,Bank Transfer,1345.05
+ORD1475,2025-03-13,2025-03,Priya Patel,East,Electronics,Headphones,1,113.25,20,PayPal,90.6
+ORD1514,2025-03-13,2025-03,Unknown,West,Furniture,Standing Desk,3,434.05,0,Bank Transfer,1302.15
+ORD1688,2025-03-13,2025-03,Aisha Johnson,West,Apparel,Jacket,2,136.37,0,Cash,272.74
+ORD2106,2025-03-13,2025-03,Aisha Kumar,South,Furniture,Office Chair,3,179.54,0,Debit Card,538.62
+ORD2350,2025-03-13,2025-03,Unknown,North,Stationery,Notebook Pack,3,12.67,0,Bank Transfer,38.01
+ORD1275,2025-03-14,2025-03,Mia Patel,West,Apparel,Jacket,2,127.88,5,Debit Card,242.97
+ORD1531,2025-03-14,2025-03,Priya Johnson,West,Stationery,Pen Set,4,8.52,0,PayPal,34.08
+ORD1998,2025-03-14,2025-03,Aisha Silva,North,Apparel,T-Shirt,5,22.19,0,Cash,110.95
+ORD1188,2025-03-15,2025-03,Arjun Brown,East,Apparel,Running Shoes,1,89.47,0,PayPal,89.47
+ORD1241,2025-03-15,2025-03,Ethan Smith,South,Electronics,Headphones,8,113.88,0,Credit Card,911.04
+ORD1430,2025-03-15,2025-03,Ravi Perera,West,Apparel,T-Shirt,2,21.905,0,PayPal,43.81
+ORD1663,2025-03-15,2025-03,Ethan Perera,West,Stationery,Notebook Pack,4,11.99,0,Cash,47.96
+ORD2189,2025-03-15,2025-03,Priya Wong,West,Furniture,Office Chair,2,186.48,5,PayPal,354.31
+ORD2485,2025-03-15,2025-03,Olivia Brown,West,Electronics,Headphones,5,125.84,15,Debit Card,534.82
+ORD1380,2025-03-16,2025-03,Unknown,East,Furniture,Bookshelf,2,139.57,5,Credit Card,265.18
+ORD1441,2025-03-16,2025-03,Unknown,West,Furniture,Office Chair,1,170.19,15,Cash,144.66
+ORD1765,2025-03-16,2025-03,Liam Johnson,North,Stationery,Notebook Pack,1,12.03,0,Credit Card,12.03
+ORD1857,2025-03-16,2025-03,Chen Nguyen,West,Electronics,Smartphone,5,641.21,0,Credit Card,3206.05
+ORD1892,2025-03-16,2025-03,Olivia Brown,North,Furniture,Office Chair,1,191.24,0,Debit Card,191.24
+ORD2016,2025-03-16,2025-03,Unknown,East,Furniture,Bookshelf,4,138.27,0,PayPal,553.08
+ORD2142,2025-03-16,2025-03,Zara Perera,East,Furniture,Standing Desk,1,442.65,5,PayPal,420.52
+ORD1218,2025-03-17,2025-03,Aisha Patel,South,Furniture,Bookshelf,3,141.95,10,Credit Card,383.26
+ORD1984,2025-03-17,2025-03,Olivia Garcia,North,Stationery,Notebook Pack,8,12.63,5,PayPal,95.99
+ORD2233,2025-03-17,2025-03,Chen Fernando,South,Apparel,T-Shirt,10,22.59,15,Bank Transfer,192.02
+ORD2245,2025-03-17,2025-03,Mia Brown,South,Furniture,Bookshelf,2,140.03,0,Credit Card,280.06
+ORD2341,2025-03-17,2025-03,Arjun Fernando,East,Stationery,Pen Set,2,8.15,5,PayPal,15.48
+ORD1364,2025-03-18,2025-03,Olivia Garcia,East,Stationery,Pen Set,1,9.1,5,Debit Card,8.64
+ORD2070,2025-03-18,2025-03,Priya Lopez,North,Electronics,Smartphone,4,594.16,5,Cash,2257.81
+ORD1650,2025-03-19,2025-03,Emma Smith,East,Electronics,Laptop,1,826.63,0,Bank Transfer,826.63
+ORD2453,2025-03-19,2025-03,Emma Ali,North,Furniture,Standing Desk,1,428.44,5,PayPal,407.02
+ORD1100,2025-03-20,2025-03,Nimali Smith,West,Apparel,T-Shirt,1,22.43,0,PayPal,22.43
+ORD1121,2025-03-20,2025-03,Zara Fernando,East,Apparel,T-Shirt,2,22.5,0,Bank Transfer,45.0
+ORD1468,2025-03-20,2025-03,Ethan Ali,South,Furniture,Standing Desk,1,388.86,10,PayPal,349.97
+ORD2137,2025-03-20,2025-03,Chen Kumar,West,Apparel,Running Shoes,1,88.01,0,PayPal,88.01
+ORD1069,2025-03-21,2025-03,Arjun Lopez,South,Apparel,T-Shirt,3,20.27,0,Debit Card,60.81
+ORD1179,2025-03-21,2025-03,Noah Brown,East,Apparel,Jacket,4,139.25,10,Cash,501.3
+ORD1879,2025-03-21,2025-03,Emma Smith,North,Furniture,Bookshelf,4,143.73,20,PayPal,459.94
+ORD1916,2025-03-21,2025-03,Sofia Perera,North,Furniture,Standing Desk,5,425.26,0,Bank Transfer,2126.3
+ORD1949,2025-03-21,2025-03,Ravi Patel,East,Stationery,Printer Paper,3,24.43,10,Bank Transfer,65.96
+ORD1974,2025-03-21,2025-03,Olivia Patel,East,Furniture,Bookshelf,2,136.09,10,Bank Transfer,244.96
+ORD2067,2025-03-21,2025-03,Ravi Lopez,East,Stationery,Pen Set,1,8.35,5,PayPal,7.93
+ORD1146,2025-03-22,2025-03,Aisha Silva,West,Electronics,Smartphone,4,558.99,10,Bank Transfer,2012.36
+ORD1243,2025-03-22,2025-03,Mia Patel,East,Furniture,Bookshelf,3,146.61,0,Bank Transfer,439.83
+ORD1386,2025-03-22,2025-03,Zara Johnson,West,Stationery,Printer Paper,4,23.63,15,Credit Card,80.34
+ORD1739,2025-03-22,2025-03,Unknown,West,Apparel,Jacket,4,125.94,10,Credit Card,453.38
+ORD1797,2025-03-22,2025-03,Arjun Fernando,West,Stationery,Pen Set,4,8.76,0,Unknown,35.04
+ORD2006,2025-03-22,2025-03,Unknown,Unknown,Apparel,T-Shirt,2,22.82,0,Cash,45.64
+ORD2318,2025-03-22,2025-03,Liam Silva,East,Stationery,Printer Paper,5,26.9,0,PayPal,134.5
+ORD2456,2025-03-22,2025-03,Sofia Ali,West,Furniture,Bookshelf,3,130.59,0,Bank Transfer,391.77
+ORD1766,2025-03-24,2025-03,Unknown,East,Furniture,Standing Desk,1,401.12,0,Debit Card,401.12
+ORD1855,2025-03-24,2025-03,Emma Khan,West,Apparel,T-Shirt,1,20.5,0,Cash,20.5
+ORD1902,2025-03-24,2025-03,Lucas Khan,East,Electronics,Smartphone,1,625.94,10,Cash,563.35
+ORD1461,2025-03-25,2025-03,Arjun Nguyen,West,Furniture,Standing Desk,1,412.68,20,Bank Transfer,330.14
+ORD2258,2025-03-25,2025-03,Zara Ali,West,Furniture,Standing Desk,6,417.76,10,Debit Card,2255.9
+ORD2272,2025-03-25,2025-03,Liam Patel,East,Furniture,Bookshelf,3,134.46,5,Unknown,383.21
+ORD2278,2025-03-25,2025-03,Emma Khan,South,Furniture,Bookshelf,5,147.25,0,Bank Transfer,736.25
+ORD1106,2025-03-26,2025-03,Ravi Fernando,North,Apparel,T-Shirt,4,21.68,0,PayPal,86.72
+ORD1151,2025-03-26,2025-03,Sofia Nguyen,East,Electronics,Laptop,5,857.94,0,PayPal,4289.7
+ORD2464,2025-03-26,2025-03,Zara Perera,West,Stationery,Notebook Pack,1,11.4,5,Credit Card,10.83
+ORD1046,2025-03-27,2025-03,Zara Brown,West,Furniture,Office Chair,2,180.25,10,Debit Card,324.45
+ORD1906,2025-03-27,2025-03,Unknown,Unknown,Furniture,Office Chair,2,184.22,0,Debit Card,368.44
+ORD1939,2025-03-27,2025-03,Priya Nguyen,North,Electronics,Laptop,3,886.94,0,PayPal,2660.82
+ORD1965,2025-03-27,2025-03,Kasun Wong,West,Electronics,Smartphone,5,614.85,0,Bank Transfer,3074.25
+ORD2140,2025-03-27,2025-03,Ravi Silva,West,Electronics,Laptop,3,813.55,0,Cash,2440.65
+ORD2275,2025-03-27,2025-03,Lucas Lopez,East,Apparel,Running Shoes,5,92.39,0,Cash,461.95
+ORD1444,2025-03-28,2025-03,Mia Fernando,South,Stationery,Pen Set,2,8.58,10,Bank Transfer,15.44
+ORD1527,2025-03-28,2025-03,Lucas Ali,East,Stationery,Printer Paper,3,25.19,0,Cash,75.57
+ORD1702,2025-03-28,2025-03,Kasun Brown,North,Furniture,Office Chair,4,180.25,0,Debit Card,721.0
+ORD2325,2025-03-28,2025-03,Aisha Wong,East,Furniture,Bookshelf,1,144.69,0,Credit Card,144.69
+ORD1370,2025-03-29,2025-03,Ethan Fernando,South,Stationery,Pen Set,4,8.77,0,Credit Card,35.08
+ORD1645,2025-03-29,2025-03,Unknown,West,Furniture,Office Chair,3,182.98,5,Credit Card,521.49
+ORD1977,2025-03-30,2025-03,Chen Lopez,Unknown,Stationery,Pen Set,4,8.35,5,Bank Transfer,31.73
+ORD2183,2025-03-30,2025-03,Lucas Smith,North,Apparel,Running Shoes,1,94.76,0,Cash,94.76
+ORD2447,2025-03-30,2025-03,Nimali Fernando,West,Electronics,Headphones,2,114.55,0,Credit Card,229.1
+ORD1156,2025-03-31,2025-03,Chen Wong,West,Electronics,Laptop,2,820.86,15,Cash,1395.46
+ORD1501,2025-03-31,2025-03,Kasun Garcia,West,Stationery,Printer Paper,2,24.92,0,PayPal,49.84
+ORD1860,2025-03-31,2025-03,Chen Brown,North,Electronics,Laptop,3,839.95,5,Debit Card,2393.86
+ORD2135,2025-03-31,2025-03,Priya Kumar,South,Furniture,Bookshelf,10,136.12,10,PayPal,1225.08
+ORD2190,2025-03-31,2025-03,Liam Nguyen,South,Furniture,Office Chair,3,187.98,15,PayPal,479.35
+ORD1389,2025-04-01,2025-04,Liam Lopez,West,Stationery,Notebook Pack,1,12.61,10,PayPal,11.35
+ORD1620,2025-04-01,2025-04,Unknown,North,Furniture,Bookshelf,2,147.66,10,Debit Card,265.79
+ORD2195,2025-04-01,2025-04,Kasun Johnson,North,Stationery,Pen Set,2,8.99,0,Credit Card,17.98
+ORD2198,2025-04-01,2025-04,Kasun Kumar,Unknown,Stationery,Printer Paper,1,25.27,5,PayPal,24.01
+ORD1416,2025-04-02,2025-04,Ethan Wong,South,Electronics,Smartphone,3,564.6,0,Debit Card,1693.8
+ORD1574,2025-04-02,2025-04,Liam Wong,West,Electronics,Headphones,1,113.13,0,Debit Card,113.13
+ORD1791,2025-04-02,2025-04,Priya Wong,North,Electronics,Laptop,3,897.0,5,Unknown,2556.45
+ORD1875,2025-04-02,2025-04,Unknown,East,Stationery,Printer Paper,2,26.64,0,Debit Card,53.28
+ORD2204,2025-04-02,2025-04,Ethan Garcia,South,Stationery,Pen Set,10,8.52,0,PayPal,85.2
+ORD1700,2025-04-03,2025-04,Noah Brown,East,Furniture,Bookshelf,3,146.67,0,Debit Card,440.01
+ORD1890,2025-04-03,2025-04,Olivia Nguyen,South,Stationery,Pen Set,3,8.82,0,Credit Card,26.46
+ORD2380,2025-04-03,2025-04,Zara Kumar,South,Stationery,Notebook Pack,2,12.32,5,Unknown,23.41
+ORD2401,2025-04-03,2025-04,Zara Smith,South,Apparel,Running Shoes,5,90.38,0,Cash,451.9
+ORD1108,2025-04-04,2025-04,Liam Patel,West,Stationery,Pen Set,4,8.52,0,Cash,34.08
+ORD1125,2025-04-04,2025-04,Chen Khan,East,Furniture,Bookshelf,1,139.755,0,Cash,139.76
+ORD1307,2025-04-04,2025-04,Olivia Smith,West,Apparel,Jacket,4,122.51,15,Credit Card,416.53
+ORD2242,2025-04-04,2025-04,Kasun Lopez,South,Furniture,Standing Desk,1,411.43,15,Debit Card,349.72
+ORD2492,2025-04-04,2025-04,Chen Perera,North,Furniture,Office Chair,2,184.87,0,Bank Transfer,369.74
+ORD1429,2025-04-05,2025-04,Chen Khan,South,Stationery,Notebook Pack,2,12.03,0,Unknown,24.06
+ORD1445,2025-04-05,2025-04,Liam Wong,North,Stationery,Pen Set,1,9.18,20,Credit Card,7.34
+ORD1779,2025-04-05,2025-04,Noah Kumar,South,Furniture,Office Chair,2,176.65,0,PayPal,353.3
+ORD1394,2025-04-06,2025-04,Aisha Ali,East,Apparel,T-Shirt,3,23.63,0,Cash,70.89
+ORD1648,2025-04-06,2025-04,Unknown,East,Furniture,Bookshelf,2,146.38,10,PayPal,263.48
+ORD1830,2025-04-06,2025-04,Kasun Garcia,North,Electronics,Headphones,2,121.7,0,Debit Card,243.4
+ORD2414,2025-04-06,2025-04,Zara Johnson,West,Apparel,Running Shoes,2,97.67,0,Credit Card,195.34
+ORD1174,2025-04-07,2025-04,Arjun Nguyen,West,Furniture,Bookshelf,1,142.11,0,Debit Card,142.11
+ORD1419,2025-04-07,2025-04,Emma Perera,West,Furniture,Standing Desk,4,415.32,0,Bank Transfer,1661.28
+ORD2279,2025-04-07,2025-04,Emma Silva,West,Furniture,Office Chair,2,174.33,15,Credit Card,296.36
+ORD2300,2025-04-07,2025-04,Noah Lopez,West,Stationery,Notebook Pack,3,12.08,10,Unknown,32.62
+ORD1043,2025-04-08,2025-04,Ravi Fernando,West,Furniture,Office Chair,2,190.39,0,Debit Card,380.78
+ORD1433,2025-04-08,2025-04,Unknown,West,Stationery,Printer Paper,1,23.42,5,Credit Card,22.25
+ORD2077,2025-04-08,2025-04,Lucas Brown,East,Electronics,Headphones,1,114.67,0,Cash,114.67
+ORD2169,2025-04-08,2025-04,Sofia Ali,West,Apparel,Jacket,3,132.55,20,Credit Card,318.12
+ORD2171,2025-04-08,2025-04,Olivia Perera,Unknown,Apparel,T-Shirt,2,20.48,20,Credit Card,32.77
+ORD1945,2025-04-09,2025-04,Unknown,West,Apparel,T-Shirt,1,21.26,0,Cash,21.26
+ORD2292,2025-04-09,2025-04,Sofia Fernando,North,Furniture,Office Chair,5,166.81,0,Credit Card,834.05
+ORD1807,2025-04-10,2025-04,Lucas Brown,West,Electronics,Smartphone,3,589.25,0,Cash,1767.75
+ORD1867,2025-04-10,2025-04,Ravi Silva,Unknown,Apparel,Running Shoes,1,89.43,5,Cash,84.96
+ORD2194,2025-04-10,2025-04,Emma Kumar,South,Electronics,Laptop,2,847.71,10,PayPal,1525.88
+ORD2205,2025-04-10,2025-04,Mia Patel,South,Apparel,T-Shirt,2,23.05,0,Cash,46.1
+ORD1442,2025-04-11,2025-04,Lucas Khan,West,Electronics,Headphones,1,129.14,0,Cash,129.14
+ORD1814,2025-04-11,2025-04,Priya Ali,North,Stationery,Printer Paper,1,25.21,5,Credit Card,23.95
+ORD2286,2025-04-11,2025-04,Emma Perera,Unknown,Electronics,Laptop,1,830.23,5,Debit Card,788.72
+ORD1028,2025-04-12,2025-04,Olivia Garcia,South,Apparel,Running Shoes,2,92.43,0,Bank Transfer,184.86
+ORD1117,2025-04-12,2025-04,Noah Nguyen,South,Apparel,T-Shirt,2,22.44,5,Credit Card,42.64
+ORD1192,2025-04-12,2025-04,Ethan Lopez,West,Furniture,Standing Desk,3,444.35,15,Credit Card,1133.09
+ORD1261,2025-04-12,2025-04,Unknown,South,Furniture,Standing Desk,4,422.87,0,Credit Card,1691.48
+ORD1673,2025-04-12,2025-04,Priya Garcia,West,Apparel,T-Shirt,2,23.41,0,Bank Transfer,46.82
+ORD1719,2025-04-12,2025-04,Nimali Kumar,East,Stationery,Pen Set,1,8.15,0,Bank Transfer,8.15
+ORD1987,2025-04-12,2025-04,Chen Silva,South,Stationery,Printer Paper,1,26.23,0,Bank Transfer,26.23
+ORD2304,2025-04-12,2025-04,Lucas Khan,West,Furniture,Bookshelf,2,129.68,0,Credit Card,259.36
+ORD1387,2025-04-13,2025-04,Sofia Garcia,East,Apparel,Jacket,3,120.21,10,Credit Card,324.57
+ORD1482,2025-04-13,2025-04,Chen Garcia,South,Apparel,T-Shirt,2,23.3,0,PayPal,46.6
+ORD1579,2025-04-13,2025-04,Sofia Nguyen,East,Furniture,Bookshelf,1,148.66,0,Debit Card,148.66
+ORD1877,2025-04-13,2025-04,Arjun Ali,South,Apparel,T-Shirt,2,21.905,5,Cash,41.62
+ORD2082,2025-04-13,2025-04,Nimali Patel,East,Furniture,Bookshelf,4,144.53,0,Bank Transfer,578.12
+ORD2412,2025-04-13,2025-04,Chen Brown,West,Stationery,Printer Paper,8,23.08,0,Credit Card,184.64
+ORD1308,2025-04-14,2025-04,Liam Kumar,South,Furniture,Standing Desk,2,446.51,10,Credit Card,803.72
+ORD1539,2025-04-14,2025-04,Olivia Johnson,East,Stationery,Notebook Pack,2,12.33,20,Debit Card,19.73
+ORD1955,2025-04-14,2025-04,Emma Brown,South,Electronics,Laptop,8,861.1,0,Credit Card,6888.8
+ORD2331,2025-04-14,2025-04,Chen Johnson,North,Stationery,Notebook Pack,1,11.45,10,Bank Transfer,10.3
+ORD1347,2025-04-15,2025-04,Lucas Nguyen,South,Stationery,Pen Set,1,8.25,5,Cash,7.84
+ORD1789,2025-04-16,2025-04,Zara Johnson,North,Electronics,Smartphone,3,556.2,0,Debit Card,1668.6
+ORD1374,2025-04-17,2025-04,Lucas Johnson,West,Stationery,Printer Paper,1,26.55,20,Bank Transfer,21.24
+ORD1378,2025-04-17,2025-04,Chen Garcia,Unknown,Apparel,T-Shirt,2,20.53,0,Cash,41.06
+ORD1593,2025-04-17,2025-04,Ravi Patel,West,Furniture,Bookshelf,4,138.6,0,Cash,554.4
+ORD1935,2025-04-17,2025-04,Chen Silva,East,Apparel,Jacket,8,139.57,5,Cash,1060.73
+ORD2409,2025-04-17,2025-04,Kasun Silva,West,Electronics,Laptop,3,881.31,0,Cash,2643.93
+ORD2446,2025-04-17,2025-04,Sofia Ali,North,Apparel,Running Shoes,1,96.51,15,Unknown,82.03
+ORD1085,2025-04-18,2025-04,Zara Kumar,East,Furniture,Standing Desk,6,407.7,0,PayPal,2446.2
+ORD1486,2025-04-18,2025-04,Ravi Kumar,East,Apparel,T-Shirt,8,22.67,5,Credit Card,172.29
+ORD2227,2025-04-18,2025-04,Arjun Garcia,Unknown,Apparel,T-Shirt,5,21.62,10,Cash,97.29
+ORD1655,2025-04-19,2025-04,Nimali Fernando,North,Electronics,Headphones,5,117.77,5,PayPal,559.41
+ORD2175,2025-04-19,2025-04,Ravi Johnson,South,Electronics,Smartphone,1,561.69,0,Bank Transfer,561.69
+ORD1056,2025-04-20,2025-04,Priya Fernando,East,Stationery,Printer Paper,5,24.28,0,Credit Card,121.4
+ORD1543,2025-04-20,2025-04,Chen Smith,South,Electronics,Laptop,1,854.87,0,Bank Transfer,854.87
+ORD1549,2025-04-20,2025-04,Olivia Silva,West,Furniture,Bookshelf,1,145.72,0,Unknown,145.72
+ORD1605,2025-04-20,2025-04,Kasun Patel,East,Furniture,Bookshelf,1,129.27,0,PayPal,129.27
+ORD1969,2025-04-20,2025-04,Ethan Kumar,East,Stationery,Printer Paper,3,23.22,20,Cash,55.73
+ORD1972,2025-04-20,2025-04,Unknown,East,Furniture,Office Chair,10,172.06,5,Bank Transfer,1634.57
+ORD2295,2025-04-20,2025-04,Arjun Silva,North,Stationery,Notebook Pack,8,11.46,0,Cash,91.68
+ORD1595,2025-04-21,2025-04,Unknown,North,Electronics,Laptop,2,839.95,5,Debit Card,1595.9
+ORD1895,2025-04-21,2025-04,Priya Brown,North,Electronics,Laptop,1,833.56,0,Unknown,833.56
+ORD2257,2025-04-21,2025-04,Ravi Ali,West,Electronics,Smartphone,1,563.19,5,PayPal,535.03
+ORD1404,2025-04-22,2025-04,Arjun Johnson,North,Apparel,Jacket,10,128.46,0,Bank Transfer,1284.6
+ORD1535,2025-04-22,2025-04,Zara Lopez,South,Stationery,Notebook Pack,1,11.72,0,PayPal,11.72
+ORD1761,2025-04-22,2025-04,Nimali Khan,East,Apparel,Jacket,1,127.13,0,Cash,127.13
+ORD1938,2025-04-22,2025-04,Emma Khan,West,Apparel,Jacket,3,133.47,0,Cash,400.41
+ORD2353,2025-04-22,2025-04,Olivia Smith,South,Stationery,Notebook Pack,3,11.12,15,Debit Card,28.36
+ORD1005,2025-04-23,2025-04,Ravi Nguyen,East,Stationery,Notebook Pack,5,11.45,0,Credit Card,57.25
+ORD1092,2025-04-23,2025-04,Kasun Kumar,West,Stationery,Notebook Pack,8,12.02,5,Credit Card,91.35
+ORD1518,2025-04-23,2025-04,Sofia Perera,East,Electronics,Laptop,3,893.41,15,Debit Card,2278.2
+ORD1678,2025-04-24,2025-04,Arjun Johnson,South,Furniture,Office Chair,3,178.96,20,Cash,429.5
+ORD1802,2025-04-24,2025-04,Priya Khan,North,Electronics,Headphones,2,123.4,5,Debit Card,234.46
+ORD2024,2025-04-24,2025-04,Nimali Kumar,South,Stationery,Notebook Pack,3,12.4,5,Credit Card,35.34
+ORD2252,2025-04-24,2025-04,Priya Khan,North,Stationery,Printer Paper,4,24.09,0,Credit Card,96.36
+ORD1292,2025-04-25,2025-04,Aisha Garcia,North,Furniture,Bookshelf,2,129.37,0,Cash,258.74
+ORD1035,2025-04-26,2025-04,Noah Garcia,North,Furniture,Office Chair,2,180.25,15,Bank Transfer,306.42
+ORD2165,2025-04-26,2025-04,Aisha Silva,West,Stationery,Printer Paper,6,26.53,5,Credit Card,151.22
+ORD2333,2025-04-26,2025-04,Noah Ali,North,Stationery,Notebook Pack,2,11.8,5,Bank Transfer,22.42
+ORD1011,2025-04-27,2025-04,Sofia Smith,South,Apparel,Jacket,3,123.15,0,Credit Card,369.45
+ORD1073,2025-04-27,2025-04,Arjun Perera,South,Furniture,Standing Desk,2,436.56,5,Unknown,829.46
+ORD1980,2025-04-27,2025-04,Aisha Johnson,West,Electronics,Smartphone,3,606.8,0,Credit Card,1820.4
+ORD1016,2025-04-28,2025-04,Liam Kumar,East,Electronics,Laptop,3,824.39,5,PayPal,2349.51
+ORD1036,2025-04-28,2025-04,Arjun Perera,North,Stationery,Printer Paper,1,24.64,10,Credit Card,22.18
+ORD1155,2025-04-28,2025-04,Aisha Kumar,East,Electronics,Smartphone,4,608.0,20,Bank Transfer,1945.6
+ORD1418,2025-04-28,2025-04,Arjun Brown,East,Stationery,Notebook Pack,2,11.27,0,Debit Card,22.54
+ORD1829,2025-04-28,2025-04,Noah Wong,East,Electronics,Headphones,2,129.23,0,Debit Card,258.46
+ORD1878,2025-04-28,2025-04,Nimali Lopez,South,Furniture,Office Chair,4,165.73,0,Bank Transfer,662.92
+ORD2209,2025-04-28,2025-04,Noah Silva,West,Stationery,Printer Paper,2,24.05,0,Debit Card,48.1
+ORD2395,2025-04-28,2025-04,Kasun Perera,West,Electronics,Laptop,4,824.87,0,Cash,3299.48
+ORD1919,2025-04-29,2025-04,Aisha Wong,East,Apparel,Running Shoes,2,91.82,0,Debit Card,183.64
+ORD1962,2025-04-29,2025-04,Ethan Khan,South,Apparel,T-Shirt,1,20.48,15,Bank Transfer,17.41
+ORD1422,2025-04-30,2025-04,Nimali Kumar,North,Stationery,Pen Set,2,7.84,0,Debit Card,15.68
+ORD1582,2025-04-30,2025-04,Mia Johnson,North,Electronics,Laptop,1,838.6,0,Cash,838.6
+ORD1847,2025-04-30,2025-04,Noah Patel,West,Stationery,Pen Set,4,8.87,5,Cash,33.71
+ORD1944,2025-04-30,2025-04,Lucas Wong,Unknown,Stationery,Pen Set,1,8.47,5,PayPal,8.05
+ORD1975,2025-04-30,2025-04,Unknown,East,Furniture,Office Chair,5,170.83,0,Unknown,854.15
+ORD1209,2025-05-01,2025-05,Olivia Silva,West,Electronics,Smartphone,3,587.42,0,Cash,1762.26
+ORD1398,2025-05-01,2025-05,Ravi Kumar,East,Stationery,Notebook Pack,3,11.7,5,Cash,33.34
+ORD2192,2025-05-01,2025-05,Nimali Smith,North,Stationery,Printer Paper,10,26.56,0,Bank Transfer,265.6
+ORD1038,2025-05-02,2025-05,Priya Johnson,West,Stationery,Printer Paper,1,26.72,0,Debit Card,26.72
+ORD1524,2025-05-02,2025-05,Nimali Kumar,East,Electronics,Smartphone,2,608.31,0,Bank Transfer,1216.62
+ORD1664,2025-05-02,2025-05,Liam Ali,West,Apparel,T-Shirt,4,22.93,0,Cash,91.72
+ORD1113,2025-05-03,2025-05,Olivia Brown,North,Electronics,Headphones,6,123.91,0,Bank Transfer,743.46
+ORD1863,2025-05-03,2025-05,Aisha Fernando,North,Furniture,Bookshelf,1,144.09,0,Cash,144.09
+ORD2226,2025-05-03,2025-05,Emma Johnson,West,Furniture,Bookshelf,1,132.69,0,Bank Transfer,132.69
+ORD1128,2025-05-04,2025-05,Unknown,West,Stationery,Printer Paper,4,25.52,15,PayPal,86.77
+ORD1420,2025-05-04,2025-05,Unknown,North,Electronics,Laptop,2,790.73,5,Bank Transfer,1502.39
+ORD2215,2025-05-04,2025-05,Unknown,North,Stationery,Pen Set,2,8.45,10,PayPal,15.21
+ORD1091,2025-05-05,2025-05,Olivia Johnson,North,Stationery,Notebook Pack,5,12.6,15,Credit Card,53.55
+ORD1345,2025-05-06,2025-05,Ethan Patel,West,Stationery,Pen Set,1,7.98,0,Credit Card,7.98
+ORD1573,2025-05-06,2025-05,Liam Brown,Unknown,Electronics,Laptop,1,876.52,20,PayPal,701.22
+ORD2086,2025-05-06,2025-05,Kasun Smith,East,Apparel,Running Shoes,1,97.92,0,Bank Transfer,97.92
+ORD1112,2025-05-07,2025-05,Nimali Lopez,North,Electronics,Laptop,1,788.26,0,Bank Transfer,788.26
+ORD1613,2025-05-07,2025-05,Arjun Patel,North,Electronics,Smartphone,1,606.8,15,Debit Card,515.78
+ORD1810,2025-05-07,2025-05,Arjun Ali,West,Furniture,Bookshelf,8,135.83,15,Cash,923.64
+ORD2211,2025-05-07,2025-05,Arjun Garcia,Unknown,Apparel,T-Shirt,4,20.78,0,Bank Transfer,83.12
+ORD2356,2025-05-07,2025-05,Priya Kumar,South,Apparel,Jacket,1,122.22,20,Cash,97.78
+ORD2479,2025-05-07,2025-05,Emma Garcia,South,Apparel,T-Shirt,1,21.23,0,Cash,21.23
+ORD1071,2025-05-08,2025-05,Priya Fernando,North,Apparel,Jacket,3,133.99,5,PayPal,381.87
+ORD1093,2025-05-08,2025-05,Emma Brown,South,Stationery,Printer Paper,5,25.6,10,PayPal,115.2
+ORD1575,2025-05-08,2025-05,Zara Ali,East,Furniture,Bookshelf,2,131.06,0,Cash,262.12
+ORD1672,2025-05-08,2025-05,Liam Brown,North,Electronics,Laptop,1,854.41,0,Debit Card,854.41
+ORD1933,2025-05-08,2025-05,Ethan Kumar,West,Apparel,T-Shirt,1,22.43,20,Debit Card,17.94
+ORD1963,2025-05-08,2025-05,Kasun Wong,West,Apparel,Jacket,2,128.12,10,Credit Card,230.62
+ORD1132,2025-05-09,2025-05,Arjun Smith,South,Furniture,Standing Desk,5,409.3,15,Cash,1739.52
+ORD1219,2025-05-09,2025-05,Kasun Smith,North,Stationery,Printer Paper,2,23.51,0,PayPal,47.02
+ORD1287,2025-05-09,2025-05,Liam Johnson,West,Electronics,Headphones,3,111.66,10,Credit Card,301.48
+ORD1771,2025-05-09,2025-05,Nimali Nguyen,West,Apparel,T-Shirt,2,23.32,0,Unknown,46.64
+ORD1870,2025-05-09,2025-05,Ravi Silva,West,Apparel,Running Shoes,1,98.15,0,Debit Card,98.15
+ORD1894,2025-05-09,2025-05,Liam Silva,North,Furniture,Standing Desk,2,404.38,10,Cash,727.88
+ORD1932,2025-05-09,2025-05,Ethan Lopez,North,Furniture,Office Chair,1,178.19,5,Credit Card,169.28
+ORD2036,2025-05-09,2025-05,Lucas Ali,South,Electronics,Smartphone,3,621.45,0,Credit Card,1864.35
+ORD2161,2025-05-09,2025-05,Ravi Perera,West,Apparel,Running Shoes,1,96.1,0,Debit Card,96.1
+ORD1110,2025-05-10,2025-05,Noah Brown,North,Stationery,Notebook Pack,3,11.85,0,Bank Transfer,35.55
+ORD1139,2025-05-10,2025-05,Chen Smith,North,Electronics,Laptop,3,842.99,0,PayPal,2528.97
+ORD1452,2025-05-10,2025-05,Mia Patel,Unknown,Stationery,Printer Paper,4,24.95,15,Credit Card,84.83
+ORD1715,2025-05-10,2025-05,Chen Ali,South,Stationery,Printer Paper,4,24.26,0,Debit Card,97.04
+ORD2287,2025-05-10,2025-05,Liam Smith,East,Electronics,Smartphone,2,632.03,10,Credit Card,1137.65
+ORD2408,2025-05-11,2025-05,Kasun Khan,West,Stationery,Notebook Pack,3,12.76,10,Credit Card,34.45
+ORD1295,2025-05-12,2025-05,Nimali Lopez,South,Electronics,Laptop,1,796.16,10,Bank Transfer,716.54
+ORD1897,2025-05-12,2025-05,Mia Perera,West,Stationery,Printer Paper,2,24.72,5,Credit Card,46.97
+ORD2008,2025-05-12,2025-05,Ethan Lopez,North,Apparel,Jacket,2,133.86,0,Bank Transfer,267.72
+ORD1567,2025-05-13,2025-05,Kasun Garcia,South,Stationery,Printer Paper,10,25.2,20,Cash,201.6
+ORD1601,2025-05-13,2025-05,Noah Perera,North,Apparel,Running Shoes,8,98.61,0,Debit Card,788.88
+ORD1693,2025-05-13,2025-05,Kasun Johnson,East,Electronics,Headphones,1,119.06,20,PayPal,95.25
+ORD1792,2025-05-13,2025-05,Zara Silva,West,Furniture,Office Chair,2,184.98,0,PayPal,369.96
+ORD1835,2025-05-13,2025-05,Kasun Wong,West,Electronics,Headphones,3,128.76,0,Bank Transfer,386.28
+ORD1872,2025-05-13,2025-05,Noah Silva,South,Electronics,Smartphone,4,582.36,0,Debit Card,2329.44
+ORD2160,2025-05-13,2025-05,Emma Perera,North,Apparel,T-Shirt,3,21.96,0,Credit Card,65.88
+ORD2269,2025-05-13,2025-05,Chen Ali,North,Stationery,Notebook Pack,1,12.9,0,Cash,12.9
+ORD2347,2025-05-13,2025-05,Priya Johnson,South,Electronics,Laptop,3,860.58,15,Credit Card,2194.48
+ORD2473,2025-05-13,2025-05,Arjun Lopez,East,Apparel,Running Shoes,2,87.76,0,PayPal,175.52
+ORD1076,2025-05-14,2025-05,Kasun Nguyen,East,Electronics,Smartphone,1,645.41,0,Credit Card,645.41
+ORD1589,2025-05-14,2025-05,Lucas Kumar,West,Furniture,Standing Desk,1,408.22,10,Cash,367.4
+ORD1736,2025-05-14,2025-05,Lucas Perera,South,Electronics,Smartphone,8,578.88,15,Cash,3936.38
+ORD1326,2025-05-15,2025-05,Priya Ali,West,Electronics,Smartphone,1,609.13,0,Debit Card,609.13
+ORD1649,2025-05-15,2025-05,Arjun Lopez,West,Stationery,Pen Set,13,8.52,0,Bank Transfer,110.76
+ORD1858,2025-05-15,2025-05,Arjun Garcia,North,Electronics,Smartphone,6,582.86,0,Bank Transfer,3497.16
+ORD1887,2025-05-15,2025-05,Arjun Patel,West,Stationery,Printer Paper,1,25.63,0,Bank Transfer,25.63
+ORD2265,2025-05-15,2025-05,Sofia Johnson,West,Electronics,Headphones,3,124.59,0,Credit Card,373.77
+ORD2381,2025-05-15,2025-05,Arjun Nguyen,West,Furniture,Standing Desk,2,395.44,0,Debit Card,790.88
+ORD1054,2025-05-16,2025-05,Ethan Fernando,East,Furniture,Office Chair,4,180.25,5,PayPal,684.95
+ORD1059,2025-05-16,2025-05,Emma Smith,South,Electronics,Headphones,2,113.75,5,Cash,216.12
+ORD1221,2025-05-16,2025-05,Liam Fernando,West,Electronics,Headphones,2,129.34,5,Bank Transfer,245.75
+ORD1631,2025-05-16,2025-05,Nimali Khan,North,Electronics,Laptop,1,836.6,10,Cash,752.94
+ORD1725,2025-05-16,2025-05,Ravi Perera,North,Furniture,Standing Desk,1,443.91,0,Debit Card,443.91
+ORD1822,2025-05-16,2025-05,Mia Khan,North,Electronics,Smartphone,3,611.58,0,Debit Card,1834.74
+ORD2157,2025-05-16,2025-05,Unknown,North,Furniture,Standing Desk,5,397.81,0,Debit Card,1989.05
+ORD1171,2025-05-17,2025-05,Aisha Patel,East,Stationery,Printer Paper,3,24.67,15,Bank Transfer,62.91
+ORD1350,2025-05-17,2025-05,Ravi Khan,South,Electronics,Smartphone,1,635.53,0,Credit Card,635.53
+ORD1528,2025-05-17,2025-05,Emma Fernando,West,Apparel,Running Shoes,2,96.44,0,Credit Card,192.88
+ORD1931,2025-05-17,2025-05,Ethan Smith,West,Electronics,Laptop,4,839.95,5,Debit Card,3191.81
+ORD2019,2025-05-17,2025-05,Arjun Nguyen,South,Apparel,Running Shoes,3,102.12,5,Debit Card,291.04
+ORD1729,2025-05-18,2025-05,Noah Garcia,East,Apparel,Running Shoes,3,101.66,15,Debit Card,259.23
+ORD1876,2025-05-18,2025-05,Kasun Ali,South,Apparel,Running Shoes,10,88.76,5,Credit Card,843.22
+ORD2405,2025-05-18,2025-05,Aisha Garcia,North,Apparel,Jacket,3,124.46,5,Bank Transfer,354.71
+ORD1891,2025-05-19,2025-05,Arjun Wong,West,Apparel,T-Shirt,3,21.63,10,PayPal,58.4
+ORD1168,2025-05-20,2025-05,Zara Lopez,West,Apparel,T-Shirt,3,21.33,10,PayPal,57.59
+ORD1240,2025-05-20,2025-05,Unknown,East,Electronics,Headphones,10,112.79,10,Credit Card,1015.11
+ORD1465,2025-05-20,2025-05,Ravi Brown,South,Apparel,Jacket,1,130.41,0,Cash,130.41
+ORD2145,2025-05-20,2025-05,Lucas Patel,East,Apparel,Jacket,4,128.8,10,Bank Transfer,463.68
+ORD2334,2025-05-20,2025-05,Noah Nguyen,West,Furniture,Bookshelf,1,141.61,10,PayPal,127.45
+ORD1136,2025-05-21,2025-05,Liam Perera,Unknown,Electronics,Headphones,6,117.87,0,Debit Card,707.22
+ORD1379,2025-05-21,2025-05,Sofia Smith,West,Stationery,Printer Paper,4,23.3,15,PayPal,79.22
+ORD1450,2025-05-21,2025-05,Sofia Perera,West,Apparel,T-Shirt,2,23.72,0,Debit Card,47.44
+ORD1552,2025-05-22,2025-05,Noah Khan,East,Furniture,Office Chair,2,168.12,15,Credit Card,285.8
+ORD1012,2025-05-23,2025-05,Ravi Johnson,East,Stationery,Notebook Pack,3,12.89,10,Debit Card,34.8
+ORD1074,2025-05-23,2025-05,Noah Kumar,Unknown,Furniture,Bookshelf,5,143.53,5,Cash,681.77
+ORD1377,2025-05-23,2025-05,Sofia Khan,East,Furniture,Office Chair,2,173.08,10,Cash,311.54
+ORD2499,2025-05-23,2025-05,Noah Lopez,South,Apparel,T-Shirt,4,22.39,0,Unknown,89.56
+ORD1126,2025-05-24,2025-05,Priya Wong,North,Furniture,Bookshelf,2,147.73,0,Bank Transfer,295.46
+ORD1459,2025-05-24,2025-05,Liam Fernando,East,Apparel,Jacket,1,137.71,0,Credit Card,137.71
+ORD1484,2025-05-24,2025-05,Ethan Garcia,North,Stationery,Notebook Pack,4,11.99,5,Bank Transfer,45.56
+ORD1796,2025-05-25,2025-05,Ravi Silva,West,Electronics,Smartphone,3,587.63,5,Credit Card,1674.75
+ORD1927,2025-05-25,2025-05,Priya Fernando,West,Electronics,Smartphone,2,572.08,0,Credit Card,1144.16
+ORD2371,2025-05-25,2025-05,Nimali Smith,West,Furniture,Bookshelf,3,140.01,0,Cash,420.03
+ORD2392,2025-05-25,2025-05,Priya Nguyen,East,Stationery,Notebook Pack,3,12.72,20,Bank Transfer,30.53
+ORD2150,2025-05-26,2025-05,Priya Khan,Unknown,Furniture,Office Chair,4,182.68,0,Credit Card,730.72
+ORD2241,2025-05-26,2025-05,Ravi Fernando,South,Furniture,Bookshelf,2,147.49,15,Bank Transfer,250.73
+ORD2399,2025-05-26,2025-05,Kasun Lopez,South,Furniture,Office Chair,3,170.98,0,Bank Transfer,512.94
+ORD2471,2025-05-26,2025-05,Nimali Smith,East,Stationery,Printer Paper,1,23.02,5,Bank Transfer,21.87
+ORD1098,2025-05-27,2025-05,Arjun Patel,East,Apparel,T-Shirt,1,21.905,0,Cash,21.9
+ORD1327,2025-05-27,2025-05,Chen Khan,Unknown,Apparel,Running Shoes,2,96.47,0,Debit Card,192.94
+ORD2343,2025-05-27,2025-05,Kasun Patel,South,Furniture,Standing Desk,2,396.9,10,PayPal,714.42
+ORD1359,2025-05-28,2025-05,Unknown,West,Stationery,Printer Paper,10,24.71,0,Bank Transfer,247.1
+ORD1519,2025-05-28,2025-05,Kasun Kumar,Unknown,Stationery,Printer Paper,1,23.85,5,Bank Transfer,22.66
+ORD1874,2025-05-28,2025-05,Noah Silva,East,Furniture,Office Chair,2,188.32,15,Credit Card,320.14
+ORD2332,2025-05-28,2025-05,Priya Perera,East,Furniture,Office Chair,1,179.79,0,Unknown,179.79
+ORD2378,2025-05-28,2025-05,Chen Silva,South,Furniture,Standing Desk,2,430.88,5,PayPal,818.67
+ORD2442,2025-05-28,2025-05,Nimali Brown,East,Electronics,Headphones,2,125.95,20,PayPal,201.52
+ORD1330,2025-05-29,2025-05,Sofia Lopez,South,Stationery,Printer Paper,2,23.99,10,Debit Card,43.18
+ORD1351,2025-05-29,2025-05,Ethan Lopez,West,Electronics,Laptop,6,853.94,15,Credit Card,4355.09
+ORD1390,2025-05-29,2025-05,Liam Perera,East,Electronics,Headphones,2,110.52,0,Bank Transfer,221.04
+ORD1423,2025-05-29,2025-05,Arjun Lopez,East,Stationery,Printer Paper,2,24.92,5,Bank Transfer,47.35
+ORD1708,2025-05-29,2025-05,Ravi Ali,West,Furniture,Standing Desk,2,451.39,0,PayPal,902.78
+ORD1726,2025-05-29,2025-05,Mia Kumar,West,Electronics,Laptop,5,819.98,5,PayPal,3894.9
+ORD1804,2025-05-29,2025-05,Noah Patel,North,Electronics,Smartphone,2,618.07,0,Debit Card,1236.14
+ORD2168,2025-05-29,2025-05,Nimali Fernando,North,Stationery,Pen Set,5,9.18,0,PayPal,45.9
+ORD2248,2025-05-29,2025-05,Olivia Kumar,West,Stationery,Pen Set,5,8.85,0,Cash,44.25
+ORD1147,2025-05-30,2025-05,Liam Khan,East,Stationery,Pen Set,4,7.93,0,Cash,31.72
+ORD1483,2025-05-30,2025-05,Chen Nguyen,South,Furniture,Bookshelf,4,147.57,15,Cash,501.74
+ORD1749,2025-05-30,2025-05,Mia Ali,North,Apparel,Jacket,6,130.45,0,Debit Card,782.7
+ORD1903,2025-05-30,2025-05,Priya Nguyen,West,Apparel,Jacket,1,125.12,0,Cash,125.12
+ORD1185,2025-05-31,2025-05,Mia Garcia,West,Electronics,Laptop,3,858.29,15,Cash,2188.64
+ORD1636,2025-05-31,2025-05,Aisha Garcia,West,Electronics,Laptop,3,912.3,0,Credit Card,2736.9
+ORD1947,2025-05-31,2025-05,Chen Khan,South,Stationery,Printer Paper,4,24.49,0,Credit Card,97.96
+ORD1049,2025-06-01,2025-06,Nimali Perera,North,Furniture,Office Chair,1,166.66,5,Cash,158.33
+ORD1199,2025-06-01,2025-06,Lucas Ali,West,Electronics,Smartphone,6,597.5,5,Debit Card,3405.75
+ORD1280,2025-06-01,2025-06,Emma Wong,North,Electronics,Smartphone,2,607.74,5,Cash,1154.71
+ORD1467,2025-06-01,2025-06,Arjun Ali,North,Apparel,Running Shoes,3,98.14,0,Credit Card,294.42
+ORD1496,2025-06-01,2025-06,Zara Smith,North,Electronics,Smartphone,2,590.03,5,Unknown,1121.06
+ORD2349,2025-06-02,2025-06,Noah Silva,East,Apparel,Running Shoes,2,93.9,0,Credit Card,187.8
+ORD2476,2025-06-02,2025-06,Aisha Brown,East,Stationery,Pen Set,2,8.14,0,Cash,16.28
+ORD1081,2025-06-03,2025-06,Sofia Johnson,West,Apparel,T-Shirt,8,23.6,15,Cash,160.48
+ORD1191,2025-06-03,2025-06,Zara Ali,Unknown,Apparel,Running Shoes,2,99.31,0,PayPal,198.62
+ORD1918,2025-06-03,2025-06,Aisha Kumar,West,Stationery,Pen Set,4,8.17,0,Cash,32.68
+ORD1978,2025-06-03,2025-06,Liam Ali,West,Apparel,Jacket,3,121.23,5,Credit Card,345.51
+ORD2052,2025-06-03,2025-06,Lucas Garcia,West,Electronics,Smartphone,2,594.48,5,Credit Card,1129.51
+ORD1058,2025-06-04,2025-06,Aisha Johnson,East,Apparel,T-Shirt,1,22.04,0,Credit Card,22.04
+ORD1084,2025-06-04,2025-06,Ethan Wong,North,Apparel,Running Shoes,6,91.88,0,Unknown,551.28
+ORD1118,2025-06-04,2025-06,Emma Kumar,North,Apparel,T-Shirt,6,22.56,0,Cash,135.36
+ORD1553,2025-06-04,2025-06,Nimali Wong,South,Apparel,Jacket,3,125.95,0,PayPal,377.85
+ORD2007,2025-06-04,2025-06,Arjun Wong,East,Apparel,Jacket,1,135.9,0,Credit Card,135.9
+ORD2074,2025-06-04,2025-06,Nimali Wong,East,Stationery,Pen Set,4,8.52,0,Debit Card,34.08
+ORD1338,2025-06-05,2025-06,Kasun Fernando,East,Electronics,Headphones,10,128.53,0,Debit Card,1285.3
+ORD2017,2025-06-05,2025-06,Ravi Ali,East,Stationery,Notebook Pack,2,11.55,0,Debit Card,23.1
+ORD2031,2025-06-05,2025-06,Sofia Brown,South,Stationery,Notebook Pack,2,12.88,0,PayPal,25.76
+ORD2490,2025-06-05,2025-06,Sofia Brown,North,Furniture,Bookshelf,1,150.06,15,Debit Card,127.55
+ORD1812,2025-06-06,2025-06,Chen Wong,North,Furniture,Bookshelf,1,150.33,0,Credit Card,150.33
+ORD2239,2025-06-06,2025-06,Kasun Kumar,East,Electronics,Headphones,10,116.39,0,Debit Card,1163.9
+ORD1030,2025-06-07,2025-06,Arjun Perera,Unknown,Furniture,Bookshelf,3,148.67,0,Bank Transfer,446.01
+ORD1368,2025-06-07,2025-06,Aisha Nguyen,West,Apparel,Running Shoes,10,100.83,15,Cash,857.06
+ORD2104,2025-06-07,2025-06,Ethan Smith,North,Electronics,Headphones,2,124.28,5,Bank Transfer,236.13
+ORD2250,2025-06-07,2025-06,Aisha Silva,South,Electronics,Smartphone,2,590.63,15,PayPal,1004.07
+ORD1309,2025-06-08,2025-06,Ethan Lopez,West,Furniture,Bookshelf,2,129.3,0,Cash,258.6
+ORD1561,2025-06-08,2025-06,Noah Wong,South,Electronics,Smartphone,2,645.66,5,Debit Card,1226.75
+ORD2092,2025-06-08,2025-06,Ravi Brown,South,Stationery,Pen Set,3,8.96,10,Debit Card,24.19
+ORD2411,2025-06-08,2025-06,Olivia Garcia,North,Stationery,Notebook Pack,4,12.11,0,Unknown,48.44
+ORD1236,2025-06-09,2025-06,Mia Smith,South,Apparel,Running Shoes,10,92.3,10,Debit Card,830.7
+ORD1497,2025-06-09,2025-06,Lucas Brown,South,Furniture,Bookshelf,2,138.85,0,Bank Transfer,277.7
+ORD1578,2025-06-09,2025-06,Lucas Smith,Unknown,Furniture,Standing Desk,3,417.76,0,Credit Card,1253.28
+ORD2090,2025-06-09,2025-06,Lucas Lopez,South,Furniture,Bookshelf,13,142.88,5,Bank Transfer,1764.57
+ORD2299,2025-06-09,2025-06,Ravi Khan,West,Apparel,Running Shoes,4,99.93,0,Cash,399.72
+ORD1375,2025-06-10,2025-06,Kasun Brown,East,Stationery,Notebook Pack,6,12.59,5,Bank Transfer,71.76
+ORD1507,2025-06-10,2025-06,Ethan Nguyen,West,Apparel,Jacket,1,138.88,0,Bank Transfer,138.88
+ORD1793,2025-06-11,2025-06,Aisha Silva,North,Stationery,Notebook Pack,2,12.55,0,Bank Transfer,25.1
+ORD1881,2025-06-11,2025-06,Chen Nguyen,West,Apparel,Running Shoes,1,89.0,10,PayPal,80.1
+ORD1885,2025-06-11,2025-06,Unknown,South,Stationery,Pen Set,2,7.89,10,PayPal,14.2
+ORD1628,2025-06-12,2025-06,Arjun Johnson,North,Apparel,Running Shoes,6,97.07,10,Cash,524.18
+ORD2015,2025-06-12,2025-06,Noah Wong,North,Electronics,Headphones,1,118.15,10,Unknown,106.34
+ORD2057,2025-06-12,2025-06,Priya Wong,East,Apparel,Running Shoes,4,94.785,5,Debit Card,360.18
+ORD2254,2025-06-12,2025-06,Liam Johnson,East,Stationery,Pen Set,3,7.98,10,PayPal,21.55
+ORD1329,2025-06-13,2025-06,Mia Ali,North,Apparel,Jacket,4,129.91,5,Bank Transfer,493.66
+ORD1348,2025-06-13,2025-06,Mia Silva,Unknown,Apparel,T-Shirt,5,21.36,5,Cash,101.46
+ORD1611,2025-06-13,2025-06,Arjun Perera,East,Electronics,Laptop,10,863.86,5,Credit Card,8206.67
+ORD1657,2025-06-13,2025-06,Noah Smith,West,Furniture,Standing Desk,2,388.16,0,Bank Transfer,776.32
+ORD2247,2025-06-13,2025-06,Olivia Perera,Unknown,Stationery,Pen Set,3,8.61,15,Cash,21.96
+ORD2342,2025-06-13,2025-06,Noah Johnson,South,Stationery,Notebook Pack,5,12.33,10,PayPal,55.48
+ORD1315,2025-06-14,2025-06,Emma Smith,East,Furniture,Standing Desk,3,442.16,0,Cash,1326.48
+ORD1705,2025-06-14,2025-06,Nimali Perera,Unknown,Electronics,Laptop,1,903.58,5,Debit Card,858.4
+ORD1784,2025-06-14,2025-06,Ethan Kumar,North,Apparel,Jacket,1,132.83,15,PayPal,112.91
+ORD1161,2025-06-15,2025-06,Emma Kumar,West,Furniture,Standing Desk,3,433.15,0,Bank Transfer,1299.45
+ORD1536,2025-06-15,2025-06,Unknown,South,Furniture,Standing Desk,2,390.94,10,Bank Transfer,703.69
+ORD1777,2025-06-15,2025-06,Liam Kumar,East,Electronics,Headphones,13,111.38,0,PayPal,1447.94
+ORD1948,2025-06-15,2025-06,Ravi Patel,South,Furniture,Bookshelf,4,149.37,20,Credit Card,477.98
+ORD1989,2025-06-15,2025-06,Unknown,West,Stationery,Notebook Pack,6,12.39,10,PayPal,66.91
+ORD2383,2025-06-15,2025-06,Ethan Johnson,South,Electronics,Headphones,1,118.12,10,Credit Card,106.31
+ORD1473,2025-06-16,2025-06,Ethan Perera,East,Apparel,Running Shoes,1,89.26,0,PayPal,89.26
+ORD1686,2025-06-16,2025-06,Priya Patel,East,Apparel,Jacket,3,129.22,0,Unknown,387.66
+ORD1899,2025-06-16,2025-06,Chen Kumar,Unknown,Furniture,Bookshelf,10,140.43,5,Credit Card,1334.08
+ORD2200,2025-06-16,2025-06,Zara Khan,West,Apparel,Running Shoes,3,93.06,5,Debit Card,265.22
+ORD2201,2025-06-16,2025-06,Arjun Smith,South,Electronics,Smartphone,1,606.8,0,PayPal,606.8
+ORD2406,2025-06-16,2025-06,Unknown,North,Stationery,Pen Set,3,7.88,0,Cash,23.64
+ORD2497,2025-06-16,2025-06,Noah Kumar,West,Apparel,T-Shirt,5,22.22,0,PayPal,111.1
+ORD1352,2025-06-17,2025-06,Lucas Khan,South,Electronics,Headphones,5,129.56,0,PayPal,647.8
+ORD1396,2025-06-17,2025-06,Noah Silva,North,Stationery,Printer Paper,8,25.75,0,Debit Card,206.0
+ORD1562,2025-06-17,2025-06,Ethan Nguyen,North,Stationery,Printer Paper,5,23.53,15,Cash,100.0
+ORD2105,2025-06-17,2025-06,Chen Johnson,North,Stationery,Notebook Pack,4,11.06,0,Credit Card,44.24
+ORD2310,2025-06-17,2025-06,Olivia Patel,North,Apparel,Jacket,3,133.91,0,Credit Card,401.73
+ORD1159,2025-06-18,2025-06,Zara Ali,West,Electronics,Headphones,3,118.78999999999999,0,Cash,356.37
+ORD1273,2025-06-18,2025-06,Emma Wong,West,Electronics,Smartphone,3,590.3,0,Credit Card,1770.9
+ORD1311,2025-06-19,2025-06,Priya Smith,East,Apparel,Jacket,1,136.97,20,PayPal,109.58
+ORD1432,2025-06-19,2025-06,Noah Brown,East,Furniture,Office Chair,4,188.66,0,Credit Card,754.64
+ORD1457,2025-06-19,2025-06,Emma Wong,North,Apparel,Jacket,1,124.54,20,Debit Card,99.63
+ORD1629,2025-06-19,2025-06,Noah Khan,East,Electronics,Headphones,1,119.26,0,Cash,119.26
+ORD1831,2025-06-19,2025-06,Emma Brown,West,Stationery,Notebook Pack,1,11.43,10,PayPal,10.29
+ORD1996,2025-06-19,2025-06,Nimali Ali,South,Electronics,Laptop,10,789.03,5,Debit Card,7495.78
+ORD2128,2025-06-19,2025-06,Zara Garcia,East,Apparel,T-Shirt,2,20.35,0,Cash,40.7
+ORD1063,2025-06-20,2025-06,Olivia Johnson,West,Electronics,Laptop,5,857.51,5,Debit Card,4073.17
+ORD1305,2025-06-20,2025-06,Olivia Perera,East,Apparel,T-Shirt,3,21.68,5,Unknown,61.79
+ORD1435,2025-06-20,2025-06,Sofia Perera,Unknown,Furniture,Office Chair,1,181.19,0,Unknown,181.19
+ORD2221,2025-06-20,2025-06,Liam Patel,West,Apparel,T-Shirt,2,22.0,0,Cash,44.0
+ORD1896,2025-06-21,2025-06,Priya Garcia,East,Apparel,T-Shirt,1,20.68,0,Bank Transfer,20.68
+ORD1979,2025-06-21,2025-06,Mia Lopez,West,Electronics,Laptop,4,804.76,10,PayPal,2897.14
+ORD2237,2025-06-21,2025-06,Zara Nguyen,East,Apparel,Jacket,1,139.64,0,Credit Card,139.64
+ORD2470,2025-06-21,2025-06,Ethan Ali,South,Stationery,Printer Paper,1,24.53,5,Bank Transfer,23.3
+ORD1007,2025-06-22,2025-06,Emma Smith,West,Furniture,Office Chair,2,173.99,5,Unknown,330.58
+ORD1623,2025-06-22,2025-06,Sofia Garcia,South,Electronics,Smartphone,1,567.82,0,Debit Card,567.82
+ORD1901,2025-06-22,2025-06,Zara Johnson,West,Apparel,Jacket,3,139.9,0,Credit Card,419.7
+ORD1230,2025-06-23,2025-06,Ravi Silva,West,Stationery,Notebook Pack,1,12.52,0,Credit Card,12.52
+ORD1258,2025-06-23,2025-06,Arjun Garcia,South,Furniture,Standing Desk,5,394.97,0,Credit Card,1974.85
+ORD1361,2025-06-23,2025-06,Mia Kumar,South,Furniture,Bookshelf,5,130.8,0,Debit Card,654.0
+ORD2174,2025-06-23,2025-06,Liam Garcia,North,Electronics,Laptop,1,813.19,0,PayPal,813.19
+ORD2330,2025-06-23,2025-06,Kasun Nguyen,East,Apparel,Jacket,2,126.62,15,Cash,215.25
+ORD2389,2025-06-23,2025-06,Unknown,North,Stationery,Pen Set,3,8.35,0,Cash,25.05
+ORD1464,2025-06-24,2025-06,Ethan Kumar,East,Electronics,Smartphone,2,574.66,0,Credit Card,1149.32
+ORD1869,2025-06-24,2025-06,Emma Kumar,East,Furniture,Standing Desk,1,420.75,0,Bank Transfer,420.75
+ORD2424,2025-06-24,2025-06,Kasun Khan,South,Furniture,Standing Desk,8,430.0,20,Credit Card,2752.0
+ORD2452,2025-06-24,2025-06,Mia Kumar,North,Furniture,Standing Desk,8,422.76,5,Bank Transfer,3212.98
+ORD1537,2025-06-25,2025-06,Liam Perera,Unknown,Stationery,Pen Set,1,8.55,15,PayPal,7.27
+ORD1637,2025-06-25,2025-06,Kasun Silva,South,Electronics,Smartphone,2,566.29,0,Credit Card,1132.58
+ORD1699,2025-06-25,2025-06,Zara Nguyen,West,Furniture,Office Chair,1,188.43,5,Debit Card,179.01
+ORD1995,2025-06-25,2025-06,Emma Patel,West,Electronics,Laptop,4,893.13,5,PayPal,3393.89
+ORD2282,2025-06-25,2025-06,Kasun Ali,East,Stationery,Printer Paper,2,23.64,5,Credit Card,44.92
+ORD1008,2025-06-26,2025-06,Priya Kumar,North,Furniture,Bookshelf,1,135.34,0,PayPal,135.34
+ORD1304,2025-06-26,2025-06,Arjun Ali,North,Electronics,Smartphone,2,608.67,0,PayPal,1217.34
+ORD1412,2025-06-26,2025-06,Noah Wong,North,Stationery,Notebook Pack,1,12.29,0,Credit Card,12.29
+ORD1661,2025-06-26,2025-06,Zara Patel,West,Stationery,Printer Paper,1,26.21,0,PayPal,26.21
+ORD1801,2025-06-26,2025-06,Nimali Silva,South,Furniture,Office Chair,2,167.67,0,Debit Card,335.34
+ORD1917,2025-06-26,2025-06,Sofia Brown,North,Electronics,Headphones,5,122.61,0,PayPal,613.05
+ORD2109,2025-06-26,2025-06,Noah Nguyen,North,Apparel,T-Shirt,5,22.89,10,Bank Transfer,103.01
+ORD2139,2025-06-26,2025-06,Liam Johnson,East,Apparel,Running Shoes,5,94.785,0,Unknown,473.92
+ORD2229,2025-06-26,2025-06,Ravi Brown,North,Furniture,Bookshelf,4,141.47,15,PayPal,481.0
+ORD2256,2025-06-26,2025-06,Mia Patel,West,Furniture,Standing Desk,1,426.46,0,Bank Transfer,426.46
+ORD1463,2025-06-27,2025-06,Liam Smith,Unknown,Apparel,T-Shirt,5,20.7,20,Debit Card,82.8
+ORD1783,2025-06-27,2025-06,Ravi Khan,South,Apparel,Jacket,4,127.13,5,Credit Card,483.09
+ORD2335,2025-06-27,2025-06,Noah Johnson,West,Furniture,Office Chair,4,170.03,0,Bank Transfer,680.12
+ORD2441,2025-06-27,2025-06,Ravi Ali,West,Apparel,Jacket,3,139.07,5,Credit Card,396.35
+ORD1158,2025-06-28,2025-06,Zara Garcia,East,Stationery,Pen Set,10,7.88,15,Credit Card,66.98
+ORD1498,2025-06-28,2025-06,Chen Smith,West,Stationery,Pen Set,2,8.13,0,PayPal,16.26
+ORD1508,2025-06-28,2025-06,Mia Lopez,West,Electronics,Smartphone,8,585.76,0,Bank Transfer,4686.08
+ORD1682,2025-06-28,2025-06,Ravi Patel,South,Stationery,Notebook Pack,1,12.69,10,PayPal,11.42
+ORD1866,2025-06-28,2025-06,Mia Lopez,East,Apparel,Running Shoes,5,91.53,0,Debit Card,457.65
+ORD1990,2025-06-28,2025-06,Nimali Garcia,East,Furniture,Bookshelf,3,150.01,0,Bank Transfer,450.03
+ORD2290,2025-06-28,2025-06,Mia Fernando,South,Apparel,Running Shoes,4,97.4,0,Bank Transfer,389.6
+ORD1111,2025-06-29,2025-06,Arjun Johnson,North,Electronics,Laptop,2,885.07,0,Credit Card,1770.14
+ORD1676,2025-06-29,2025-06,Mia Fernando,East,Stationery,Printer Paper,1,25.92,20,Credit Card,20.74
+ORD2085,2025-06-29,2025-06,Lucas Patel,South,Stationery,Printer Paper,3,23.47,0,Cash,70.41
+ORD2289,2025-06-29,2025-06,Aisha Smith,South,Apparel,Jacket,1,126.98,0,Cash,126.98
+ORD1103,2025-06-30,2025-06,Sofia Kumar,West,Electronics,Laptop,2,825.92,10,PayPal,1486.66
+ORD1196,2025-06-30,2025-06,Arjun Johnson,South,Apparel,Running Shoes,1,88.55,0,Bank Transfer,88.55
+ORD1864,2025-06-30,2025-06,Ethan Silva,South,Stationery,Notebook Pack,4,12.62,10,Unknown,45.43
+ORD1013,2025-07-01,2025-07,Nimali Johnson,East,Furniture,Bookshelf,2,130.99,5,Credit Card,248.88
+ORD1694,2025-07-01,2025-07,Arjun Ali,East,Furniture,Office Chair,13,180.25,0,PayPal,2343.25
+ORD2273,2025-07-02,2025-07,Liam Patel,East,Apparel,Jacket,2,136.73,10,Bank Transfer,246.11
+ORD1214,2025-07-03,2025-07,Liam Silva,East,Apparel,Jacket,2,120.02,0,Debit Card,240.04
+ORD1220,2025-07-03,2025-07,Arjun Nguyen,East,Electronics,Laptop,2,869.84,5,PayPal,1652.7
+ORD1515,2025-07-03,2025-07,Aisha Brown,South,Electronics,Laptop,3,816.89,20,Debit Card,1960.54
+ORD1720,2025-07-03,2025-07,Zara Patel,South,Furniture,Office Chair,2,178.57,10,Credit Card,321.43
+ORD1135,2025-07-04,2025-07,Kasun Patel,North,Furniture,Office Chair,2,180.25,0,Bank Transfer,360.5
+ORD1469,2025-07-04,2025-07,Emma Smith,North,Furniture,Bookshelf,3,139.43,10,Cash,376.46
+ORD1470,2025-07-04,2025-07,Priya Smith,South,Stationery,Pen Set,5,8.62,15,Credit Card,36.63
+ORD1556,2025-07-04,2025-07,Lucas Fernando,West,Electronics,Laptop,6,810.36,15,Bank Transfer,4132.84
+ORD1643,2025-07-04,2025-07,Aisha Silva,North,Electronics,Laptop,3,847.41,5,Cash,2415.12
+ORD1823,2025-07-04,2025-07,Ethan Brown,Unknown,Stationery,Printer Paper,2,23.16,0,Credit Card,46.32
+ORD1163,2025-07-05,2025-07,Chen Johnson,West,Stationery,Printer Paper,1,24.12,20,Credit Card,19.3
+ORD1213,2025-07-05,2025-07,Emma Johnson,East,Furniture,Office Chair,3,172.58,0,Bank Transfer,517.74
+ORD1904,2025-07-05,2025-07,Ravi Silva,South,Stationery,Pen Set,1,8.52,5,Debit Card,8.09
+ORD2281,2025-07-05,2025-07,Olivia Lopez,West,Apparel,T-Shirt,3,20.35,0,Bank Transfer,61.05
+ORD1067,2025-07-06,2025-07,Liam Garcia,Unknown,Furniture,Standing Desk,6,438.81,5,Debit Card,2501.22
+ORD1283,2025-07-06,2025-07,Arjun Brown,East,Stationery,Notebook Pack,1,12.95,5,Debit Card,12.3
+ORD1746,2025-07-06,2025-07,Liam Lopez,South,Furniture,Bookshelf,3,148.79,0,PayPal,446.37
+ORD1809,2025-07-06,2025-07,Lucas Silva,South,Apparel,Running Shoes,1,101.08,0,Credit Card,101.08
+ORD2196,2025-07-06,2025-07,Sofia Khan,West,Apparel,Jacket,2,129.04,10,Cash,232.27
+ORD1203,2025-07-07,2025-07,Noah Kumar,West,Stationery,Printer Paper,1,24.46,5,Credit Card,23.24
+ORD1321,2025-07-07,2025-07,Mia Silva,North,Apparel,Jacket,1,132.15,0,Bank Transfer,132.15
+ORD1521,2025-07-07,2025-07,Liam Kumar,West,Stationery,Printer Paper,2,23.95,10,Bank Transfer,43.11
+ORD1557,2025-07-07,2025-07,Kasun Kumar,West,Stationery,Notebook Pack,1,12.135,0,Credit Card,12.14
+ORD1888,2025-07-07,2025-07,Kasun Brown,West,Furniture,Bookshelf,6,133.63,5,Debit Card,761.69
+ORD1238,2025-07-08,2025-07,Emma Kumar,West,Stationery,Printer Paper,3,24.89,0,Bank Transfer,74.67
+ORD1367,2025-07-08,2025-07,Lucas Johnson,North,Electronics,Laptop,3,829.62,0,PayPal,2488.86
+ORD1571,2025-07-08,2025-07,Kasun Patel,North,Electronics,Headphones,1,111.58,10,Bank Transfer,100.42
+ORD2357,2025-07-08,2025-07,Sofia Perera,North,Stationery,Pen Set,4,8.97,0,Credit Card,35.88
+ORD1057,2025-07-09,2025-07,Sofia Fernando,West,Furniture,Office Chair,1,182.62,5,Bank Transfer,173.49
+ORD1440,2025-07-09,2025-07,Lucas Silva,North,Furniture,Office Chair,2,167.95,0,Bank Transfer,335.9
+ORD2244,2025-07-09,2025-07,Kasun Khan,North,Furniture,Standing Desk,3,396.51,20,Cash,951.62
+ORD1695,2025-07-10,2025-07,Unknown,West,Furniture,Bookshelf,2,149.17,5,PayPal,283.42
+ORD1941,2025-07-10,2025-07,Noah Khan,South,Electronics,Headphones,8,114.79,5,Unknown,872.4
+ORD2240,2025-07-10,2025-07,Unknown,North,Stationery,Pen Set,1,8.42,0,Debit Card,8.42
+ORD2460,2025-07-10,2025-07,Unknown,South,Furniture,Standing Desk,5,396.17,5,Debit Card,1881.81
+ORD1448,2025-07-11,2025-07,Liam Nguyen,West,Stationery,Pen Set,2,9.0,10,PayPal,16.2
+ORD2075,2025-07-11,2025-07,Liam Kumar,South,Electronics,Smartphone,1,553.84,0,Credit Card,553.84
+ORD2355,2025-07-11,2025-07,Emma Garcia,West,Stationery,Printer Paper,4,24.01,15,PayPal,81.63
+ORD2403,2025-07-11,2025-07,Emma Lopez,East,Stationery,Notebook Pack,3,12.08,0,Debit Card,36.24
+ORD1415,2025-07-12,2025-07,Noah Johnson,South,Stationery,Notebook Pack,5,12.66,10,Cash,56.97
+ORD1466,2025-07-12,2025-07,Zara Fernando,West,Stationery,Printer Paper,5,24.72,0,Credit Card,123.6
+ORD1849,2025-07-12,2025-07,Nimali Ali,Unknown,Electronics,Laptop,1,848.32,0,PayPal,848.32
+ORD2202,2025-07-12,2025-07,Unknown,West,Furniture,Office Chair,1,171.9,0,Bank Transfer,171.9
+ORD2319,2025-07-13,2025-07,Mia Kumar,East,Apparel,Running Shoes,1,100.6,15,Cash,85.51
+ORD1015,2025-07-14,2025-07,Priya Johnson,South,Stationery,Pen Set,1,9.06,0,Unknown,9.06
+ORD1455,2025-07-14,2025-07,Ethan Wong,West,Stationery,Notebook Pack,3,12.25,10,Credit Card,33.08
+ORD1480,2025-07-14,2025-07,Lucas Brown,East,Apparel,Running Shoes,4,90.47,5,Debit Card,343.79
+ORD1734,2025-07-14,2025-07,Mia Nguyen,North,Apparel,Running Shoes,2,102.25,0,Debit Card,204.5
+ORD2027,2025-07-14,2025-07,Lucas Silva,North,Apparel,T-Shirt,1,23.57,10,Bank Transfer,21.21
+ORD2039,2025-07-14,2025-07,Liam Kumar,South,Stationery,Printer Paper,1,26.51,10,Cash,23.86
+ORD1193,2025-07-15,2025-07,Mia Nguyen,East,Furniture,Office Chair,1,192.29,0,Cash,192.29
+ORD1205,2025-07-15,2025-07,Mia Smith,South,Apparel,Running Shoes,3,88.64,15,PayPal,226.03
+ORD1609,2025-07-15,2025-07,Mia Brown,West,Electronics,Laptop,3,854.12,0,Cash,2562.36
+ORD2010,2025-07-15,2025-07,Arjun Silva,South,Electronics,Smartphone,3,616.46,5,Bank Transfer,1756.91
+ORD2113,2025-07-15,2025-07,Ethan Silva,West,Apparel,T-Shirt,6,22.91,5,Bank Transfer,130.59
+ORD2387,2025-07-15,2025-07,Sofia Silva,East,Apparel,Running Shoes,8,96.0,5,Debit Card,729.6
+ORD1462,2025-07-16,2025-07,Olivia Kumar,North,Furniture,Bookshelf,1,143.51,0,Bank Transfer,143.51
+ORD1551,2025-07-16,2025-07,Mia Silva,East,Apparel,T-Shirt,1,21.31,0,Bank Transfer,21.31
+ORD1859,2025-07-16,2025-07,Ethan Nguyen,East,Electronics,Laptop,1,869.1,20,Bank Transfer,695.28
+ORD2115,2025-07-16,2025-07,Mia Lopez,West,Stationery,Printer Paper,3,23.63,0,Debit Card,70.89
+ORD2314,2025-07-16,2025-07,Ravi Garcia,West,Electronics,Smartphone,2,624.7,15,PayPal,1061.99
+ORD1023,2025-07-17,2025-07,Ethan Nguyen,West,Electronics,Smartphone,1,629.01,0,Bank Transfer,629.01
+ORD1303,2025-07-18,2025-07,Mia Patel,Unknown,Apparel,Jacket,5,126.71,0,Cash,633.55
+ORD1614,2025-07-18,2025-07,Mia Lopez,South,Apparel,Running Shoes,1,93.06,0,Debit Card,93.06
+ORD1102,2025-07-19,2025-07,Aisha Lopez,West,Stationery,Notebook Pack,3,12.43,20,PayPal,29.83
+ORD1909,2025-07-19,2025-07,Sofia Khan,South,Apparel,Jacket,2,125.9,0,Credit Card,251.8
+ORD1817,2025-07-20,2025-07,Arjun Kumar,East,Furniture,Bookshelf,1,136.47,0,Debit Card,136.47
+ORD1354,2025-07-21,2025-07,Ravi Khan,South,Electronics,Smartphone,3,635.87,20,Bank Transfer,1526.09
+ORD1884,2025-07-21,2025-07,Kasun Brown,North,Furniture,Bookshelf,2,133.48,0,Bank Transfer,266.96
+ORD2214,2025-07-21,2025-07,Unknown,North,Stationery,Printer Paper,1,23.95,15,PayPal,20.36
+ORD2372,2025-07-21,2025-07,Ethan Lopez,South,Electronics,Headphones,1,121.94,0,Credit Card,121.94
+ORD2422,2025-07-21,2025-07,Liam Smith,West,Electronics,Headphones,2,123.07,0,Cash,246.14
+ORD1249,2025-07-22,2025-07,Liam Perera,South,Furniture,Office Chair,1,191.51,0,Cash,191.51
+ORD1596,2025-07-22,2025-07,Liam Johnson,East,Furniture,Bookshelf,6,143.06,5,Cash,815.44
+ORD2498,2025-07-22,2025-07,Lucas Wong,North,Furniture,Office Chair,4,181.94,10,PayPal,654.98
+ORD1646,2025-07-23,2025-07,Chen Brown,East,Furniture,Standing Desk,5,404.53,10,Credit Card,1820.38
+ORD1976,2025-07-24,2025-07,Nimali Ali,North,Apparel,Running Shoes,6,99.66,20,PayPal,478.37
+ORD1160,2025-07-25,2025-07,Liam Brown,North,Apparel,Jacket,3,139.76,5,Cash,398.32
+ORD1225,2025-07-25,2025-07,Zara Johnson,North,Stationery,Pen Set,1,8.53,0,PayPal,8.53
+ORD1600,2025-07-25,2025-07,Mia Johnson,North,Furniture,Office Chair,1,167.65,0,Bank Transfer,167.65
+ORD1730,2025-07-25,2025-07,Ethan Brown,East,Electronics,Smartphone,4,627.69,5,PayPal,2385.22
+ORD2099,2025-07-25,2025-07,Zara Khan,South,Stationery,Pen Set,10,7.91,5,Bank Transfer,75.14
+ORD1042,2025-07-26,2025-07,Lucas Kumar,North,Electronics,Laptop,1,813.0,0,Unknown,813.0
+ORD1710,2025-07-26,2025-07,Aisha Khan,South,Electronics,Headphones,1,127.33,0,Credit Card,127.33
+ORD1744,2025-07-26,2025-07,Zara Perera,North,Electronics,Smartphone,1,623.35,0,Credit Card,623.35
+ORD2110,2025-07-26,2025-07,Olivia Lopez,East,Stationery,Printer Paper,2,23.56,5,Credit Card,44.76
+ORD1453,2025-07-27,2025-07,Ravi Nguyen,Unknown,Furniture,Bookshelf,6,138.25,0,Debit Card,829.5
+ORD1502,2025-07-27,2025-07,Kasun Fernando,West,Furniture,Office Chair,2,176.55,0,PayPal,353.1
+ORD2219,2025-07-27,2025-07,Kasun Kumar,East,Apparel,T-Shirt,1,20.96,0,PayPal,20.96
+ORD2469,2025-07-27,2025-07,Nimali Patel,North,Apparel,Jacket,10,133.83,15,Credit Card,1137.56
+ORD1868,2025-07-28,2025-07,Emma Wong,North,Electronics,Headphones,1,124.77,0,Unknown,124.77
+ORD1272,2025-07-29,2025-07,Lucas Johnson,North,Stationery,Notebook Pack,8,12.71,5,Cash,96.6
+ORD1679,2025-07-29,2025-07,Aisha Lopez,North,Apparel,Jacket,3,126.87,0,PayPal,380.61
+ORD2261,2025-07-29,2025-07,Priya Silva,South,Electronics,Laptop,2,826.44,0,Bank Transfer,1652.88
+ORD2488,2025-07-29,2025-07,Emma Smith,East,Apparel,Running Shoes,2,102.55,0,Bank Transfer,205.1
+ORD1041,2025-07-30,2025-07,Ravi Lopez,North,Stationery,Notebook Pack,5,12.76,0,Debit Card,63.8
+ORD1838,2025-07-30,2025-07,Olivia Kumar,South,Furniture,Office Chair,6,178.51,5,Bank Transfer,1017.51
+ORD1586,2025-07-31,2025-07,Mia Brown,North,Stationery,Printer Paper,5,26.84,0,Bank Transfer,134.2
+ORD1698,2025-07-31,2025-07,Liam Lopez,South,Furniture,Standing Desk,10,400.09,5,Debit Card,3800.85
+ORD1852,2025-07-31,2025-07,Chen Fernando,East,Furniture,Office Chair,8,167.68,20,Bank Transfer,1073.15
+ORD1873,2025-07-31,2025-07,Mia Wong,North,Furniture,Bookshelf,2,134.86,10,Cash,242.75
+ORD2073,2025-07-31,2025-07,Noah Brown,South,Furniture,Standing Desk,1,386.53,10,Cash,347.88
+ORD2061,2025-08-01,2025-08,Zara Perera,East,Apparel,Running Shoes,1,91.8,0,Cash,91.8
+ORD2184,2025-08-01,2025-08,Kasun Ali,East,Electronics,Headphones,3,118.78999999999999,0,Bank Transfer,356.37
+ORD1770,2025-08-02,2025-08,Lucas Wong,North,Stationery,Notebook Pack,3,11.26,0,Credit Card,33.78
+ORD2050,2025-08-02,2025-08,Kasun Fernando,East,Electronics,Smartphone,3,627.59,0,Bank Transfer,1882.77
+ORD2440,2025-08-02,2025-08,Chen Smith,West,Apparel,Jacket,1,128.03,5,Unknown,121.63
+ORD1053,2025-08-03,2025-08,Unknown,South,Electronics,Smartphone,4,625.12,0,Cash,2500.48
+ORD1372,2025-08-03,2025-08,Olivia Silva,South,Furniture,Bookshelf,3,142.08,5,PayPal,404.93
+ORD1633,2025-08-03,2025-08,Kasun Silva,West,Apparel,T-Shirt,3,20.9,0,PayPal,62.7
+ORD1652,2025-08-03,2025-08,Chen Nguyen,South,Stationery,Printer Paper,4,26.99,15,PayPal,91.77
+ORD1689,2025-08-03,2025-08,Ethan Silva,North,Furniture,Standing Desk,1,439.24,0,Bank Transfer,439.24
+ORD2466,2025-08-03,2025-08,Ethan Johnson,East,Furniture,Standing Desk,5,406.33,0,Unknown,2031.65
+ORD1929,2025-08-04,2025-08,Sofia Kumar,West,Furniture,Bookshelf,6,134.22,20,Cash,644.26
+ORD2235,2025-08-04,2025-08,Ravi Ali,North,Furniture,Bookshelf,2,147.8,15,Cash,251.26
+ORD2461,2025-08-04,2025-08,Arjun Fernando,Unknown,Stationery,Printer Paper,1,23.28,5,Cash,22.12
+ORD1545,2025-08-05,2025-08,Olivia Brown,North,Electronics,Smartphone,3,628.36,15,Debit Card,1602.32
+ORD1560,2025-08-05,2025-08,Ethan Smith,South,Stationery,Notebook Pack,2,11.37,5,Cash,21.6
+ORD1764,2025-08-05,2025-08,Aisha Wong,North,Furniture,Standing Desk,1,427.44,0,Credit Card,427.44
+ORD1851,2025-08-05,2025-08,Mia Nguyen,East,Stationery,Printer Paper,2,23.44,10,PayPal,42.19
+ORD2364,2025-08-05,2025-08,Emma Lopez,South,Apparel,T-Shirt,1,22.82,0,Cash,22.82
+ORD2384,2025-08-05,2025-08,Priya Smith,North,Apparel,T-Shirt,5,20.66,0,Bank Transfer,103.3
+ORD2439,2025-08-05,2025-08,Lucas Wong,North,Electronics,Laptop,10,806.09,10,Credit Card,7254.81
+ORD1314,2025-08-06,2025-08,Noah Silva,South,Apparel,T-Shirt,3,21.2,5,Credit Card,60.42
+ORD1522,2025-08-06,2025-08,Emma Ali,South,Furniture,Office Chair,1,189.29,0,Cash,189.29
+ORD2120,2025-08-06,2025-08,Ravi Silva,East,Stationery,Printer Paper,2,26.29,5,Unknown,49.95
+ORD2121,2025-08-06,2025-08,Aisha Nguyen,West,Electronics,Headphones,5,115.62,5,Debit Card,549.2
+ORD2305,2025-08-06,2025-08,Unknown,East,Furniture,Office Chair,1,193.78,20,PayPal,155.02
+ORD1231,2025-08-07,2025-08,Lucas Johnson,East,Furniture,Bookshelf,2,138.33,5,Cash,262.83
+ORD2011,2025-08-07,2025-08,Sofia Nguyen,East,Electronics,Headphones,2,118.43,10,Debit Card,213.17
+ORD2026,2025-08-07,2025-08,Ethan Kumar,North,Furniture,Office Chair,6,192.87,0,Bank Transfer,1157.22
+ORD2089,2025-08-07,2025-08,Ethan Fernando,Unknown,Electronics,Smartphone,5,558.63,0,Credit Card,2793.15
+ORD2181,2025-08-07,2025-08,Lucas Kumar,West,Furniture,Office Chair,1,188.9,0,Credit Card,188.9
+ORD2255,2025-08-07,2025-08,Mia Silva,East,Electronics,Headphones,3,115.93,0,Credit Card,347.79
+ORD1119,2025-08-08,2025-08,Mia Smith,East,Stationery,Printer Paper,1,25.57,0,Credit Card,25.57
+ORD1239,2025-08-08,2025-08,Aisha Nguyen,Unknown,Furniture,Office Chair,2,192.37,10,Credit Card,346.27
+ORD1525,2025-08-08,2025-08,Kasun Nguyen,South,Apparel,Jacket,4,129.04,0,Debit Card,516.16
+ORD2322,2025-08-08,2025-08,Mia Garcia,West,Electronics,Smartphone,3,553.09,10,Cash,1493.34
+ORD1471,2025-08-09,2025-08,Ravi Wong,West,Electronics,Headphones,2,112.55,0,Credit Card,225.1
+ORD1968,2025-08-09,2025-08,Lucas Nguyen,South,Apparel,Jacket,4,119.6,0,Bank Transfer,478.4
+ORD2316,2025-08-09,2025-08,Olivia Patel,West,Stationery,Pen Set,1,8.72,5,PayPal,8.28
+ORD1154,2025-08-10,2025-08,Lucas Nguyen,East,Electronics,Laptop,1,797.98,5,Credit Card,758.08
+ORD1233,2025-08-10,2025-08,Emma Ali,East,Electronics,Smartphone,1,607.8,0,Debit Card,607.8
+ORD2336,2025-08-10,2025-08,Lucas Khan,West,Furniture,Standing Desk,1,410.66,0,PayPal,410.66
+ORD1703,2025-08-11,2025-08,Zara Silva,West,Apparel,Running Shoes,6,101.17,0,Cash,607.02
+ORD1986,2025-08-11,2025-08,Olivia Kumar,South,Stationery,Printer Paper,4,25.92,15,PayPal,88.13
+ORD1257,2025-08-12,2025-08,Ethan Wong,North,Furniture,Office Chair,2,189.25,0,PayPal,378.5
+ORD1563,2025-08-12,2025-08,Arjun Perera,South,Apparel,T-Shirt,8,21.95,5,Credit Card,166.82
+ORD1624,2025-08-12,2025-08,Chen Johnson,East,Apparel,T-Shirt,4,23.12,0,Debit Card,92.48
+ORD2393,2025-08-12,2025-08,Unknown,West,Furniture,Bookshelf,3,139.755,0,Debit Card,419.26
+ORD1320,2025-08-13,2025-08,Liam Fernando,North,Apparel,Jacket,1,123.06,10,Debit Card,110.75
+ORD2025,2025-08-13,2025-08,Unknown,East,Electronics,Headphones,2,115.61,5,PayPal,219.66
+ORD2185,2025-08-13,2025-08,Arjun Nguyen,North,Electronics,Headphones,3,120.11,0,Debit Card,360.33
+ORD1198,2025-08-14,2025-08,Unknown,East,Furniture,Standing Desk,3,398.62,0,Debit Card,1195.86
+ORD1312,2025-08-14,2025-08,Ethan Garcia,South,Stationery,Notebook Pack,3,11.37,0,PayPal,34.11
+ORD2083,2025-08-14,2025-08,Emma Patel,South,Furniture,Bookshelf,2,138.03,15,Debit Card,234.65
+ORD2354,2025-08-14,2025-08,Zara Patel,North,Furniture,Standing Desk,10,406.16,0,Credit Card,4061.6
+ORD1064,2025-08-15,2025-08,Zara Wong,North,Apparel,T-Shirt,1,20.57,15,Credit Card,17.48
+ORD1086,2025-08-15,2025-08,Nimali Wong,West,Stationery,Pen Set,3,9.09,5,Credit Card,25.91
+ORD1381,2025-08-15,2025-08,Priya Ali,West,Furniture,Bookshelf,5,136.59,5,Debit Card,648.8
+ORD1667,2025-08-15,2025-08,Lucas Patel,West,Furniture,Standing Desk,1,405.36,0,Unknown,405.36
+ORD2360,2025-08-15,2025-08,Ethan Perera,West,Furniture,Office Chair,1,187.74,0,Cash,187.74
+ORD2397,2025-08-15,2025-08,Mia Ali,West,Electronics,Laptop,4,877.28,10,PayPal,3158.21
+ORD1226,2025-08-16,2025-08,Noah Smith,East,Apparel,T-Shirt,10,20.63,0,Bank Transfer,206.3
+ORD1517,2025-08-16,2025-08,Chen Fernando,North,Apparel,T-Shirt,1,22.47,20,Bank Transfer,17.98
+ORD1602,2025-08-16,2025-08,Olivia Smith,East,Apparel,Jacket,1,126.87,10,Credit Card,114.18
+ORD1316,2025-08-17,2025-08,Zara Fernando,West,Furniture,Standing Desk,1,395.6,15,Cash,336.26
+ORD1421,2025-08-17,2025-08,Liam Khan,North,Electronics,Laptop,1,890.47,0,PayPal,890.47
+ORD1743,2025-08-17,2025-08,Lucas Smith,West,Stationery,Pen Set,2,8.63,0,Credit Card,17.26
+ORD1786,2025-08-17,2025-08,Chen Perera,West,Stationery,Printer Paper,1,26.61,0,Debit Card,26.61
+ORD1820,2025-08-17,2025-08,Kasun Fernando,South,Electronics,Headphones,3,119.79,0,PayPal,359.37
+ORD2253,2025-08-17,2025-08,Noah Wong,West,Stationery,Printer Paper,1,24.37,0,Debit Card,24.37
+ORD2482,2025-08-17,2025-08,Noah Garcia,West,Furniture,Office Chair,2,177.4,20,Bank Transfer,283.84
+ORD1489,2025-08-18,2025-08,Chen Nguyen,West,Electronics,Smartphone,10,556.63,20,Bank Transfer,4453.04
+ORD1773,2025-08-18,2025-08,Kasun Johnson,North,Furniture,Standing Desk,1,412.92,0,Unknown,412.92
+ORD1837,2025-08-18,2025-08,Chen Lopez,West,Furniture,Office Chair,5,191.32,0,Debit Card,956.6
+ORD1970,2025-08-18,2025-08,Ethan Perera,North,Stationery,Pen Set,1,8.23,0,Cash,8.23
+ORD1289,2025-08-19,2025-08,Olivia Lopez,West,Furniture,Standing Desk,2,424.01,0,Credit Card,848.02
+ORD1290,2025-08-19,2025-08,Mia Perera,West,Furniture,Office Chair,1,190.42,15,Credit Card,161.86
+ORD1523,2025-08-19,2025-08,Priya Garcia,North,Electronics,Laptop,3,794.99,0,Unknown,2384.97
+ORD1266,2025-08-20,2025-08,Liam Perera,East,Stationery,Pen Set,6,9.09,5,Cash,51.81
+ORD1328,2025-08-20,2025-08,Kasun Ali,West,Electronics,Smartphone,5,562.23,0,Credit Card,2811.15
+ORD1590,2025-08-20,2025-08,Unknown,North,Furniture,Bookshelf,2,137.22,0,Credit Card,274.44
+ORD1759,2025-08-20,2025-08,Olivia Fernando,West,Furniture,Standing Desk,8,426.76,10,Bank Transfer,3072.67
+ORD2028,2025-08-20,2025-08,Ravi Lopez,North,Electronics,Smartphone,6,571.45,5,Debit Card,3257.27
+ORD2033,2025-08-20,2025-08,Noah Ali,North,Apparel,Jacket,10,121.72,0,Debit Card,1217.2
+ORD1026,2025-08-21,2025-08,Aisha Ali,East,Electronics,Headphones,4,125.21,0,Bank Transfer,500.84
+ORD1048,2025-08-21,2025-08,Sofia Silva,West,Furniture,Standing Desk,1,419.82,0,Debit Card,419.82
+ORD1109,2025-08-21,2025-08,Lucas Garcia,West,Furniture,Office Chair,8,186.85,5,Cash,1420.06
+ORD1148,2025-08-21,2025-08,Noah Johnson,South,Apparel,T-Shirt,10,21.56,0,Cash,215.6
+ORD1215,2025-08-21,2025-08,Noah Johnson,South,Electronics,Smartphone,1,583.44,0,Bank Transfer,583.44
+ORD1403,2025-08-21,2025-08,Mia Silva,West,Electronics,Headphones,4,118.96,0,Bank Transfer,475.84
+ORD1950,2025-08-21,2025-08,Aisha Kumar,West,Furniture,Bookshelf,1,141.44,0,Debit Card,141.44
+ORD1169,2025-08-22,2025-08,Olivia Silva,South,Furniture,Office Chair,4,170.28,15,Unknown,578.95
+ORD1925,2025-08-22,2025-08,Ravi Patel,West,Apparel,Jacket,5,129.16,5,Debit Card,613.51
+ORD1534,2025-08-23,2025-08,Mia Lopez,North,Apparel,T-Shirt,6,20.92,0,Bank Transfer,125.52
+ORD1752,2025-08-23,2025-08,Nimali Ali,East,Furniture,Office Chair,5,190.91,5,Credit Card,906.82
+ORD1871,2025-08-23,2025-08,Unknown,North,Furniture,Bookshelf,3,128.89,0,PayPal,386.67
+ORD2207,2025-08-23,2025-08,Zara Fernando,East,Stationery,Pen Set,5,8.06,5,Debit Card,38.29
+ORD2231,2025-08-23,2025-08,Noah Smith,West,Furniture,Office Chair,5,180.71,10,Credit Card,813.2
+ORD2462,2025-08-23,2025-08,Mia Perera,West,Stationery,Notebook Pack,3,12.73,5,Debit Card,36.28
+ORD1256,2025-08-24,2025-08,Mia Smith,West,Apparel,Running Shoes,3,98.99,15,Credit Card,252.42
+ORD1790,2025-08-24,2025-08,Lucas Perera,North,Electronics,Laptop,3,828.67,10,Credit Card,2237.41
+ORD2496,2025-08-24,2025-08,Ravi Johnson,West,Apparel,Jacket,4,120.12,0,Debit Card,480.48
+ORD1044,2025-08-25,2025-08,Arjun Lopez,North,Furniture,Standing Desk,2,414.45,0,PayPal,828.9
+ORD1603,2025-08-25,2025-08,Liam Fernando,West,Electronics,Laptop,3,807.19,0,PayPal,2421.57
+ORD2096,2025-08-25,2025-08,Kasun Patel,East,Stationery,Pen Set,1,8.35,10,Credit Card,7.52
+ORD1207,2025-08-26,2025-08,Sofia Johnson,West,Apparel,Jacket,5,135.16,0,Credit Card,675.8
+ORD1580,2025-08-26,2025-08,Mia Nguyen,West,Furniture,Office Chair,1,176.19,0,Debit Card,176.19
+ORD2345,2025-08-26,2025-08,Chen Wong,West,Furniture,Standing Desk,1,453.1,0,Bank Transfer,453.1
+ORD2420,2025-08-26,2025-08,Priya Garcia,East,Electronics,Smartphone,2,586.05,0,Bank Transfer,1172.1
+ORD1114,2025-08-27,2025-08,Priya Kumar,East,Furniture,Office Chair,1,179.76,0,Debit Card,179.76
+ORD1592,2025-08-27,2025-08,Lucas Silva,North,Stationery,Pen Set,8,8.89,0,Bank Transfer,71.12
+ORD2091,2025-08-27,2025-08,Olivia Smith,Unknown,Electronics,Smartphone,1,552.96,10,Credit Card,497.66
+ORD2224,2025-08-27,2025-08,Liam Garcia,East,Furniture,Bookshelf,2,134.12,0,Debit Card,268.24
+ORD2296,2025-08-27,2025-08,Emma Wong,South,Electronics,Smartphone,8,639.98,5,PayPal,4863.85
+ORD1152,2025-08-28,2025-08,Sofia Ali,West,Electronics,Smartphone,6,562.67,0,Cash,3376.02
+ORD1353,2025-08-28,2025-08,Chen Patel,West,Stationery,Printer Paper,4,24.61,0,Credit Card,98.44
+ORD2154,2025-08-28,2025-08,Noah Johnson,West,Furniture,Standing Desk,3,404.9,0,Cash,1214.7
+ORD2339,2025-08-28,2025-08,Priya Johnson,West,Apparel,Jacket,3,125.0,15,Bank Transfer,318.75
+ORD1072,2025-08-29,2025-08,Arjun Khan,Unknown,Electronics,Laptop,1,878.86,0,Cash,878.86
+ORD1138,2025-08-29,2025-08,Chen Brown,East,Furniture,Standing Desk,8,450.28,5,Debit Card,3422.13
+ORD1294,2025-08-29,2025-08,Ravi Nguyen,North,Apparel,T-Shirt,1,21.05,5,Credit Card,20.0
+ORD1696,2025-08-29,2025-08,Liam Lopez,Unknown,Electronics,Smartphone,2,562.13,5,PayPal,1068.05
+ORD1385,2025-08-30,2025-08,Emma Johnson,South,Furniture,Bookshelf,4,144.04,5,Credit Card,547.35
+ORD2130,2025-08-31,2025-08,Kasun Nguyen,North,Apparel,Jacket,3,120.41,5,Cash,343.17
+ORD2210,2025-08-31,2025-08,Ravi Patel,North,Apparel,Running Shoes,6,99.45,5,Credit Card,566.86
+ORD2433,2025-08-31,2025-08,Unknown,North,Electronics,Headphones,1,113.31,0,Debit Card,113.31
+ORD2459,2025-08-31,2025-08,Lucas Patel,South,Furniture,Office Chair,2,179.52,0,Credit Card,359.04
+ORD1096,2025-09-01,2025-09,Ravi Patel,South,Apparel,T-Shirt,2,21.88,5,Cash,41.57
+ORD1269,2025-09-01,2025-09,Olivia Perera,West,Apparel,Running Shoes,2,98.59,15,Credit Card,167.6
+ORD1691,2025-09-01,2025-09,Mia Wong,East,Apparel,Jacket,4,130.4,0,Debit Card,521.6
+ORD2306,2025-09-01,2025-09,Ethan Brown,East,Furniture,Bookshelf,2,139.755,0,Debit Card,279.51
+ORD1397,2025-09-02,2025-09,Lucas Khan,North,Electronics,Headphones,2,124.0,0,Unknown,248.0
+ORD1619,2025-09-02,2025-09,Aisha Garcia,South,Stationery,Printer Paper,8,24.01,10,Debit Card,172.87
+ORD1731,2025-09-02,2025-09,Zara Johnson,South,Apparel,T-Shirt,1,23.43,5,Credit Card,22.26
+ORD2370,2025-09-02,2025-09,Olivia Patel,South,Stationery,Pen Set,1,9.03,5,Bank Transfer,8.58
+ORD2417,2025-09-02,2025-09,Sofia Fernando,South,Electronics,Smartphone,3,606.8,0,Cash,1820.4
+ORD1334,2025-09-03,2025-09,Zara Kumar,West,Apparel,T-Shirt,2,20.89,5,Bank Transfer,39.69
+ORD2066,2025-09-03,2025-09,Chen Kumar,North,Apparel,Jacket,2,139.18,15,Debit Card,236.61
+ORD2217,2025-09-03,2025-09,Sofia Fernando,Unknown,Electronics,Laptop,3,917.94,10,Bank Transfer,2478.44
+ORD1201,2025-09-04,2025-09,Sofia Ali,East,Furniture,Standing Desk,1,405.12,0,Credit Card,405.12
+ORD1237,2025-09-04,2025-09,Unknown,North,Apparel,Jacket,1,133.78,10,Cash,120.4
+ORD2100,2025-09-04,2025-09,Ethan Smith,East,Electronics,Headphones,1,117.61,10,Debit Card,105.85
+ORD2124,2025-09-04,2025-09,Noah Fernando,Unknown,Apparel,Running Shoes,4,90.72,5,PayPal,344.74
+ORD1122,2025-09-05,2025-09,Ravi Silva,East,Stationery,Printer Paper,3,26.77,0,PayPal,80.31
+ORD1173,2025-09-05,2025-09,Mia Garcia,West,Stationery,Printer Paper,2,26.24,20,PayPal,41.98
+ORD1477,2025-09-05,2025-09,Noah Garcia,West,Furniture,Standing Desk,3,417.76,0,Debit Card,1253.28
+ORD1853,2025-09-05,2025-09,Priya Patel,East,Stationery,Printer Paper,3,24.2,0,PayPal,72.6
+ORD1097,2025-09-06,2025-09,Arjun Patel,West,Stationery,Printer Paper,1,25.36,0,Credit Card,25.36
+ORD1105,2025-09-06,2025-09,Aisha Silva,East,Stationery,Notebook Pack,1,12.89,0,PayPal,12.89
+ORD1279,2025-09-06,2025-09,Nimali Khan,South,Furniture,Bookshelf,2,138.18,15,Debit Card,234.91
+ORD1669,2025-09-06,2025-09,Mia Lopez,North,Apparel,T-Shirt,1,22.91,0,Bank Transfer,22.91
+ORD2348,2025-09-06,2025-09,Aisha Perera,North,Apparel,T-Shirt,1,21.89,5,Cash,20.8
+ORD1533,2025-09-07,2025-09,Lucas Nguyen,North,Stationery,Pen Set,1,7.93,0,Credit Card,7.93
+ORD1735,2025-09-07,2025-09,Unknown,West,Stationery,Pen Set,2,7.88,10,Credit Card,14.18
+ORD2428,2025-09-07,2025-09,Sofia Nguyen,East,Apparel,T-Shirt,4,20.98,0,PayPal,83.92
+ORD1120,2025-09-08,2025-09,Emma Silva,East,Stationery,Notebook Pack,3,12.135,5,PayPal,34.58
+ORD1675,2025-09-08,2025-09,Unknown,West,Furniture,Bookshelf,8,129.97,0,Bank Transfer,1039.76
+ORD1137,2025-09-09,2025-09,Emma Lopez,North,Apparel,Jacket,6,121.5,0,Bank Transfer,729.0
+ORD1666,2025-09-09,2025-09,Emma Lopez,South,Furniture,Standing Desk,3,450.68,0,Unknown,1352.04
+ORD1740,2025-09-09,2025-09,Lucas Khan,East,Electronics,Smartphone,1,635.78,0,Cash,635.78
+ORD2022,2025-09-09,2025-09,Chen Fernando,South,Stationery,Notebook Pack,3,12.29,0,Debit Card,36.87
+ORD2164,2025-09-09,2025-09,Chen Silva,West,Apparel,T-Shirt,2,20.54,5,Credit Card,39.03
+ORD1021,2025-09-10,2025-09,Noah Kumar,North,Stationery,Printer Paper,2,24.09,10,Credit Card,43.36
+ORD1332,2025-09-10,2025-09,Aisha Garcia,East,Furniture,Office Chair,3,176.0,0,PayPal,528.0
+ORD1392,2025-09-10,2025-09,Olivia Lopez,West,Stationery,Printer Paper,1,25.54,0,Cash,25.54
+ORD1617,2025-09-10,2025-09,Sofia Fernando,West,Furniture,Office Chair,6,184.2,0,Credit Card,1105.2
+ORD1750,2025-09-10,2025-09,Olivia Lopez,West,Electronics,Headphones,5,121.9,0,Credit Card,609.5
+ORD2264,2025-09-10,2025-09,Ravi Khan,North,Furniture,Standing Desk,10,417.76,0,Credit Card,4177.6
+ORD2298,2025-09-10,2025-09,Emma Silva,East,Furniture,Bookshelf,3,143.97,0,PayPal,431.91
+ORD2448,2025-09-10,2025-09,Sofia Khan,South,Stationery,Notebook Pack,1,12.62,10,Bank Transfer,11.36
+ORD1520,2025-09-11,2025-09,Emma Nguyen,North,Apparel,T-Shirt,2,23.2,15,Cash,39.44
+ORD2377,2025-09-11,2025-09,Unknown,South,Apparel,Jacket,1,119.62,0,Debit Card,119.62
+ORD2437,2025-09-11,2025-09,Sofia Perera,West,Stationery,Notebook Pack,5,12.54,0,PayPal,62.7
+ORD1251,2025-09-12,2025-09,Unknown,South,Electronics,Laptop,1,909.82,5,PayPal,864.33
+ORD1313,2025-09-12,2025-09,Mia Kumar,East,Apparel,T-Shirt,13,23.46,0,Credit Card,304.98
+ORD1439,2025-09-12,2025-09,Ravi Smith,West,Stationery,Printer Paper,2,25.57,5,Cash,48.58
+ORD1721,2025-09-12,2025-09,Nimali Ali,West,Stationery,Printer Paper,3,25.48,0,Cash,76.44
+ORD1018,2025-09-13,2025-09,Ethan Johnson,West,Apparel,Jacket,5,139.14,15,Debit Card,591.34
+ORD1443,2025-09-13,2025-09,Lucas Patel,West,Furniture,Office Chair,1,188.34,5,Unknown,178.92
+ORD1893,2025-09-13,2025-09,Olivia Lopez,Unknown,Stationery,Notebook Pack,2,11.15,0,Credit Card,22.3
+ORD2309,2025-09-13,2025-09,Aisha Fernando,West,Electronics,Smartphone,10,554.47,5,Bank Transfer,5267.46
+ORD1697,2025-09-14,2025-09,Emma Lopez,West,Furniture,Office Chair,5,176.56,10,Bank Transfer,794.52
+ORD2004,2025-09-14,2025-09,Ravi Wong,North,Furniture,Office Chair,1,181.41,0,Credit Card,181.41
+ORD2122,2025-09-14,2025-09,Priya Silva,East,Apparel,T-Shirt,1,23.55,5,Credit Card,22.37
+ORD1291,2025-09-15,2025-09,Mia Khan,West,Stationery,Notebook Pack,3,11.56,5,Credit Card,32.95
+ORD1337,2025-09-15,2025-09,Liam Lopez,North,Stationery,Notebook Pack,13,11.98,0,Bank Transfer,155.74
+ORD1610,2025-09-15,2025-09,Lucas Silva,East,Apparel,Running Shoes,10,99.54,0,Debit Card,995.4
+ORD1707,2025-09-15,2025-09,Sofia Fernando,North,Stationery,Notebook Pack,1,12.73,10,Credit Card,11.46
+ORD1795,2025-09-15,2025-09,Emma Patel,East,Furniture,Bookshelf,8,139.755,0,Bank Transfer,1118.04
+ORD2421,2025-09-15,2025-09,Aisha Smith,West,Electronics,Smartphone,1,636.79,0,Debit Card,636.79
+ORD2450,2025-09-15,2025-09,Liam Kumar,North,Electronics,Headphones,2,126.26,5,Cash,239.89
+ORD1095,2025-09-16,2025-09,Zara Lopez,West,Apparel,T-Shirt,2,20.57,5,Debit Card,39.08
+ORD1406,2025-09-16,2025-09,Nimali Nguyen,South,Stationery,Printer Paper,1,23.33,5,Debit Card,22.16
+ORD1587,2025-09-16,2025-09,Olivia Johnson,West,Electronics,Smartphone,1,604.6,0,Credit Card,604.6
+ORD2132,2025-09-16,2025-09,Noah Lopez,Unknown,Electronics,Headphones,2,127.7,20,Bank Transfer,204.32
+ORD2293,2025-09-16,2025-09,Chen Garcia,South,Furniture,Office Chair,1,190.92,5,PayPal,181.37
+ORD1027,2025-09-17,2025-09,Emma Lopez,East,Electronics,Headphones,2,112.62,15,Bank Transfer,191.45
+ORD1815,2025-09-17,2025-09,Aisha Lopez,West,Electronics,Laptop,4,895.38,0,Bank Transfer,3581.52
+ORD2076,2025-09-17,2025-09,Aisha Kumar,West,Stationery,Pen Set,6,8.15,0,Bank Transfer,48.9
+ORD2443,2025-09-17,2025-09,Arjun Nguyen,East,Furniture,Office Chair,2,193.9,0,Bank Transfer,387.8
+ORD2455,2025-09-17,2025-09,Emma Fernando,North,Electronics,Laptop,4,853.18,0,Debit Card,3412.72
+ORD2475,2025-09-17,2025-09,Mia Smith,North,Apparel,Jacket,3,134.76,0,Credit Card,404.28
+ORD1075,2025-09-18,2025-09,Ethan Johnson,East,Apparel,Jacket,1,127.25,0,Credit Card,127.25
+ORD1331,2025-09-18,2025-09,Arjun Smith,South,Furniture,Bookshelf,5,144.36,0,Debit Card,721.8
+ORD1362,2025-09-18,2025-09,Ethan Wong,North,Apparel,Running Shoes,6,101.76,0,Credit Card,610.56
+ORD1078,2025-09-19,2025-09,Emma Silva,South,Apparel,Running Shoes,2,96.17,0,Cash,192.34
+ORD1718,2025-09-19,2025-09,Unknown,North,Electronics,Smartphone,1,620.35,10,Credit Card,558.32
+ORD1839,2025-09-19,2025-09,Priya Fernando,East,Apparel,Jacket,3,138.87,0,PayPal,416.61
+ORD1882,2025-09-19,2025-09,Priya Silva,South,Electronics,Headphones,3,111.33,0,Bank Transfer,333.99
+ORD1409,2025-09-20,2025-09,Zara Brown,North,Electronics,Headphones,2,122.66,0,Bank Transfer,245.32
+ORD1760,2025-09-20,2025-09,Unknown,East,Apparel,T-Shirt,2,22.47,0,Bank Transfer,44.94
+ORD1834,2025-09-20,2025-09,Liam Nguyen,South,Apparel,Jacket,2,136.81,10,Credit Card,246.26
+ORD2415,2025-09-20,2025-09,Lucas Brown,South,Electronics,Laptop,4,843.77,0,Debit Card,3375.08
+ORD2438,2025-09-20,2025-09,Chen Khan,North,Stationery,Pen Set,8,7.99,15,Bank Transfer,54.33
+ORD2486,2025-09-20,2025-09,Emma Ali,South,Apparel,T-Shirt,1,22.68,0,PayPal,22.68
+ORD1774,2025-09-21,2025-09,Emma Silva,North,Electronics,Headphones,2,127.83,10,PayPal,230.09
+ORD1787,2025-09-21,2025-09,Noah Smith,South,Furniture,Bookshelf,3,131.98,0,Bank Transfer,395.94
+ORD1577,2025-09-22,2025-09,Liam Silva,North,Furniture,Office Chair,5,183.32,0,PayPal,916.6
+ORD1654,2025-09-22,2025-09,Olivia Smith,West,Apparel,Running Shoes,5,89.2,0,Debit Card,446.0
+ORD1687,2025-09-22,2025-09,Unknown,West,Electronics,Headphones,3,120.87,0,Cash,362.61
+ORD1827,2025-09-22,2025-09,Ethan Garcia,Unknown,Furniture,Office Chair,1,188.47,0,PayPal,188.47
+ORD1862,2025-09-22,2025-09,Arjun Nguyen,South,Stationery,Printer Paper,2,25.34,5,Credit Card,48.15
+ORD2030,2025-09-22,2025-09,Unknown,East,Stationery,Notebook Pack,1,12.16,0,PayPal,12.16
+ORD2463,2025-09-22,2025-09,Noah Smith,Unknown,Electronics,Laptop,8,788.62,0,Cash,6308.96
+ORD1339,2025-09-23,2025-09,Sofia Lopez,North,Furniture,Bookshelf,3,149.53,0,Cash,448.59
+ORD1494,2025-09-23,2025-09,Arjun Brown,East,Stationery,Printer Paper,2,26.27,0,PayPal,52.54
+ORD1544,2025-09-23,2025-09,Ravi Perera,North,Furniture,Office Chair,2,187.38,0,Cash,374.76
+ORD1861,2025-09-23,2025-09,Sofia Khan,North,Apparel,Jacket,1,138.08,5,Bank Transfer,131.18
+ORD2483,2025-09-23,2025-09,Ethan Lopez,Unknown,Stationery,Printer Paper,1,26.2,0,Unknown,26.2
+ORD1407,2025-09-24,2025-09,Ravi Smith,South,Furniture,Bookshelf,3,134.92,20,Bank Transfer,323.81
+ORD1425,2025-09-24,2025-09,Arjun Silva,East,Apparel,Jacket,5,120.42,0,Cash,602.1
+ORD1717,2025-09-24,2025-09,Priya Nguyen,South,Apparel,Jacket,3,136.83,0,Debit Card,410.49
+ORD2081,2025-09-24,2025-09,Sofia Perera,East,Electronics,Smartphone,2,593.18,5,Debit Card,1127.04
+ORD2147,2025-09-24,2025-09,Lucas Johnson,South,Furniture,Office Chair,8,192.36,0,Cash,1538.88
+ORD2311,2025-09-24,2025-09,Chen Kumar,West,Apparel,Jacket,8,123.37,5,Debit Card,937.61
+ORD1737,2025-09-25,2025-09,Emma Silva,South,Stationery,Printer Paper,1,26.64,10,PayPal,23.98
+ORD1997,2025-09-25,2025-09,Unknown,West,Stationery,Printer Paper,4,26.45,0,Bank Transfer,105.8
+ORD2079,2025-09-25,2025-09,Emma Perera,West,Stationery,Notebook Pack,2,11.49,0,Credit Card,22.98
+ORD2302,2025-09-25,2025-09,Noah Smith,South,Stationery,Pen Set,1,8.97,0,PayPal,8.97
+ORD2418,2025-09-25,2025-09,Zara Patel,North,Furniture,Office Chair,1,175.37,5,Bank Transfer,166.6
+ORD1271,2025-09-26,2025-09,Kasun Garcia,East,Stationery,Pen Set,10,8.96,0,Cash,89.6
+ORD1914,2025-09-26,2025-09,Sofia Garcia,West,Stationery,Notebook Pack,1,11.74,0,Bank Transfer,11.74
+ORD1981,2025-09-26,2025-09,Liam Garcia,South,Furniture,Standing Desk,1,426.82,0,Cash,426.82
+ORD1988,2025-09-26,2025-09,Arjun Khan,North,Apparel,Running Shoes,2,92.5,20,Cash,148.0
+ORD2260,2025-09-26,2025-09,Lucas Smith,West,Stationery,Pen Set,3,8.71,15,Credit Card,22.21
+ORD1178,2025-09-27,2025-09,Unknown,South,Electronics,Smartphone,10,647.68,5,PayPal,6152.96
+ORD2416,2025-09-27,2025-09,Noah Patel,West,Stationery,Pen Set,8,8.16,0,Debit Card,65.28
+ORD1286,2025-09-28,2025-09,Zara Fernando,South,Stationery,Printer Paper,1,23.15,0,Bank Transfer,23.15
+ORD1405,2025-09-28,2025-09,Mia Smith,North,Stationery,Pen Set,1,8.9,5,Credit Card,8.46
+ORD2136,2025-09-28,2025-09,Liam Garcia,North,Electronics,Headphones,5,126.87,0,Debit Card,634.35
+ORD1094,2025-09-29,2025-09,Lucas Kumar,West,Apparel,Jacket,5,138.11,0,Bank Transfer,690.55
+ORD1186,2025-09-29,2025-09,Zara Nguyen,South,Furniture,Office Chair,2,169.46,0,Debit Card,338.92
+ORD1228,2025-09-29,2025-09,Sofia Brown,West,Apparel,Running Shoes,1,90.0,5,Credit Card,85.5
+ORD1242,2025-09-29,2025-09,Nimali Silva,West,Electronics,Smartphone,4,607.15,10,PayPal,2185.74
+ORD1431,2025-09-29,2025-09,Olivia Silva,South,Stationery,Printer Paper,2,23.53,5,Cash,44.71
+ORD1548,2025-09-29,2025-09,Aisha Nguyen,South,Electronics,Smartphone,5,602.01,5,PayPal,2859.55
+ORD1584,2025-09-29,2025-09,Arjun Silva,West,Furniture,Office Chair,1,181.02,0,Credit Card,181.02
+ORD1612,2025-09-29,2025-09,Mia Kumar,South,Stationery,Pen Set,4,8.92,5,Debit Card,33.9
+ORD2005,2025-09-29,2025-09,Sofia Garcia,West,Furniture,Office Chair,2,175.77,5,PayPal,333.96
+ORD2390,2025-09-29,2025-09,Zara Fernando,East,Apparel,T-Shirt,1,21.35,0,Credit Card,21.35
+ORD1366,2025-09-30,2025-09,Unknown,East,Stationery,Printer Paper,1,23.88,0,PayPal,23.88
+ORD2107,2025-09-30,2025-09,Unknown,West,Stationery,Pen Set,5,8.87,5,Debit Card,42.13
+ORD2141,2025-09-30,2025-09,Arjun Silva,West,Stationery,Pen Set,4,8.67,10,PayPal,31.21
+ORD2230,2025-09-30,2025-09,Sofia Brown,East,Apparel,T-Shirt,2,20.47,0,Credit Card,40.94
+ORD1181,2025-10-01,2025-10,Ethan Garcia,West,Apparel,Jacket,8,132.21,0,Bank Transfer,1057.68
+ORD1284,2025-10-01,2025-10,Arjun Patel,West,Furniture,Office Chair,3,167.53,10,Debit Card,452.33
+ORD1438,2025-10-01,2025-10,Mia Patel,East,Stationery,Pen Set,6,8.56,10,Cash,46.22
+ORD1133,2025-10-02,2025-10,Kasun Khan,South,Electronics,Smartphone,6,593.18,10,PayPal,3203.17
+ORD1204,2025-10-02,2025-10,Unknown,East,Furniture,Standing Desk,4,389.04,10,Cash,1400.54
+ORD1491,2025-10-02,2025-10,Noah Smith,South,Apparel,T-Shirt,3,22.84,15,Cash,58.24
+ORD1780,2025-10-02,2025-10,Ethan Smith,East,Stationery,Printer Paper,2,23.48,0,Debit Card,46.96
+ORD2166,2025-10-02,2025-10,Mia Garcia,East,Apparel,Running Shoes,1,94.785,15,PayPal,80.57
+ORD1513,2025-10-03,2025-10,Kasun Wong,South,Apparel,Jacket,1,133.77,0,PayPal,133.77
+ORD2029,2025-10-03,2025-10,Ethan Ali,North,Stationery,Printer Paper,4,25.72,0,Bank Transfer,102.88
+ORD2432,2025-10-03,2025-10,Nimali Smith,East,Apparel,Jacket,6,127.84,0,PayPal,767.04
+ORD1153,2025-10-04,2025-10,Chen Brown,North,Stationery,Printer Paper,1,24.87,0,Bank Transfer,24.87
+ORD1785,2025-10-04,2025-10,Sofia Perera,Unknown,Furniture,Standing Desk,3,445.11,10,Bank Transfer,1201.8
+ORD1912,2025-10-04,2025-10,Priya Wong,West,Stationery,Pen Set,8,9.1,10,Debit Card,65.52
+ORD1913,2025-10-04,2025-10,Kasun Nguyen,West,Apparel,T-Shirt,10,22.16,20,Unknown,177.28
+ORD2087,2025-10-04,2025-10,Ravi Perera,South,Furniture,Bookshelf,2,148.86,0,Credit Card,297.72
+ORD2159,2025-10-04,2025-10,Zara Khan,North,Electronics,Headphones,5,125.81,20,PayPal,503.24
+ORD2193,2025-10-04,2025-10,Arjun Brown,South,Furniture,Bookshelf,1,139.76,10,Cash,125.78
+ORD2313,2025-10-04,2025-10,Aisha Kumar,North,Furniture,Bookshelf,2,132.39,0,PayPal,264.78
+ORD1101,2025-10-05,2025-10,Ravi Silva,North,Furniture,Bookshelf,1,140.7,5,Debit Card,133.66
+ORD1302,2025-10-06,2025-10,Aisha Silva,Unknown,Stationery,Printer Paper,3,24.69,15,Credit Card,62.96
+ORD1647,2025-10-06,2025-10,Ethan Fernando,East,Apparel,Jacket,2,121.2,0,Unknown,242.4
+ORD1825,2025-10-06,2025-10,Kasun Silva,West,Apparel,Running Shoes,6,98.38,5,Cash,560.77
+ORD2102,2025-10-06,2025-10,Arjun Fernando,North,Furniture,Bookshelf,2,133.73,0,Bank Transfer,267.46
+ORD1104,2025-10-07,2025-10,Arjun Brown,South,Stationery,Printer Paper,1,24.76,0,Unknown,24.76
+ORD1190,2025-10-07,2025-10,Kasun Smith,West,Apparel,Jacket,2,138.41,0,Cash,276.82
+ORD1581,2025-10-07,2025-10,Arjun Fernando,Unknown,Apparel,T-Shirt,5,22.82,10,PayPal,102.69
+ORD1634,2025-10-07,2025-10,Ethan Smith,West,Furniture,Bookshelf,5,141.21,0,Bank Transfer,706.05
+ORD1907,2025-10-08,2025-10,Liam Perera,West,Stationery,Pen Set,5,7.85,15,Bank Transfer,33.36
+ORD1131,2025-10-09,2025-10,Lucas Garcia,West,Apparel,T-Shirt,10,21.69,0,Credit Card,216.9
+ORD1598,2025-10-09,2025-10,Arjun Smith,West,Apparel,T-Shirt,2,22.04,5,Credit Card,41.88
+ORD1607,2025-10-09,2025-10,Chen Perera,North,Stationery,Notebook Pack,3,11.77,0,Unknown,35.31
+ORD1778,2025-10-09,2025-10,Mia Smith,East,Apparel,Running Shoes,1,94.785,5,Bank Transfer,90.05
+ORD1967,2025-10-09,2025-10,Lucas Lopez,East,Furniture,Bookshelf,2,129.64,0,Unknown,259.28
+ORD2053,2025-10-09,2025-10,Noah Patel,West,Stationery,Notebook Pack,8,12.135,10,Debit Card,87.37
+ORD2111,2025-10-09,2025-10,Liam Perera,East,Furniture,Bookshelf,3,145.43,0,Credit Card,436.29
+ORD1066,2025-10-10,2025-10,Olivia Silva,South,Apparel,Running Shoes,2,98.43,15,Credit Card,167.33
+ORD1437,2025-10-10,2025-10,Lucas Kumar,West,Furniture,Office Chair,2,189.07,0,PayPal,378.14
+ORD1658,2025-10-10,2025-10,Lucas Lopez,East,Stationery,Notebook Pack,5,11.56,5,Bank Transfer,54.91
+ORD1024,2025-10-11,2025-10,Aisha Johnson,North,Furniture,Standing Desk,10,438.29,0,Bank Transfer,4382.9
+ORD1268,2025-10-11,2025-10,Liam Brown,South,Apparel,Running Shoes,1,96.16,5,Cash,91.35
+ORD1641,2025-10-11,2025-10,Priya Johnson,East,Apparel,T-Shirt,4,20.25,5,Cash,76.95
+ORD2263,2025-10-11,2025-10,Chen Perera,Unknown,Furniture,Standing Desk,3,417.58,0,Bank Transfer,1252.74
+ORD1775,2025-10-12,2025-10,Priya Fernando,South,Furniture,Standing Desk,2,407.19,10,Bank Transfer,732.94
+ORD1799,2025-10-12,2025-10,Olivia Smith,North,Stationery,Printer Paper,6,24.38,0,Credit Card,146.28
+ORD1973,2025-10-12,2025-10,Olivia Smith,North,Stationery,Printer Paper,4,26.39,0,PayPal,105.56
+ORD1426,2025-10-13,2025-10,Kasun Johnson,West,Electronics,Laptop,1,814.92,20,PayPal,651.94
+ORD1692,2025-10-13,2025-10,Unknown,North,Apparel,Jacket,13,137.9,15,PayPal,1523.8
+ORD2047,2025-10-13,2025-10,Nimali Perera,Unknown,Apparel,Jacket,3,121.02,0,Unknown,363.06
+ORD2373,2025-10-13,2025-10,Arjun Smith,West,Electronics,Laptop,8,837.3,0,Debit Card,6698.4
+ORD1747,2025-10-14,2025-10,Chen Ali,East,Furniture,Bookshelf,1,134.17,10,Credit Card,120.75
+ORD2225,2025-10-14,2025-10,Noah Wong,South,Apparel,Jacket,4,121.92,5,Debit Card,463.3
+ORD1349,2025-10-15,2025-10,Emma Garcia,South,Stationery,Printer Paper,6,25.46,0,PayPal,152.76
+ORD1516,2025-10-15,2025-10,Chen Silva,West,Stationery,Notebook Pack,2,12.59,5,PayPal,23.92
+ORD1625,2025-10-15,2025-10,Mia Khan,South,Apparel,T-Shirt,2,23.2,10,PayPal,41.76
+ORD1763,2025-10-15,2025-10,Unknown,West,Furniture,Bookshelf,10,136.22,0,Bank Transfer,1362.2
+ORD1920,2025-10-15,2025-10,Zara Silva,South,Stationery,Notebook Pack,6,12.4,0,Debit Card,74.4
+ORD1107,2025-10-16,2025-10,Unknown,West,Apparel,Running Shoes,1,91.2,5,Debit Card,86.64
+ORD2058,2025-10-16,2025-10,Chen Wong,West,Apparel,Running Shoes,1,89.82,0,PayPal,89.82
+ORD2400,2025-10-16,2025-10,Nimali Nguyen,North,Furniture,Standing Desk,1,416.17,5,Bank Transfer,395.36
+ORD2413,2025-10-16,2025-10,Zara Smith,West,Furniture,Standing Desk,1,437.91,10,Cash,394.12
+ORD2494,2025-10-17,2025-10,Ravi Garcia,West,Furniture,Standing Desk,3,397.25,0,Unknown,1191.75
+ORD1588,2025-10-18,2025-10,Liam Silva,South,Apparel,Running Shoes,13,88.89,0,Debit Card,1155.57
+ORD1660,2025-10-18,2025-10,Emma Smith,North,Electronics,Headphones,2,127.16,10,Cash,228.89
+ORD1803,2025-10-18,2025-10,Liam Lopez,West,Apparel,Jacket,2,124.13,20,Bank Transfer,198.61
+ORD2123,2025-10-18,2025-10,Chen Ali,East,Electronics,Laptop,2,818.65,0,Credit Card,1637.3
+ORD2376,2025-10-18,2025-10,Emma Perera,West,Electronics,Headphones,4,123.45,15,Debit Card,419.73
+ORD1671,2025-10-19,2025-10,Aisha Fernando,South,Stationery,Printer Paper,1,23.25,15,Debit Card,19.76
+ORD2317,2025-10-19,2025-10,Chen Johnson,West,Electronics,Smartphone,1,574.45,0,PayPal,574.45
+ORD1576,2025-10-20,2025-10,Mia Smith,North,Electronics,Smartphone,3,600.9,20,Unknown,1442.16
+ORD1690,2025-10-20,2025-10,Nimali Garcia,South,Apparel,T-Shirt,2,20.82,0,Bank Transfer,41.64
+ORD1956,2025-10-20,2025-10,Ethan Johnson,West,Electronics,Laptop,3,852.27,10,Bank Transfer,2301.13
+ORD2328,2025-10-20,2025-10,Ethan Garcia,North,Stationery,Notebook Pack,5,11.47,0,Unknown,57.35
+ORD1323,2025-10-21,2025-10,Olivia Wong,East,Electronics,Smartphone,3,580.52,5,PayPal,1654.48
+ORD1627,2025-10-21,2025-10,Ethan Lopez,North,Apparel,T-Shirt,1,22.23,5,Debit Card,21.12
+ORD2478,2025-10-21,2025-10,Olivia Ali,West,Apparel,Jacket,3,129.48,15,Bank Transfer,330.17
+ORD1254,2025-10-22,2025-10,Zara Nguyen,West,Furniture,Bookshelf,5,132.2,0,PayPal,661.0
+ORD2270,2025-10-22,2025-10,Aisha Lopez,Unknown,Stationery,Printer Paper,2,23.2,0,Debit Card,46.4
+ORD2368,2025-10-22,2025-10,Noah Smith,South,Furniture,Bookshelf,2,141.08,0,Debit Card,282.16
+ORD1010,2025-10-23,2025-10,Nimali Ali,North,Furniture,Bookshelf,2,142.07,0,Credit Card,284.14
+ORD1964,2025-10-23,2025-10,Unknown,West,Apparel,Jacket,5,126.51,5,Unknown,600.92
+ORD1116,2025-10-24,2025-10,Aisha Patel,West,Electronics,Smartphone,3,612.97,0,PayPal,1838.91
+ORD1369,2025-10-24,2025-10,Arjun Ali,North,Apparel,Jacket,10,123.22,0,Bank Transfer,1232.2
+ORD1805,2025-10-25,2025-10,Chen Garcia,East,Apparel,T-Shirt,2,20.34,5,Debit Card,38.65
+ORD2351,2025-10-25,2025-10,Priya Brown,North,Apparel,Jacket,8,133.93,10,Unknown,964.3
+ORD2477,2025-10-25,2025-10,Arjun Garcia,West,Apparel,T-Shirt,1,23.05,5,Unknown,21.9
+ORD1020,2025-10-26,2025-10,Ethan Garcia,South,Stationery,Notebook Pack,1,11.13,0,Debit Card,11.13
+ORD1399,2025-10-26,2025-10,Aisha Patel,East,Furniture,Standing Desk,1,444.97,20,Debit Card,355.98
+ORD2218,2025-10-26,2025-10,Aisha Brown,West,Apparel,T-Shirt,2,23.15,0,Debit Card,46.3
+ORD2321,2025-10-26,2025-10,Aisha Kumar,East,Apparel,T-Shirt,3,21.62,0,PayPal,64.86
+ORD2382,2025-10-26,2025-10,Ravi Smith,North,Furniture,Bookshelf,5,149.37,5,PayPal,709.51
+ORD1157,2025-10-27,2025-10,Zara Johnson,Unknown,Electronics,Headphones,1,128.89,0,PayPal,128.89
+ORD1591,2025-10-27,2025-10,Emma Fernando,North,Electronics,Headphones,2,118.78999999999999,15,Debit Card,201.94
+ORD2435,2025-10-27,2025-10,Arjun Khan,East,Stationery,Pen Set,4,8.62,10,Bank Transfer,31.03
+ORD1460,2025-10-28,2025-10,Olivia Kumar,West,Furniture,Office Chair,2,175.95,5,Credit Card,334.3
+ORD1558,2025-10-28,2025-10,Noah Perera,East,Electronics,Laptop,6,900.06,10,Debit Card,4860.32
+ORD2423,2025-10-28,2025-10,Ravi Kumar,West,Furniture,Bookshelf,3,139.755,10,Unknown,377.34
+ORD1134,2025-10-29,2025-10,Sofia Smith,South,Furniture,Standing Desk,4,393.33,15,Cash,1337.32
+ORD1149,2025-10-29,2025-10,Nimali Silva,North,Apparel,Jacket,5,139.3,20,Bank Transfer,557.2
+ORD1651,2025-10-29,2025-10,Arjun Wong,North,Stationery,Notebook Pack,1,12.135,5,PayPal,11.53
+ORD1754,2025-10-29,2025-10,Olivia Brown,North,Apparel,Jacket,2,135.7,5,Bank Transfer,257.83
+ORD1846,2025-10-29,2025-10,Emma Silva,South,Furniture,Bookshelf,5,145.39,0,Cash,726.95
+ORD2045,2025-10-29,2025-10,Chen Brown,West,Furniture,Office Chair,2,181.27,0,PayPal,362.54
+ORD2491,2025-10-29,2025-10,Unknown,East,Electronics,Headphones,6,129.44,0,Cash,776.64
+ORD1177,2025-10-30,2025-10,Lucas Lopez,North,Stationery,Printer Paper,1,26.46,10,PayPal,23.81
+ORD1733,2025-10-30,2025-10,Chen Kumar,West,Stationery,Notebook Pack,2,12.135,5,Debit Card,23.06
+ORD1832,2025-10-30,2025-10,Kasun Johnson,Unknown,Furniture,Office Chair,2,180.32,0,Credit Card,360.64
+ORD1840,2025-10-30,2025-10,Noah Khan,West,Apparel,Running Shoes,2,97.85,10,PayPal,176.13
+ORD2101,2025-10-30,2025-10,Zara Kumar,West,Apparel,T-Shirt,2,23.75,5,Bank Transfer,45.12
+ORD2212,2025-10-30,2025-10,Olivia Nguyen,North,Furniture,Office Chair,2,168.3,0,Debit Card,336.6
+ORD1485,2025-10-31,2025-10,Kasun Johnson,North,Furniture,Office Chair,6,182.03,0,PayPal,1092.18
+ORD1615,2025-10-31,2025-10,Lucas Kumar,Unknown,Furniture,Office Chair,2,183.25,15,Bank Transfer,311.52
+ORD2172,2025-10-31,2025-10,Arjun Brown,West,Apparel,T-Shirt,5,23.24,15,Credit Card,98.77
+ORD2238,2025-10-31,2025-10,Ravi Brown,East,Stationery,Pen Set,4,8.78,5,Bank Transfer,33.36
+ORD1481,2025-11-01,2025-11,Olivia Patel,East,Apparel,Jacket,10,121.55,0,Credit Card,1215.5
+ORD1983,2025-11-01,2025-11,Unknown,West,Stationery,Pen Set,2,8.51,0,Cash,17.02
+ORD2080,2025-11-01,2025-11,Unknown,West,Apparel,Jacket,8,132.42,5,Unknown,1006.39
+ORD1077,2025-11-02,2025-11,Zara Garcia,East,Electronics,Smartphone,6,612.59,10,PayPal,3307.99
+ORD1800,2025-11-02,2025-11,Ethan Wong,North,Apparel,Running Shoes,1,97.22,5,Debit Card,92.36
+ORD2259,2025-11-03,2025-11,Noah Fernando,South,Apparel,Running Shoes,3,101.56,10,Unknown,274.21
+ORD2046,2025-11-04,2025-11,Aisha Khan,East,Electronics,Smartphone,3,623.32,10,Bank Transfer,1682.96
+ORD2375,2025-11-04,2025-11,Priya Fernando,North,Stationery,Notebook Pack,4,12.77,10,Cash,45.97
+ORD2379,2025-11-04,2025-11,Nimali Lopez,East,Furniture,Office Chair,3,166.07,10,Debit Card,448.39
+ORD1004,2025-11-05,2025-11,Aisha Wong,South,Stationery,Printer Paper,4,23.08,0,Bank Transfer,92.32
+ORD1060,2025-11-06,2025-11,Nimali Ali,East,Furniture,Standing Desk,2,449.35,0,Credit Card,898.7
+ORD1828,2025-11-06,2025-11,Aisha Wong,South,Stationery,Pen Set,3,9.1,0,PayPal,27.3
+ORD2021,2025-11-06,2025-11,Chen Ali,East,Stationery,Printer Paper,1,23.37,5,PayPal,22.2
+ORD2119,2025-11-06,2025-11,Zara Nguyen,South,Apparel,T-Shirt,1,20.51,5,Credit Card,19.48
+ORD2208,2025-11-06,2025-11,Unknown,South,Furniture,Standing Desk,1,401.06,15,Bank Transfer,340.9
+ORD2425,2025-11-06,2025-11,Priya Lopez,North,Apparel,T-Shirt,1,21.92,5,Unknown,20.82
+ORD1033,2025-11-07,2025-11,Zara Khan,South,Stationery,Printer Paper,3,24.71,0,Cash,74.13
+ORD1115,2025-11-07,2025-11,Emma Kumar,South,Apparel,Running Shoes,1,93.99,0,Cash,93.99
+ORD1246,2025-11-07,2025-11,Ravi Silva,East,Stationery,Pen Set,6,8.35,10,Debit Card,45.09
+ORD1813,2025-11-07,2025-11,Noah Lopez,East,Apparel,Jacket,2,126.68,5,Debit Card,240.69
+ORD2495,2025-11-07,2025-11,Olivia Kumar,South,Apparel,T-Shirt,3,22.25,0,Bank Transfer,66.75
+ORD1296,2025-11-08,2025-11,Zara Smith,East,Apparel,T-Shirt,1,22.54,0,Bank Transfer,22.54
+ORD1662,2025-11-08,2025-11,Chen Perera,South,Apparel,Running Shoes,2,89.43,0,Cash,178.86
+ORD1681,2025-11-08,2025-11,Sofia Ali,East,Furniture,Standing Desk,6,424.11,5,PayPal,2417.43
+ORD1124,2025-11-09,2025-11,Ethan Garcia,North,Apparel,Running Shoes,1,88.93,0,Unknown,88.93
+ORD1751,2025-11-09,2025-11,Nimali Khan,North,Furniture,Standing Desk,1,447.53,5,PayPal,425.15
+ORD2059,2025-11-09,2025-11,Unknown,East,Electronics,Headphones,1,113.96,5,Debit Card,108.26
+ORD2158,2025-11-09,2025-11,Ethan Fernando,West,Furniture,Office Chair,5,183.16,5,Credit Card,870.01
+ORD1373,2025-11-10,2025-11,Chen Lopez,North,Stationery,Printer Paper,1,26.51,0,Debit Card,26.51
+ORD1953,2025-11-10,2025-11,Sofia Garcia,West,Electronics,Headphones,1,111.15,0,Cash,111.15
+ORD2032,2025-11-10,2025-11,Liam Ali,South,Furniture,Standing Desk,5,399.07,5,PayPal,1895.58
+ORD2222,2025-11-10,2025-11,Nimali Kumar,North,Apparel,T-Shirt,1,22.18,0,Bank Transfer,22.18
+ORD1402,2025-11-11,2025-11,Arjun Khan,South,Furniture,Bookshelf,2,139.75,10,PayPal,251.55
+ORD1503,2025-11-11,2025-11,Nimali Brown,Unknown,Electronics,Laptop,3,854.57,5,PayPal,2435.52
+ORD1856,2025-11-11,2025-11,Liam Fernando,West,Stationery,Printer Paper,1,23.93,0,Credit Card,23.93
+ORD1900,2025-11-11,2025-11,Sofia Brown,South,Stationery,Notebook Pack,2,12.53,10,Debit Card,22.55
+ORD1365,2025-11-12,2025-11,Sofia Nguyen,East,Stationery,Notebook Pack,3,12.02,0,Bank Transfer,36.06
+ORD1383,2025-11-12,2025-11,Arjun Khan,North,Electronics,Smartphone,5,615.21,15,Bank Transfer,2614.64
+ORD2093,2025-11-12,2025-11,Priya Garcia,West,Electronics,Headphones,5,119.71,0,Debit Card,598.55
+ORD2133,2025-11-12,2025-11,Priya Patel,East,Electronics,Headphones,5,126.62,0,Credit Card,633.1
+ORD2197,2025-11-12,2025-11,Ravi Perera,North,Furniture,Bookshelf,1,133.2,20,Credit Card,106.56
+ORD1142,2025-11-13,2025-11,Unknown,West,Apparel,Running Shoes,2,88.27,5,PayPal,167.71
+ORD1182,2025-11-13,2025-11,Noah Khan,East,Electronics,Laptop,4,866.07,0,Debit Card,3464.28
+ORD1344,2025-11-13,2025-11,Aisha Brown,East,Stationery,Notebook Pack,5,11.11,5,Cash,52.77
+ORD1745,2025-11-13,2025-11,Sofia Wong,South,Apparel,Running Shoes,6,100.35,5,PayPal,571.99
+ORD1782,2025-11-13,2025-11,Chen Wong,North,Furniture,Office Chair,2,192.72,5,Credit Card,366.17
+ORD1206,2025-11-14,2025-11,Lucas Nguyen,South,Electronics,Laptop,8,790.31,0,Credit Card,6322.48
+ORD1951,2025-11-14,2025-11,Mia Kumar,South,Electronics,Laptop,3,814.69,0,Cash,2444.07
+ORD2043,2025-11-15,2025-11,Priya Perera,West,Electronics,Laptop,3,793.04,20,PayPal,1903.3
+ORD1282,2025-11-16,2025-11,Kasun Ali,West,Apparel,T-Shirt,10,20.76,0,Credit Card,207.6
+ORD1342,2025-11-16,2025-11,Lucas Lopez,North,Apparel,Jacket,10,139.24,0,Credit Card,1392.4
+ORD1360,2025-11-16,2025-11,Emma Fernando,North,Furniture,Standing Desk,4,401.07,15,PayPal,1363.64
+ORD1992,2025-11-16,2025-11,Olivia Brown,North,Stationery,Pen Set,4,8.34,0,Debit Card,33.36
+ORD2131,2025-11-16,2025-11,Aisha Patel,West,Apparel,T-Shirt,2,23.4,15,Credit Card,39.78
+ORD2337,2025-11-16,2025-11,Ravi Johnson,South,Furniture,Standing Desk,4,390.21,0,Credit Card,1560.84
+ORD1478,2025-11-17,2025-11,Chen Nguyen,South,Apparel,T-Shirt,2,21.96,5,PayPal,41.72
+ORD1644,2025-11-17,2025-11,Chen Khan,North,Apparel,Jacket,1,131.66,5,Credit Card,125.08
+ORD1910,2025-11-17,2025-11,Olivia Fernando,South,Stationery,Pen Set,1,8.16,0,Credit Card,8.16
+ORD2042,2025-11-17,2025-11,Kasun Smith,South,Furniture,Standing Desk,2,435.64,5,Debit Card,827.72
+ORD2071,2025-11-17,2025-11,Kasun Nguyen,West,Stationery,Notebook Pack,1,12.33,0,Debit Card,12.33
+ORD2340,2025-11-17,2025-11,Liam Wong,South,Apparel,T-Shirt,6,21.29,0,Cash,127.74
+ORD1022,2025-11-18,2025-11,Kasun Kumar,West,Electronics,Headphones,2,115.79,5,Bank Transfer,220.0
+ORD1262,2025-11-18,2025-11,Chen Brown,West,Electronics,Headphones,2,113.89,15,Bank Transfer,193.61
+ORD2308,2025-11-18,2025-11,Olivia Perera,North,Furniture,Office Chair,2,188.16,0,Credit Card,376.32
+ORD1090,2025-11-19,2025-11,Nimali Ali,West,Stationery,Notebook Pack,4,11.73,0,PayPal,46.92
+ORD1936,2025-11-19,2025-11,Liam Ali,North,Electronics,Headphones,10,124.94,0,Cash,1249.4
+ORD2056,2025-11-19,2025-11,Noah Brown,East,Apparel,Running Shoes,2,101.49,0,PayPal,202.98
+ORD2500,2025-11-19,2025-11,Sofia Wong,North,Apparel,Running Shoes,2,91.37,0,Bank Transfer,182.74
+ORD2167,2025-11-20,2025-11,Noah Garcia,East,Electronics,Laptop,1,882.29,0,Unknown,882.29
+ORD2186,2025-11-20,2025-11,Ethan Kumar,South,Electronics,Smartphone,3,578.27,0,Credit Card,1734.81
+ORD2362,2025-11-20,2025-11,Lucas Kumar,West,Stationery,Pen Set,4,8.12,0,Credit Card,32.48
+ORD1061,2025-11-21,2025-11,Priya Wong,West,Apparel,Jacket,2,121.96,15,Cash,207.33
+ORD1259,2025-11-21,2025-11,Emma Wong,South,Stationery,Printer Paper,5,23.6,0,Cash,118.0
+ORD1701,2025-11-21,2025-11,Liam Perera,West,Furniture,Bookshelf,8,140.74,0,Cash,1125.92
+ORD1798,2025-11-21,2025-11,Olivia Patel,West,Furniture,Standing Desk,1,415.33,0,Credit Card,415.33
+ORD2126,2025-11-21,2025-11,Sofia Nguyen,North,Apparel,Jacket,5,135.43,0,Cash,677.15
+ORD2220,2025-11-21,2025-11,Aisha Lopez,North,Apparel,T-Shirt,2,22.41,15,PayPal,38.1
+ORD1014,2025-11-22,2025-11,Kasun Wong,South,Apparel,Running Shoes,2,89.25,0,Debit Card,178.5
+ORD1263,2025-11-22,2025-11,Lucas Lopez,East,Apparel,Jacket,3,127.94,0,Debit Card,383.82
+ORD1340,2025-11-22,2025-11,Priya Fernando,East,Furniture,Office Chair,3,191.97,0,Bank Transfer,575.91
+ORD1630,2025-11-22,2025-11,Noah Lopez,East,Electronics,Headphones,1,124.35,20,PayPal,99.48
+ORD1674,2025-11-22,2025-11,Emma Johnson,North,Stationery,Notebook Pack,3,12.89,5,Debit Card,36.74
+ORD2472,2025-11-22,2025-11,Kasun Perera,North,Furniture,Bookshelf,3,138.0,0,Bank Transfer,414.0
+ORD2484,2025-11-22,2025-11,Zara Brown,West,Stationery,Pen Set,4,8.39,5,PayPal,31.88
+ORD1384,2025-11-23,2025-11,Arjun Perera,North,Furniture,Office Chair,6,186.0,10,PayPal,1004.4
+ORD1836,2025-11-23,2025-11,Aisha Ali,East,Apparel,Running Shoes,1,100.38,0,Credit Card,100.38
+ORD1937,2025-11-23,2025-11,Sofia Khan,East,Stationery,Pen Set,2,8.8,0,Credit Card,17.6
+ORD2062,2025-11-23,2025-11,Nimali Perera,South,Stationery,Printer Paper,1,25.06,5,Cash,23.81
+ORD2144,2025-11-23,2025-11,Mia Lopez,West,Stationery,Printer Paper,3,25.32,20,Unknown,60.77
+ORD1712,2025-11-24,2025-11,Unknown,North,Stationery,Notebook Pack,3,12.42,15,Bank Transfer,31.67
+ORD1959,2025-11-24,2025-11,Liam Garcia,West,Stationery,Pen Set,5,8.47,0,Cash,42.35
+ORD2162,2025-11-24,2025-11,Aisha Perera,West,Apparel,Jacket,3,131.73,5,Cash,375.43
+ORD1025,2025-11-25,2025-11,Lucas Smith,East,Furniture,Standing Desk,1,441.2,10,PayPal,397.08
+ORD1794,2025-11-25,2025-11,Noah Kumar,North,Electronics,Laptop,5,893.85,15,Credit Card,3798.86
+ORD2465,2025-11-25,2025-11,Olivia Nguyen,North,Apparel,Jacket,3,120.55,15,Bank Transfer,307.4
+ORD1306,2025-11-26,2025-11,Kasun Lopez,West,Furniture,Bookshelf,2,135.4,15,PayPal,230.18
+ORD2173,2025-11-26,2025-11,Sofia Brown,West,Stationery,Printer Paper,1,24.54,0,Credit Card,24.54
+ORD2468,2025-11-26,2025-11,Nimali Wong,West,Stationery,Pen Set,2,8.15,0,Cash,16.3
+ORD1260,2025-11-27,2025-11,Olivia Khan,North,Furniture,Bookshelf,4,144.93,0,Debit Card,579.72
+ORD1267,2025-11-27,2025-11,Noah Nguyen,West,Electronics,Smartphone,4,640.56,10,PayPal,2306.02
+ORD1414,2025-11-27,2025-11,Zara Garcia,West,Apparel,Jacket,1,137.67,10,PayPal,123.9
+ORD1554,2025-11-27,2025-11,Liam Kumar,South,Furniture,Standing Desk,2,426.76,5,PayPal,810.84
+ORD1921,2025-11-27,2025-11,Ethan Lopez,Unknown,Apparel,T-Shirt,1,20.27,0,Debit Card,20.27
+ORD1943,2025-11-27,2025-11,Olivia Ali,North,Furniture,Bookshelf,4,130.94,0,Debit Card,523.76
+ORD2267,2025-11-27,2025-11,Arjun Perera,North,Apparel,T-Shirt,1,21.905,0,Cash,21.9
+ORD1150,2025-11-28,2025-11,Olivia Patel,South,Furniture,Office Chair,4,176.44,0,Credit Card,705.76
+ORD1310,2025-11-28,2025-11,Nimali Patel,East,Electronics,Laptop,3,868.15,0,Credit Card,2604.45
+ORD1492,2025-11-28,2025-11,Liam Nguyen,West,Electronics,Headphones,2,116.68,5,Cash,221.69
+ORD1500,2025-11-28,2025-11,Emma Johnson,South,Furniture,Bookshelf,2,137.31,15,Debit Card,233.43
+ORD1680,2025-11-28,2025-11,Kasun Nguyen,North,Electronics,Headphones,1,114.73,0,Debit Card,114.73
+ORD2153,2025-11-28,2025-11,Kasun Smith,South,Apparel,Jacket,2,133.97,0,Cash,267.94
+ORD1324,2025-11-29,2025-11,Priya Khan,North,Furniture,Bookshelf,2,143.67,15,Credit Card,244.24
+ORD1541,2025-11-29,2025-11,Kasun Perera,West,Apparel,Jacket,2,120.85,5,Cash,229.61
+ORD1824,2025-11-29,2025-11,Lucas Smith,East,Electronics,Laptop,3,812.97,20,Cash,1951.13
+ORD2002,2025-11-29,2025-11,Ethan Khan,West,Furniture,Standing Desk,3,424.82,10,Bank Transfer,1147.01
+ORD2098,2025-11-29,2025-11,Noah Kumar,East,Stationery,Printer Paper,6,24.56,5,Cash,139.99
+ORD2178,2025-11-29,2025-11,Unknown,South,Apparel,T-Shirt,5,21.39,0,Unknown,106.95
+ORD2369,2025-11-29,2025-11,Olivia Lopez,West,Stationery,Printer Paper,1,25.66,20,Cash,20.53
+ORD2431,2025-11-29,2025-11,Olivia Johnson,South,Stationery,Pen Set,3,7.93,5,PayPal,22.6
+ORD1388,2025-11-30,2025-11,Arjun Wong,North,Electronics,Smartphone,1,584.17,10,Debit Card,525.75
+ORD2188,2025-11-30,2025-11,Sofia Silva,West,Apparel,T-Shirt,5,20.44,0,Debit Card,102.2
+ORD1639,2025-12-01,2025-12,Unknown,West,Stationery,Notebook Pack,2,12.135,15,Debit Card,20.63
+ORD1826,2025-12-01,2025-12,Noah Wong,East,Apparel,Running Shoes,6,89.39,10,PayPal,482.71
+ORD2048,2025-12-01,2025-12,Mia Perera,South,Electronics,Laptop,8,861.49,5,Credit Card,6547.32
+ORD2410,2025-12-01,2025-12,Olivia Smith,East,Apparel,Jacket,3,129.3,0,PayPal,387.9
+ORD1529,2025-12-02,2025-12,Olivia Ali,South,Furniture,Standing Desk,10,395.57,5,Debit Card,3757.91
+ORD1806,2025-12-02,2025-12,Arjun Smith,East,Apparel,Jacket,10,129.04,0,Bank Transfer,1290.4
+ORD2000,2025-12-02,2025-12,Aisha Smith,West,Stationery,Pen Set,2,8.21,15,Cash,13.96
+ORD2146,2025-12-02,2025-12,Ethan Brown,South,Furniture,Standing Desk,2,401.78,5,Bank Transfer,763.38
+ORD2427,2025-12-02,2025-12,Chen Brown,West,Electronics,Headphones,1,117.92,0,Bank Transfer,117.92
+ORD1162,2025-12-03,2025-12,Ravi Silva,North,Electronics,Laptop,3,861.47,15,Debit Card,2196.75
+ORD1274,2025-12-03,2025-12,Olivia Garcia,Unknown,Furniture,Standing Desk,2,440.35,0,Bank Transfer,880.7
+ORD1565,2025-12-03,2025-12,Kasun Smith,North,Apparel,Jacket,2,122.64,0,Debit Card,245.28
+ORD1583,2025-12-03,2025-12,Ethan Lopez,East,Electronics,Laptop,1,817.33,10,Bank Transfer,735.6
+ORD1757,2025-12-03,2025-12,Lucas Wong,West,Stationery,Notebook Pack,1,12.02,0,PayPal,12.02
+ORD1966,2025-12-03,2025-12,Kasun Wong,West,Furniture,Bookshelf,6,140.88,0,Cash,845.28
+ORD2326,2025-12-03,2025-12,Zara Nguyen,West,Stationery,Pen Set,6,8.33,5,Cash,47.48
+ORD2394,2025-12-03,2025-12,Ravi Perera,South,Stationery,Printer Paper,2,24.61,5,Credit Card,46.76
+ORD2444,2025-12-03,2025-12,Ravi Fernando,East,Apparel,T-Shirt,5,21.23,0,PayPal,106.15
+ORD1172,2025-12-04,2025-12,Chen Lopez,South,Apparel,Running Shoes,6,88.09,0,Credit Card,528.54
+ORD1194,2025-12-04,2025-12,Ethan Patel,North,Electronics,Laptop,1,844.44,20,Unknown,675.55
+ORD1224,2025-12-04,2025-12,Sofia Brown,North,Electronics,Laptop,1,839.95,15,Credit Card,713.96
+ORD1488,2025-12-04,2025-12,Olivia Ali,West,Furniture,Standing Desk,3,393.56,5,PayPal,1121.65
+ORD1808,2025-12-04,2025-12,Sofia Ali,South,Apparel,Running Shoes,1,98.89,0,Bank Transfer,98.89
+ORD2001,2025-12-04,2025-12,Mia Lopez,Unknown,Apparel,Jacket,4,136.17,0,Credit Card,544.68
+ORD2040,2025-12-04,2025-12,Olivia Fernando,South,Apparel,Running Shoes,1,91.18,0,Debit Card,91.18
+ORD1713,2025-12-05,2025-12,Emma Johnson,North,Electronics,Laptop,1,881.48,0,Credit Card,881.48
+ORD2138,2025-12-05,2025-12,Ravi Ali,South,Furniture,Office Chair,1,166.25,0,Debit Card,166.25
+ORD2312,2025-12-05,2025-12,Chen Brown,East,Furniture,Standing Desk,1,417.76,5,Unknown,396.87
+ORD2323,2025-12-05,2025-12,Arjun Khan,South,Electronics,Laptop,2,787.48,5,Cash,1496.21
+ORD1130,2025-12-06,2025-12,Unknown,East,Furniture,Standing Desk,1,436.84,10,PayPal,393.16
+ORD1176,2025-12-06,2025-12,Olivia Brown,North,Stationery,Notebook Pack,2,11.84,0,Debit Card,23.68
+ORD1684,2025-12-06,2025-12,Mia Wong,East,Stationery,Printer Paper,1,24.83,0,Cash,24.83
+ORD1728,2025-12-06,2025-12,Kasun Garcia,East,Electronics,Headphones,1,111.04,0,PayPal,111.04
+ORD1738,2025-12-06,2025-12,Ethan Fernando,North,Furniture,Bookshelf,5,129.2,20,Credit Card,516.8
+ORD1781,2025-12-06,2025-12,Lucas Garcia,East,Furniture,Office Chair,4,167.65,0,Cash,670.6
+ORD1819,2025-12-06,2025-12,Arjun Lopez,South,Electronics,Laptop,3,800.93,0,Bank Transfer,2402.79
+ORD1911,2025-12-06,2025-12,Mia Lopez,East,Electronics,Laptop,4,846.44,0,PayPal,3385.76
+ORD2114,2025-12-06,2025-12,Kasun Brown,South,Furniture,Office Chair,3,191.21,5,Debit Card,544.95
+ORD1083,2025-12-07,2025-12,Ethan Johnson,South,Stationery,Notebook Pack,2,12.9,20,Bank Transfer,20.64
+ORD1235,2025-12-07,2025-12,Zara Lopez,North,Furniture,Bookshelf,2,131.81,0,PayPal,263.62
+ORD2094,2025-12-07,2025-12,Lucas Kumar,East,Apparel,T-Shirt,5,21.83,0,PayPal,109.15
+ORD2266,2025-12-07,2025-12,Sofia Silva,South,Apparel,Jacket,3,130.67,0,PayPal,392.01
+ORD1189,2025-12-08,2025-12,Aisha Kumar,West,Furniture,Standing Desk,2,426.04,0,Credit Card,852.08
+ORD1400,2025-12-08,2025-12,Emma Brown,Unknown,Electronics,Laptop,10,883.95,0,Debit Card,8839.5
+ORD1301,2025-12-09,2025-12,Noah Wong,East,Apparel,Jacket,1,120.15,0,Credit Card,120.15
+ORD1723,2025-12-09,2025-12,Chen Fernando,North,Apparel,Running Shoes,3,89.32,5,Bank Transfer,254.56
+ORD1034,2025-12-10,2025-12,Mia Brown,West,Stationery,Notebook Pack,1,11.1,5,Credit Card,10.54
+ORD1277,2025-12-10,2025-12,Noah Johnson,West,Electronics,Headphones,4,119.08,0,Bank Transfer,476.32
+ORD2116,2025-12-10,2025-12,Olivia Fernando,North,Furniture,Standing Desk,4,404.61,0,Credit Card,1618.44
+ORD2358,2025-12-10,2025-12,Arjun Patel,West,Apparel,T-Shirt,4,22.33,5,Cash,84.85
+ORD2386,2025-12-10,2025-12,Liam Perera,East,Apparel,Running Shoes,1,95.61,15,Bank Transfer,81.27
+ORD1088,2025-12-11,2025-12,Sofia Khan,South,Furniture,Office Chair,10,169.63,5,Debit Card,1611.48
+ORD1356,2025-12-11,2025-12,Chen Patel,North,Apparel,Jacket,4,124.57,0,Credit Card,498.28
+ORD1410,2025-12-11,2025-12,Sofia Ali,North,Stationery,Pen Set,1,8.52,0,PayPal,8.52
+ORD1424,2025-12-11,2025-12,Lucas Khan,East,Apparel,Running Shoes,1,97.96,15,Debit Card,83.27
+ORD1487,2025-12-11,2025-12,Chen Fernando,East,Stationery,Notebook Pack,1,12.31,0,Debit Card,12.31
+ORD1509,2025-12-11,2025-12,Sofia Nguyen,North,Electronics,Headphones,2,115.33,0,Bank Transfer,230.66
+ORD2445,2025-12-11,2025-12,Mia Kumar,West,Stationery,Notebook Pack,2,12.28,0,Debit Card,24.56
+ORD1245,2025-12-12,2025-12,Noah Patel,West,Electronics,Laptop,3,853.14,0,PayPal,2559.42
+ORD1395,2025-12-12,2025-12,Unknown,West,Apparel,Running Shoes,3,101.57,0,PayPal,304.71
+ORD2088,2025-12-12,2025-12,Liam Smith,West,Stationery,Pen Set,2,8.39,0,Credit Card,16.78
+ORD1376,2025-12-13,2025-12,Priya Nguyen,West,Furniture,Bookshelf,3,130.75,0,Debit Card,392.25
+ORD1683,2025-12-13,2025-12,Ethan Nguyen,North,Furniture,Standing Desk,2,433.97,5,Credit Card,824.54
+ORD1197,2025-12-14,2025-12,Olivia Johnson,North,Furniture,Standing Desk,1,396.61,0,Credit Card,396.61
+ORD1248,2025-12-14,2025-12,Chen Wong,West,Apparel,Jacket,2,135.15,5,Credit Card,256.79
+ORD1285,2025-12-14,2025-12,Ravi Brown,East,Furniture,Bookshelf,1,148.92,0,PayPal,148.92
+ORD1319,2025-12-14,2025-12,Kasun Perera,South,Stationery,Printer Paper,2,24.53,5,Bank Transfer,46.61
+ORD1322,2025-12-14,2025-12,Ravi Garcia,East,Electronics,Headphones,2,115.94,0,PayPal,231.88
+ORD1495,2025-12-14,2025-12,Olivia Garcia,North,Stationery,Pen Set,3,7.83,0,PayPal,23.49
+ORD1898,2025-12-14,2025-12,Nimali Nguyen,South,Furniture,Bookshelf,3,129.02,0,Credit Card,387.06
+ORD2143,2025-12-14,2025-12,Lucas Wong,North,Stationery,Notebook Pack,3,12.24,15,Credit Card,31.21
+ORD1336,2025-12-15,2025-12,Mia Fernando,South,Stationery,Pen Set,3,8.76,10,Debit Card,23.65
+ORD2108,2025-12-15,2025-12,Lucas Patel,East,Furniture,Office Chair,1,187.68,5,PayPal,178.3
+ORD2228,2025-12-15,2025-12,Unknown,North,Stationery,Printer Paper,1,26.09,0,Bank Transfer,26.09
+ORD1656,2025-12-16,2025-12,Zara Khan,South,Electronics,Smartphone,3,569.71,0,Bank Transfer,1709.13
+ORD1454,2025-12-17,2025-12,Noah Johnson,North,Furniture,Standing Desk,3,447.71,0,Credit Card,1343.13
+ORD1993,2025-12-17,2025-12,Mia Fernando,North,Furniture,Office Chair,5,165.93,10,Credit Card,746.68
+ORD2013,2025-12-17,2025-12,Nimali Lopez,South,Stationery,Printer Paper,2,26.92,0,Cash,53.84
+ORD2182,2025-12-17,2025-12,Olivia Garcia,South,Electronics,Smartphone,2,635.01,0,Credit Card,1270.02
+ORD2276,2025-12-17,2025-12,Mia Smith,East,Furniture,Standing Desk,1,417.76,0,Debit Card,417.76
+ORD1232,2025-12-18,2025-12,Chen Smith,North,Electronics,Headphones,1,112.6,5,Credit Card,106.97
+ORD1401,2025-12-18,2025-12,Sofia Ali,North,Stationery,Notebook Pack,4,11.09,0,Cash,44.36
+ORD1635,2025-12-18,2025-12,Arjun Fernando,West,Apparel,Jacket,4,120.33,10,Debit Card,433.19
+ORD1716,2025-12-18,2025-12,Aisha Patel,West,Apparel,T-Shirt,5,21.86,0,Credit Card,109.3
+ORD1942,2025-12-18,2025-12,Lucas Kumar,North,Electronics,Smartphone,3,582.88,10,Unknown,1573.78
+ORD2064,2025-12-18,2025-12,Lucas Garcia,West,Electronics,Smartphone,13,606.8,15,Bank Transfer,6705.14
+ORD1626,2025-12-19,2025-12,Sofia Fernando,South,Furniture,Standing Desk,3,426.07,5,Credit Card,1214.3
+ORD2170,2025-12-19,2025-12,Mia Brown,North,Apparel,Jacket,2,137.23,0,PayPal,274.46
+ORD1065,2025-12-20,2025-12,Olivia Wong,North,Electronics,Smartphone,6,612.78,0,Cash,3676.68
+ORD1212,2025-12-20,2025-12,Mia Khan,Unknown,Electronics,Laptop,3,796.58,0,PayPal,2389.74
+ORD1767,2025-12-20,2025-12,Sofia Khan,North,Electronics,Laptop,1,828.09,10,Cash,745.28
+ORD2329,2025-12-20,2025-12,Nimali Garcia,West,Electronics,Smartphone,5,641.32,0,Bank Transfer,3206.6
+ORD1180,2025-12-21,2025-12,Unknown,North,Apparel,Running Shoes,1,94.25,0,Cash,94.25
+ORD1458,2025-12-21,2025-12,Chen Patel,North,Furniture,Office Chair,1,190.21,0,Credit Card,190.21
+ORD1490,2025-12-21,2025-12,Zara Wong,North,Stationery,Printer Paper,2,26.48,10,Credit Card,47.66
+ORD1756,2025-12-21,2025-12,Kasun Ali,South,Electronics,Headphones,3,121.76,10,Credit Card,328.75
+ORD1758,2025-12-21,2025-12,Arjun Patel,West,Apparel,Running Shoes,2,94.81,5,Cash,180.14
+ORD2051,2025-12-21,2025-12,Kasun Brown,East,Apparel,Jacket,3,124.77,10,Credit Card,336.88
+ORD2155,2025-12-21,2025-12,Lucas Patel,South,Stationery,Notebook Pack,3,12.19,0,Credit Card,36.57
+ORD1184,2025-12-22,2025-12,Sofia Perera,North,Electronics,Headphones,5,120.39,15,Cash,511.66
+ORD1511,2025-12-22,2025-12,Olivia Wong,West,Furniture,Bookshelf,2,142.47,10,PayPal,256.45
+ORD1706,2025-12-22,2025-12,Mia Patel,South,Furniture,Office Chair,1,178.28,5,Credit Card,169.37
+ORD1923,2025-12-22,2025-12,Unknown,East,Apparel,Running Shoes,3,91.08,5,PayPal,259.58
+ORD2054,2025-12-22,2025-12,Priya Garcia,West,Electronics,Smartphone,1,594.62,0,Bank Transfer,594.62
+ORD2303,2025-12-22,2025-12,Emma Ali,South,Stationery,Notebook Pack,2,11.63,5,Credit Card,22.1
+ORD1082,2025-12-23,2025-12,Sofia Wong,South,Stationery,Notebook Pack,2,11.07,15,Debit Card,18.82
+ORD1210,2025-12-23,2025-12,Zara Nguyen,South,Apparel,Jacket,4,120.36,0,PayPal,481.44
+ORD1428,2025-12-23,2025-12,Zara Silva,South,Furniture,Bookshelf,4,141.34,0,Cash,565.36
+ORD1732,2025-12-23,2025-12,Liam Lopez,South,Electronics,Headphones,3,112.53,0,Credit Card,337.59
+ORD1769,2025-12-23,2025-12,Sofia Ali,North,Stationery,Printer Paper,8,24.59,0,PayPal,196.72
+ORD1930,2025-12-23,2025-12,Unknown,North,Stationery,Pen Set,1,9.11,20,Debit Card,7.29
+ORD2034,2025-12-23,2025-12,Olivia Silva,West,Apparel,Running Shoes,2,88.81,10,Cash,159.86
+ORD2055,2025-12-23,2025-12,Nimali Nguyen,North,Furniture,Office Chair,2,180.08,0,Credit Card,360.16
+ORD2327,2025-12-23,2025-12,Chen Nguyen,North,Electronics,Laptop,1,839.95,10,Cash,755.96
+ORD1006,2025-12-24,2025-12,Zara Garcia,East,Electronics,Headphones,2,116.24,5,Debit Card,220.86
+ORD1845,2025-12-24,2025-12,Zara Khan,West,Electronics,Laptop,1,783.95,10,PayPal,705.56
+ORD1982,2025-12-24,2025-12,Arjun Fernando,North,Stationery,Printer Paper,4,26.04,0,PayPal,104.16
+ORD1371,2025-12-25,2025-12,Emma Khan,Unknown,Apparel,Running Shoes,5,90.81,0,PayPal,454.05
+ORD1542,2025-12-25,2025-12,Arjun Silva,Unknown,Apparel,T-Shirt,8,20.86,5,Bank Transfer,158.54
+ORD1889,2025-12-25,2025-12,Mia Garcia,West,Stationery,Notebook Pack,3,11.61,0,Cash,34.83
+ORD2163,2025-12-25,2025-12,Lucas Silva,North,Electronics,Headphones,2,111.4,0,Bank Transfer,222.8
+ORD2359,2025-12-25,2025-12,Mia Kumar,North,Apparel,Jacket,4,131.57,0,Bank Transfer,526.28
+ORD1957,2025-12-26,2025-12,Priya Perera,East,Apparel,Running Shoes,1,92.77,15,Debit Card,78.85
+ORD2374,2025-12-26,2025-12,Kasun Perera,West,Furniture,Standing Desk,4,406.11,5,Bank Transfer,1543.22
+ORD2434,2025-12-26,2025-12,Ravi Brown,West,Electronics,Headphones,3,111.95,15,Cash,285.47
+ORD1252,2025-12-27,2025-12,Arjun Wong,East,Stationery,Printer Paper,2,23.56,10,Credit Card,42.41
+ORD1504,2025-12-27,2025-12,Nimali Khan,East,Electronics,Laptop,4,892.57,10,Bank Transfer,3213.25
+ORD1616,2025-12-27,2025-12,Mia Nguyen,South,Electronics,Laptop,1,798.52,0,Bank Transfer,798.52
+ORD1621,2025-12-27,2025-12,Olivia Kumar,North,Apparel,Running Shoes,5,97.37,0,Credit Card,486.85
+ORD1772,2025-12-27,2025-12,Mia Kumar,South,Apparel,Jacket,4,140.25,0,Debit Card,561.0
+ORD1865,2025-12-27,2025-12,Unknown,East,Electronics,Laptop,3,852.74,0,Bank Transfer,2558.22
+ORD2297,2025-12-27,2025-12,Sofia Wong,North,Furniture,Bookshelf,3,137.83,10,Credit Card,372.14
+ORD2338,2025-12-27,2025-12,Unknown,West,Apparel,Jacket,2,134.1,0,Debit Card,268.2
+ORD2014,2025-12-28,2025-12,Olivia Silva,South,Apparel,T-Shirt,2,20.87,20,Bank Transfer,33.39
+ORD2396,2025-12-28,2025-12,Ravi Silva,North,Electronics,Headphones,3,112.86,5,PayPal,321.65
+ORD1079,2025-12-29,2025-12,Unknown,South,Electronics,Laptop,3,880.25,0,Unknown,2640.75
+ORD1276,2025-12-29,2025-12,Noah Patel,West,Apparel,Running Shoes,8,92.66,0,Cash,741.28
+ORD1447,2025-12-29,2025-12,Olivia Perera,South,Electronics,Smartphone,1,554.94,0,Unknown,554.94
+ORD2038,2025-12-29,2025-12,Ethan Ali,South,Stationery,Printer Paper,1,25.86,0,PayPal,25.86
+ORD2262,2025-12-30,2025-12,Olivia Khan,South,Stationery,Pen Set,5,8.91,0,PayPal,44.55
+ORD1530,2025-12-31,2025-12,Lucas Lopez,South,Electronics,Headphones,2,118.62,10,PayPal,213.52
+ORD1585,2025-12-31,2025-12,Priya Smith,Unknown,Electronics,Headphones,1,115.03,20,Debit Card,92.02
